@@ -55,8 +55,8 @@ app.get('/totalreport/country/:quotesId', (req, res) => {
                 cases,
                 deaths,
                 doses,
-                peopleFullyVaccinated,
-                totalStats
+                peopleFullyVaccinated
+             //   totalStats
             })
 
             res.json(specificArticles)
@@ -740,8 +740,8 @@ app.get('/totalreport/alphacode/:quotesId', (req, res) => {
                 cases,
                 deaths,
                 doses,
-                peopleFullyVaccinated,
-                totalStats
+                peopleFullyVaccinated
+            //    totalStats
             })
 
             res.json(specificArticles)
@@ -1070,8 +1070,8 @@ app.get('/totalreport/numericcode/:quotesId', (req, res) => {
                 cases,
                 deaths,
                 doses,
-                peopleFullyVaccinated,
-                totalStats
+                peopleFullyVaccinated
+            //    totalStats
             })
 
             res.json(specificArticles)
