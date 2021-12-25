@@ -1,0 +1,2195 @@
+[
+
+{
+  "name" : "Afghanistan",
+  "vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jdd&gl=US&ceid=US%3Aen&state=5",
+  "casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jdd&gl=US&ceid=US%3Aen&state=1",
+  "base": "https://news.google.com",
+  "tag": "Cases, Deaths, Doses, News, Vaccinated",
+  "Alpha3Code": "AFG",
+  "NumericCode": "004"
+
+},
+{
+"name" : "Albania",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jdx&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jdx&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ALB",
+"NumericCode": "008"
+
+},
+{
+"name" : "Algeria",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h3y&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h3y&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "DZA",
+"NumericCode": "012"
+
+},
+{
+"name" : "American Samoa",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h8d&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h8d&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ASM",
+"NumericCode": "016"
+
+},
+{
+"name" : "Andorra",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0hg5&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0hg5&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "AND",
+"NumericCode": "020"
+
+},
+{
+"name" : "Angola",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j4b&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j4b&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "AGO",
+"NumericCode": "024"
+
+},
+{
+"name" : "Anguila",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0n3g&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0n3g&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "AIA",
+"NumericCode": "660"
+
+},
+{
+"name" : "Antigua and Barbuda",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0l3h&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0l3h&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ATG",
+"NumericCode": "028"
+
+},
+{
+"name" : "Argentina",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jgd&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jgd&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ARG",
+"NumericCode": "032"
+
+},
+{
+"name" : "Armenia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jgx&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jgx&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ARM",
+"NumericCode": "051"
+
+},
+{
+"name" : "Aruba",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j11&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j11&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ABW",
+"NumericCode": "533"
+
+},
+{
+"name" : "Australia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0chghy&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0chghy&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "AUS",
+"NumericCode": "036"
+
+},
+{
+"name" : "Austria",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h7x&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h7x&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "AUT",
+"NumericCode": "040"
+
+},
+{
+"name" : "Azerbaijan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jhd&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jhd&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "AZE",
+"NumericCode": "031"
+
+},
+{
+"name" : "The Bahamas",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0160w&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0160w&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BHS",
+"NumericCode": "044"
+
+},
+{
+"name" : "Bahrain",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0161c&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0161c&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BHR",
+"NumericCode": "048"
+
+},
+{
+"name" : "Bangladesh",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0162b&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0162b&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BGD",
+"NumericCode": "050"
+
+},
+{
+"name" : "Barbados",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0162v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0162v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BRB",
+"NumericCode": "052"
+
+},
+{
+"name" : "Belarus",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0163v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0163v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BLR",
+"NumericCode": "112"
+
+},
+{
+"name" : "Belgium",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0154j&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0154j&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BEL",
+"NumericCode": "056"
+
+},
+{
+"name" : "Belgium-Luxembourg",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04g61&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04g61&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BLX",
+"NumericCode": "058"
+
+},
+{
+"name" : "Belize",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0164b&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0164b&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BLZ",
+"NumericCode": "084"
+
+},
+{
+"name" : "Benin",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0164v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0164v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BEN",
+"NumericCode": "204"
+
+},
+{
+"name" : "Bermuda",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0165b&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0165b&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BMU",
+"NumericCode": "060"
+
+},
+{
+"name" : "Bhutan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07bxhl&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07bxhl&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BTN",
+"NumericCode": "064"
+
+},
+{
+"name" : "Bolivia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0165v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0165v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BOL",
+"NumericCode": "068"
+
+},
+{
+"name" : "Bosnia and Herzegovina",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0166b&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0166b&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BIH",
+"NumericCode": "070"
+
+},
+{
+"name" : "Botswana",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0166v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0166v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BWA",
+"NumericCode": "072"
+
+},
+{
+"name" : "Brazil",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F015fr&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F015fr&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BRA",
+"NumericCode": "076"
+
+},
+{
+"name" : "British Virgin Islands",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0168t&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0168t&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "VGB",
+"NumericCode": "092"
+
+},
+{
+"name" : "Brunei",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0167v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0167v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BRN",
+"NumericCode": "096"
+
+},
+{
+"name" : "Bulgaria",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F015qh&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F015qh&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BGR",
+"NumericCode": "100"
+
+},
+{
+"name" : "Burkina Faso",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01699&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01699&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BFA",
+"NumericCode": "854"
+
+},
+{
+"name" : "Burundi",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0169t&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0169t&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "BDI",
+"NumericCode": "108"
+
+},
+{
+"name" : "Cambodia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01xbgx&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01xbgx&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "KHM",
+"NumericCode": "116"
+
+},
+{
+"name" : "Cameroon",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01nln&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01nln&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CMR",
+"NumericCode": "120"
+
+},
+{
+"name" : "Canada",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d060g&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d060g&gl=US&ceid=US%3Aen&state=5",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CAN",
+"NumericCode": "124"
+
+},
+{
+"name" : "Cape Verde",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01nqj&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01nqj&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CPV",
+"NumericCode": "132"
+
+},
+{
+"name" : "Cayman Islands",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01nty&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01nty&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CYM",
+"NumericCode": "136"
+
+},
+{
+"name" : "Central African Republic",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01nyl&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01nyl&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CAF",
+"NumericCode": "140"
+
+},
+{
+"name" : "Chad",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01p1b&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01p1b&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TCD",
+"NumericCode": "148"
+
+},
+{
+"name" : "Chile",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01p1v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01p1v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CHL",
+"NumericCode": "152"
+
+},
+{
+"name" : "China",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0fbp0&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0fbp0&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CHN",
+"NumericCode": "156"
+
+},
+{
+"name" : "Colombia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01ls2&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01ls2&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "COL",
+"NumericCode": "170"
+
+},
+{
+"name" : "Comoros",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01n6c&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "hhttps://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01n6c&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "COM",
+"NumericCode": "174"
+
+},
+{
+"name" : "Congo, Dem. Rep.",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F088xp&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F088xp&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ZAR",
+"NumericCode": "180"
+
+},
+{
+"name" : "Congo, Rep.",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01rxw&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01rxw&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "COG",
+"NumericCode": "178"
+
+},
+{
+"name" : "Costa Rica",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01p8s&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01p8s&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CRI",
+"NumericCode": "188"
+
+},
+{
+"name" : "Côte d'Ivoire",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0fv4v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0fv4v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CIV",
+"NumericCode": "384"
+
+},
+{
+"name" : "Croatia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01pj7&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01pj7&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "HRV",
+"NumericCode": "191"
+
+},
+{
+"name" : "Cuba",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d04z6&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d04z6&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CUB",
+"NumericCode": "192"
+
+},
+{
+"name" : "Curaçao",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0hbgh&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0hbgh&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CUW",
+"NumericCode": "531"
+
+},
+{
+"name" : "Cyprus",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01ppq&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01ppq&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CYP",
+"NumericCode": "196"
+
+},
+{
+"name" : "Czechia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01mjq&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01mjq&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CZE",
+"NumericCode": "203"
+
+},
+{
+"name" : "Denmark",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fg%2F121p5z1h&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fg%2F121p5z1h&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "DNK",
+"NumericCode": "208"
+
+},
+{
+"name" : "Djibouti",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F027jk&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F027jk&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "DJI",
+"NumericCode": "262"
+
+},
+{
+"name" : "Dominica",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F027nb&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F027nb&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "DMA",
+"NumericCode": "212"
+
+},
+{
+"name" : "Dominican Republic",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F027rn&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F027rn&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "DOM",
+"NumericCode": "214"
+
+},
+{
+"name" : "Timor-Leste",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02lx0&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02lx0&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TMP",
+"NumericCode": "626"
+
+},
+{
+"name" : "Ecuador",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02k1b&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02k1b&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ECU",
+"NumericCode": "218"
+
+},
+{
+"name" : "Egypt",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02k54&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02k54&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "EGY",
+"NumericCode": "818"
+
+},
+{
+"name" : "El Salvador",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02k8k&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02k8k&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SLV",
+"NumericCode": "222"
+
+},
+{
+"name" : "Equatorial Guinea",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02kcz&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02kcz&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GNQ",
+"NumericCode": "226"
+
+},
+{
+"name" : "Eritrea",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02khs&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02khs&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ERI",
+"NumericCode": "232"
+
+},
+{
+"name" : "Estonia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02kmm&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02kmm&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "EST",
+"NumericCode": "233"
+
+},
+{
+"name" : "Ethiopia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F019pcs&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F019pcs&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ETH",
+"NumericCode": "231"
+
+},
+{
+"name" : "Faeroe Islands",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02w9s&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02w9s&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "FRO",
+"NumericCode": "234"
+
+},
+{
+"name" : "Falkland Islands (Islas Malvinas)",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02wmy&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02wmy&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "FLK",
+"NumericCode": "238"
+
+},
+{
+"name" : "Fiji",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02wt0&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02wt0&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "FJI",
+"NumericCode": "242"
+
+},
+{
+"name" : "Finland",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02vzc&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02vzc&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "FIN",
+"NumericCode": "246"
+
+},
+{
+"name" : "France",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0f8l9c&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0f8l9c&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "FRA",
+"NumericCode": "250"
+
+},
+{
+"name" : "French Guiana",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02x21&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02x21&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GUF",
+"NumericCode": "254"
+
+},
+{
+"name" : "French Polynesia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02wzv&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02wzv&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PYF",
+"NumericCode": "258"
+
+},
+{
+"name" : "Gabon",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03548&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03548&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GAB",
+"NumericCode": "266"
+
+},
+{
+"name" : "The Gambia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0hdx8&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0hdx8&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GMB",
+"NumericCode": "270"
+
+},
+{
+"name" : "Gaza Strip",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0357_&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0357_&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GAZ",
+"NumericCode": "274"
+
+},
+{
+"name" : "Georgia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d0kn&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d0kn&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GEO",
+"NumericCode": "268"
+
+},
+{
+"name" : "Germany",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0345h&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0345h&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "DEU",
+"NumericCode": "276"
+
+},
+{
+"name" : "Ghana",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035dk&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035dk&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GHA",
+"NumericCode": "288"
+
+},
+{
+"name" : "Gibraltar",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035hm&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035hm&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GIB",
+"NumericCode": "292"
+
+},
+{
+"name" : "Greece",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035qy&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035qy&gl=US&ceid=US%3Aen&state=5",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GRC",
+"NumericCode": "300"
+
+},
+{
+"name" : "Greenland",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035v3&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035v3&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GRL",
+"NumericCode": "304"
+
+},
+{
+"name" : "Grenada",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035yg&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035yg&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GRD",
+"NumericCode": "308"
+
+},
+{
+"name" : "Guadeloupe",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F037nm&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F037nm&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GLP",
+"NumericCode": "312"
+
+},
+{
+"name" : "Guam",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F034tl&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F034tl&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GUM",
+"NumericCode": "316"
+
+},
+{
+"name" : "Guatemala",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0345_&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0345_&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GTM",
+"NumericCode": "320"
+
+},
+{
+"name" : "Guinea",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03676&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03676&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GIN",
+"NumericCode": "324"
+
+},
+{
+"name" : "Guinea-Bissau",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F036b_&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F036b_&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GNB",
+"NumericCode": "624"
+
+},
+{
+"name" : "Guyana",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F034m8&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F034m8&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GUY",
+"NumericCode": "328"
+
+},
+{
+"name" : "Haiti",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03gyl&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03gyl&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "HTI",
+"NumericCode": "332"
+
+},
+{
+"name" : "Vatican City",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07ytt&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07ytt&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "VAT",
+"NumericCode": "336"
+
+},
+{
+"name" : "Honduras",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03h2c&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03h2c&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "HND",
+"NumericCode": "340"
+
+},
+{
+"name" : "Hong Kong",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03h64&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03h64&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "HKG",
+"NumericCode": "344"
+
+},
+{
+"name" : "Hungary",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03gj2&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03gj2&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "HUN",
+"NumericCode": "348"
+
+},
+{
+"name" : "Iceland",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03rj0&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03rj0&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ISL",
+"NumericCode": "352"
+
+},
+{
+"name" : "India",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03rk0&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03rk0&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "IND",
+"NumericCode": "356"
+
+},
+{
+"name" : "Indonesia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03ryn&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03ryn&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "IDN",
+"NumericCode": "360"
+
+},
+{
+"name" : "Iran",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03shp&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03shp&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "IRN",
+"NumericCode": "364"
+
+},
+{
+"name" : "Iraq",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d05q4&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d05q4&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "IRQ",
+"NumericCode": "368"
+
+},
+{
+"name" : "Ireland",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03rt9&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03rt9&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "IRL",
+"NumericCode": "372"
+
+},
+{
+"name" : "Israel",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03spz&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03spz&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ISR",
+"NumericCode": "376"
+
+},
+{
+"name" : "Italy",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03rjj&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03rjj&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ITA",
+"NumericCode": "380"
+
+},
+{
+"name" : "Jamaica",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03_r3&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03_r3&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "JAM",
+"NumericCode": "388"
+
+},
+{
+"name" : "Japan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03_3d&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03_3d&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "JPN",
+"NumericCode": "392"
+
+},
+{
+"name" : "Jordan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03__y&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F03__y&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "JOR",
+"NumericCode": "400"
+
+},
+{
+"name" : "Kazakhstan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F047lj&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F047lj&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "KAZ",
+"NumericCode": "398"
+
+},
+{
+"name" : "Kenya",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F019rg5&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F019rg5&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "KEN",
+"NumericCode": "404"
+
+},
+{
+"name" : "South Korea",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06qd3&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06qd3&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PRK",
+"NumericCode": "408"
+
+},
+
+{
+"name" : "Kuwait",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F047yc&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F047yc&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "KWT",
+"NumericCode": "414"
+
+},
+{
+"name" : "Kyrgyzstan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jt3tjf&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jt3tjf&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "KGZ",
+"NumericCode": "417"
+
+},
+{
+"name" : "Laos",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04hhv&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04hhv&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LAO",
+"NumericCode": "418"
+
+},
+{
+"name" : "Latvia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04g5k&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04g5k&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LVA",
+"NumericCode": "428"
+
+},
+{
+"name" : "Lebanon",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04hqz&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04hqz&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LBN",
+"NumericCode": "422"
+
+},
+{
+"name" : "Lesotho",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04hvw&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04hvw&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LSO",
+"NumericCode": "426"
+
+},
+{
+"name" : "Liberia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04hzj&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04hzj&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LBR",
+"NumericCode": "430"
+
+},
+{
+"name" : "Libya",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04gqr&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04gqr&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LBY",
+"NumericCode": "434"
+
+},
+{
+"name" : "Liechtenstein",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04j53&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04j53&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LIE",
+"NumericCode": "438"
+
+},
+{
+"name" : "Lithuania",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04gzd&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04gzd&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LTU",
+"NumericCode": "440"
+
+},
+{
+"name" : "Luxembourg",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04g61&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04g61&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LUX",
+"NumericCode": "442"
+
+},
+{
+"name" : "Macao",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04thp&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04thp&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MAC",
+"NumericCode": "446"
+
+},
+{
+"name" : "North Macedonia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0bjv6&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0bjv6&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MKD",
+"NumericCode": "807"
+
+},
+{
+"name" : "Madagascar",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04sj3&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04sj3&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MDG",
+"NumericCode": "450"
+
+},
+{
+"name" : "Malawi",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04tr1&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04tr1&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MWI",
+"NumericCode": "454"
+
+},
+{
+"name" : "Malaysia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F09pmkv&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F09pmkv&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MYS",
+"NumericCode": "458"
+
+},
+{
+"name" : "Maldives",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04ty8&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04ty8&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MDV",
+"NumericCode": "462"
+
+},
+{
+"name" : "Mali",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04v09&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04v09&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MLI",
+"NumericCode": "466"
+
+},
+{
+"name" : "Malta",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04v3q&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04v3q&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MLT",
+"NumericCode": "470"
+
+},
+{
+"name" : "Martinique",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04vg8&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04vg8&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MTQ",
+"NumericCode": "474"
+
+},
+{
+"name" : "Mauritania",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04vjh&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04vjh&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MRT",
+"NumericCode": "478"
+
+},
+{
+"name" : "Mauritius",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04vs9&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04vs9&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MUS",
+"NumericCode": "480"
+
+},
+{
+"name" : "Mexico",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0b90_r&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0b90_r&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MEX",
+"NumericCode": "484"
+
+},
+{
+"name" : "Moldova",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04w4s&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04w4s&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MDA",
+"NumericCode": "498"
+
+},
+{
+"name" : "Monaco",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04w58&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04w58&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MCO",
+"NumericCode": "492"
+
+},
+{
+"name" : "Mongolia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04w8f&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04w8f&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MNG",
+"NumericCode": "496"
+
+},
+{
+"name" : "Montenegro",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F056vv&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F056vv&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MNE",
+"NumericCode": "499"
+
+},
+
+{
+"name" : "Montserrat",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04wcf&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04wcf&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MSR",
+"NumericCode": "500"
+
+},
+{
+"name" : "Morocco",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04wgh&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04wgh&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MAR",
+"NumericCode": "504"
+
+},
+{
+"name" : "Mozambique",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04wlh&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04wlh&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MOZ",
+"NumericCode": "508"
+
+},
+{
+"name" : "Myanmar (Burma)",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04xn_&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F04xn_&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MMR",
+"NumericCode": "104"
+
+},
+{
+"name" : "Namibia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05bmq&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05bmq&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NAM",
+"NumericCode": "516"
+
+},
+{
+"name" : "Nepal",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F016zwt&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F016zwt&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NPL",
+"NumericCode": "524"
+
+},
+{
+"name" : "Netherlands",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F059j2&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F059j2&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NLD",
+"NumericCode": "528"
+
+},
+{
+"name" : "New Caledonia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05c17&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05c17&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NCL",
+"NumericCode": "540"
+
+},
+{
+"name" : "New Zealand",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0ctw_b&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0ctw_b&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NZL",
+"NumericCode": "554"
+
+},
+{
+"name" : "Nicaragua",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05c74&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05c74&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NIC",
+"NumericCode": "558"
+
+},
+{
+"name" : "Niger",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05cc1&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05cc1&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NER",
+"NumericCode": "562"
+
+},
+{
+"name" : "Nigeria",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05cgv&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05cgv&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NGA",
+"NumericCode": "566"
+
+},
+
+{
+"name" : "Northern Mariana Islands",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05cnr&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05cnr&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "MNP",
+"NumericCode": "580"
+
+},
+{
+"name" : "Norway",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05b4w&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05b4w&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "NOR",
+"NumericCode": "578"
+
+},
+{
+"name" : "Oman",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05l8y&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05l8y&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "OMN",
+"NumericCode": "512"
+
+},
+{
+"name" : "Pakistan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05sb1&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05sb1&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PAK",
+"NumericCode": "586"
+
+},
+{
+"name" : "Panama",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qx1&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qx1&gl=US&ceid=US%3Aen&state=5",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PAN",
+"NumericCode": "591"
+
+},
+{
+"name" : "Papua New Guinea",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qkp&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qkp&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PNG",
+"NumericCode": "598"
+
+},
+{
+"name" : "Paraguay",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05v10&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05v10&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PRY",
+"NumericCode": "600"
+
+},
+{
+"name" : "Peru",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F016wzw&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F016wzw&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PER",
+"NumericCode": "604"
+
+},
+{
+"name" : "Philippines",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05v8c&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05v8c&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PHL",
+"NumericCode": "608"
+
+},
+{
+"name" : "Poland",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qhw&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qhw&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "POL",
+"NumericCode": "616"
+
+},
+{
+"name" : "Portugal",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05r4w&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05r4w&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PRT",
+"NumericCode": "620"
+
+},
+{
+"name" : "Puerto Rico",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05r7t&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05r7t&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "PRI",
+"NumericCode": "630"
+
+},
+{
+"name" : "Qatar",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0697s&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0697s&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "QAT",
+"NumericCode": "634"
+
+},
+{
+"name" : "Reunion",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0lxhj&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0lxhj&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "REU",
+"NumericCode": "638"
+
+},
+{
+"name" : "Romania",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06c1y&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06c1y&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ROM",
+"NumericCode": "642"
+
+},
+{
+"name" : "Russia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06bnz&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06bnz&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "RUS",
+"NumericCode": "643"
+
+},
+{
+"name" : "Rwanda",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06dfg&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06dfg&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "RWA",
+"NumericCode": "646"
+
+},
+{
+"name" : "Sabah",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07348&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07348&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SBH",
+"NumericCode": "461"
+
+},
+
+{
+"name" : "Saint Kitts and Nevis",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06ryl&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06ryl&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "KNA",
+"NumericCode": "659"
+
+},
+{
+"name" : "Saint Lucia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06s0l&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06s0l&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LCA",
+"NumericCode": "662"
+
+},
+{
+"name" : "Saint Pierre and Miquelon",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06s4c&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06s4c&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SPM",
+"NumericCode": "666"
+
+},
+
+{
+"name" : "Saint Vincent and the Grenadines",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06s6l&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06s6l&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "VCT",
+"NumericCode": "670"
+
+},
+
+{
+"name" : "American Samoa",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h8d&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h8d&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "WSM",
+"NumericCode": "882"
+
+},
+
+{
+"name" : "San Marino",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06sff&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06sff&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SMR",
+"NumericCode": "674"
+
+},
+
+{
+"name" : "Sao Tome and Principe",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j681&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j681&gl=US&ceid=US%3Aen&state=5",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "STP",
+"NumericCode": "678"
+
+},
+
+{
+"name" : "Sarawak",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06_z0&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06_z0&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SWK",
+"NumericCode": "457"
+
+},
+
+{
+"name" : "Saudi Arabia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01z215&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01z215&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SAU",
+"NumericCode": "682"
+
+},
+
+{
+"name" : "Senegal",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06srk&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06srk&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SEN",
+"NumericCode": "686"
+
+},
+{
+"name" : "Serbia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F077qn&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F077qn&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SRB",
+"NumericCode": "688"
+
+},
+
+{
+"name" : "Seychelles",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06sw9&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06sw9&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SYC",
+"NumericCode": "690"
+
+},
+
+{
+"name" : "Sierra Leone",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06s_2&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06s_2&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SLE",
+"NumericCode": "694"
+
+},
+
+{
+"name" : "Singapore",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06t2t&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06t2t&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SGP",
+"NumericCode": "702"
+
+},
+
+{
+"name" : "Slovakia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06npd&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06npd&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SVK",
+"NumericCode": "703"
+
+},
+
+{
+"name" : "Slovenia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06t8v&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06t8v&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SVN",
+"NumericCode": "705"
+
+},
+
+
+{
+"name" : "Somalia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06tgw&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06tgw&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SOM",
+"NumericCode": "706"
+
+},
+
+{
+"name" : "South Africa",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0hzlz&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0hzlz&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ZAF",
+"NumericCode": "710"
+
+},
+
+{
+"name" : "Spain",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06mkj&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06mkj&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ESP",
+"NumericCode": "724"
+
+},
+
+{
+"name" : "Sri Lanka",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06m_5&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06m_5&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "LKA",
+"NumericCode": "144"
+
+},
+
+{
+"name" : "Sudan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06tw8&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06tw8&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SDN",
+"NumericCode": "729"
+
+},
+
+{
+"name" : "South Sudan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05rznz&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05rznz&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SSD",
+"NumericCode": "729"
+
+},
+
+{
+"name" : "Suriname",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06nnj&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06nnj&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SUR",
+"NumericCode": "740"
+
+},
+
+{
+"name" : "Eswatini / Swaziland",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06v36&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06v36&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SWZ",
+"NumericCode": "748"
+
+},
+
+{
+"name" : "Sweden",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d0vqn&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d0vqn&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SWE",
+"NumericCode": "752"
+
+},
+
+{
+"name" : "Switzerland",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06mzp&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06mzp&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "CHE",
+"NumericCode": "756"
+
+},
+{
+"name" : "Syria",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06vbd&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06vbd&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "SYR",
+"NumericCode": "760"
+
+},
+{
+"name" : "Taiwan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06f32&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F06f32&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TWN",
+"NumericCode": "158"
+
+},
+{
+"name" : "Tajikistan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07dvs&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07dvs&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TJK",
+"NumericCode": "762"
+
+},
+{
+"name" : "Tanzania",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07dzf&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07dzf&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TZA",
+"NumericCode": "834"
+
+},
+{
+"name" : "Thailand",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07f1x&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07f1x&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "THA",
+"NumericCode": "764"
+
+},
+{
+"name" : "Togo",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07f5x&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07f5x&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TGO",
+"NumericCode": "768"
+
+},
+
+{
+"name" : "Trinidad and Tobago",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F09lxtg&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F09lxtg&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TTO",
+"NumericCode": "780"
+
+},
+{
+"name" : "Tunisia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07fj_&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07fj_&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TUN",
+"NumericCode": "788"
+
+},
+{
+"name" : "Turkey",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01znc_&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01znc_&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TUR",
+"NumericCode": "792"
+
+},
+
+{
+"name" : "Turks and Caicos Isl.",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07fr_&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07fr_&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "TCA",
+"NumericCode": "796"
+
+},
+
+{
+"name" : "Uganda",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07tp2&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07tp2&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "UGA",
+"NumericCode": "800"
+
+},
+{
+"name" : "Ukraine",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07t21&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07t21&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "UKR",
+"NumericCode": "804"
+
+},
+{
+"name" : "United Arab Emirates",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j1z8&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j1z8&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ARE",
+"NumericCode": "784"
+
+},
+{
+"name" : "United Kingdom",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07ssc&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07ssc&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "GBR",
+"NumericCode": "826"
+
+},
+{
+"name" : "United States",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F09c7w0&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F09c7w0&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "USA",
+"NumericCode": "840"
+
+},
+
+{
+"name" : "Uruguay",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07twz&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07twz&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "URY",
+"NumericCode": "858"
+
+},
+{
+"name" : "Uzbekistan",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07t_x&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07t_x&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "UZB",
+"NumericCode": "860"
+
+},
+{
+"name" : "Venezuela",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07ylj&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07ylj&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "VEN",
+"NumericCode": "862"
+
+},
+{
+"name" : "Vietnam",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01crd5&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01crd5&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "VNM",
+"NumericCode": "704"
+
+},
+{
+"name" : "Virgin Islands (U.S.)",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07ww5&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F07ww5&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "VIR",
+"NumericCode": "850"
+
+},
+{
+"name" : "Western Sahara",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F082qk&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F082qk&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ESH",
+"NumericCode": "732"
+
+},
+{
+"name" : "Worldwide",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "WLD",
+"NumericCode": "000"
+
+},
+{
+"name" : "Yemen",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01z88t&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F01z88t&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "YEM",
+"NumericCode": "887"
+
+},
+
+{
+"name" : "Zambia",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F088vb&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F088vb&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ZMB",
+"NumericCode": "894"
+
+},
+{
+"name" : "Zimbabwe",
+"vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F088q4&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F088q4&gl=US&ceid=US%3Aen&state=1",
+"base": "https://news.google.com",
+"tag": "Cases, Deaths, Doses, News, Vaccinated",
+"Alpha3Code": "ZWE",
+"NumericCode": "716"
+
+}
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "Afghanistan",
+    "vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jdd&gl=US&ceid=US%3Aen&state=5",
+    "casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jdd&gl=US&ceid=US%3Aen&state=1",
+    "base": "https://news.google.com",
+    "tag": "Cases, Deaths, Doses, News, Vaccinated",
+    "Alpha3Code": "AFG",
+    "NumericCode": "004"
+
+  },
+  {
+    "name" : "Albania",
+    "vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jdx&gl=US&ceid=US%3Aen&state=5",
+    "casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0jdx&gl=US&ceid=US%3Aen&state=1",
+    "base": "https://news.google.com",
+    "tag": "Cases, Deaths, Doses, News, Vaccinated",
+    "Alpha3Code": "ALB",
+    "NumericCode": "008"
+
+  },
+  {
+    "name" : "Algeria",
+    "vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0h3y&gl=US&ceid=US%3Aen&state=5",
+    "casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F078lk&gl=US&ceid=US%3Aen&state=1",
+    "base": "https://news.google.com",
+    "tag": "Cases, Deaths, Doses, News, Vaccinated",
+    "Alpha3Code": "DZA",
+    "NumericCode": "012"
+
+  }
+]
