@@ -2,74 +2,103 @@ const PORT = process.env.PORT || 8000
 const express = require('express')
 const axios = require('axios')
 const cheerio = require('cheerio')
+const links = require("./countries.json");
+
 
 
 
 const app = express()
 
-
+function capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
 
 app.get('/', (req, res)=> {
     res.json('Welcome to the Covid Report API')
+    const links = require("./countries.json");
+
+    for (let i = 0; i < links.length; i++) {
+        console.log("'"+links[i].NumericCode)
+    }
 })
 
 
-app.get('/totalreport/country/:quotesId', (req, res) => {
+app.get('/totalreport/country/:quotesId1', (req, res) => {
 
-    const quotesId = req.params.quotesId
+    const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
-    const sourceAddress = links.filter(country => country.name == quotesId)[0].casesAddress
+
+
+const check = []
+
+
+   const quotesId = capitalizeFirstLetter(quotesId1);
+  // console.log(links.filter(country => country.name != quotesId)[0].casesAddress)
+
+  //  res.json("Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing ")
+
+
+
+       const sourceAddress = links.filter(country => country.name == quotesId)[0].casesAddress
 //    const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
-    const alpha3Code = links.filter(country => country.name == quotesId)[0].Alpha3Code
-    const numericCode = links.filter(country => country.name == quotesId)[0].NumericCode
-    const country = links.filter(country => country.name == quotesId)[0].name
-    axios.get(sourceAddress)
-        .then(response => {
-            const html = response.data
-            const $ = cheerio.load(html)
-            const specificArticles = []
-            const totalStats = []
+       const alpha3Code = links.filter(country => country.name == quotesId)[0].Alpha3Code
+       const numericCode = links.filter(country => country.name == quotesId)[0].NumericCode
+       const country = links.filter(country => country.name == quotesId)[0].name
+       axios.get(sourceAddress)
+           .then(response => {
+               const html = response.data
+               const $ = cheerio.load(html)
+               const specificArticles = []
+               const totalStats = []
 
-            $("div[class='UvMayb']", html).each(function () {
-             //   const title = $(this).text()
-                totalStats.push($(this).text())
-            })
+               $("div[class='UvMayb']", html).each(function () {
+                   //   const title = $(this).text()
+                   totalStats.push($(this).text())
+               })
 
-            const cases = totalStats[0]
-            const deaths = totalStats[1]
-            const doses = totalStats[2]
-            var peopleFullyVaccinated = totalStats[4]
+               const cases = totalStats[0]
+               const deaths = totalStats[1]
+               const doses = totalStats[2]
+               var peopleFullyVaccinated = totalStats[4]
 
-            console.log(totalStats.length)
+               console.log(totalStats.length)
 
-            if (totalStats.length = 4) {
-                 peopleFullyVaccinated = totalStats[3]
-            }
+               if (totalStats.length = 4) {
+                   peopleFullyVaccinated = totalStats[3]
+               }
 
 
 //console.log(peopleFullyVaccinated.length)
-            specificArticles.push({
-                country,
-                alphaCode: alpha3Code,
-                numericCode: numericCode,
-                cases,
-                deaths,
-                doses,
-                peopleFullyVaccinated
-             //   totalStats
-            })
+               specificArticles.push({
+                   country,
+                   alphaCode: alpha3Code,
+                   numericCode: numericCode,
+                   cases,
+                   deaths,
+                   doses,
+                   peopleFullyVaccinated
+                   //   totalStats
+               })
 
-            res.json(specificArticles)
-            //  console.log(specificArticles)
-        }).catch((err) => console.log(err))
+               res.json(specificArticles)
+               //  console.log(specificArticles)
+           }).catch((err) => console.log(err))
 
 })
 
 
 app.get('/dailyreport/country/:quotesId', (req, res) => {
 
-    const quotesId = req.params.quotesId
+
+    const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
+
+
+
+
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
+//    const links = require("./countries.json");
     const sourceAddress = links.filter(country => country.name == quotesId)[0].casesAddress
 //    const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
     const alpha3Code = links.filter(country => country.name == quotesId)[0].Alpha3Code
@@ -128,8 +157,14 @@ app.get('/dailyreport/country/:quotesId', (req, res) => {
 
 app.get('/countiesreport/cases/country/:quotesId', (req, res) => {
     const namesTitle = []
-    const quotesId = req.params.quotesId
+    const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
+
+
+
+
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
     const sourceAddress = links.filter(country => country.name == quotesId)[0].casesAddress
 //    const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
     const alpha3Code = links.filter(country => country.name == quotesId)[0].Alpha3Code
@@ -204,8 +239,14 @@ app.get('/countiesreport/cases/country/:quotesId', (req, res) => {
 
 app.get('/countiesreport/doses/country/:quotesId', (req, res) => {
     const namesTitle = []
-    const quotesId = req.params.quotesId
+    const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
+
+
+
+
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
     const sourceAddress = links.filter(country => country.name == quotesId)[0].casesAddress
     const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
     const alpha3Code = links.filter(country => country.name == quotesId)[0].Alpha3Code
@@ -273,8 +314,14 @@ app.get('/countiesreport/doses/country/:quotesId', (req, res) => {
 
 app.get('/topcovidnews/country/:quotesId', (req, res) => {
     //  const namesTitle = []
-    const quotesId = req.params.quotesId
+    const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
+
+
+
+
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
     const sourceAddress = links.filter(country => country.name == quotesId)[0].casesAddress
     //   const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
     const alpha3Code = links.filter(country => country.name == quotesId)[0].Alpha3Code
