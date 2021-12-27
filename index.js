@@ -237,7 +237,7 @@ app.get('/countiesreport/cases/country/:quotesId1', (req, res) => {
 
 
 
-app.get('/countiesreport/doses/country/:quotesId1', (req, res) => {
+app.get('/countiesreport/vaccines/country/:quotesId1', (req, res) => {
     const namesTitle = []
     const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
@@ -296,10 +296,10 @@ app.get('/countiesreport/doses/country/:quotesId1', (req, res) => {
                 specificArticles.push({
                     name: namesTitle[i],
                     symbol: images[i],
-                    totalCases: numbers[0+k1],
-                    newCasesPerDay: numbers[1+k1],
-                    casesPerMillion: numbers[3+k1],
-                    deaths: numbers[4+k1]
+                    totalDoses: numbers[0+k1],
+                    newDosesPerDay: numbers[1+k1],
+                    peopleFullyVaccinated: numbers[3+k1],
+                    percentOfPopulationFullyVaccinated: numbers[4+k1]
                 })
                 k1 += 5;
             }
