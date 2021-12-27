@@ -87,7 +87,7 @@ const check = []
 })
 
 
-app.get('/dailyreport/country/:quotesId', (req, res) => {
+app.get('/dailyreport/country/:quotesId1', (req, res) => {
 
 
     const quotesId1 = req.params.quotesId1
@@ -155,7 +155,7 @@ app.get('/dailyreport/country/:quotesId', (req, res) => {
 
 
 
-app.get('/countiesreport/cases/country/:quotesId', (req, res) => {
+app.get('/countiesreport/cases/country/:quotesId1', (req, res) => {
     const namesTitle = []
     const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
@@ -237,7 +237,7 @@ app.get('/countiesreport/cases/country/:quotesId', (req, res) => {
 
 
 
-app.get('/countiesreport/doses/country/:quotesId', (req, res) => {
+app.get('/countiesreport/doses/country/:quotesId1', (req, res) => {
     const namesTitle = []
     const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
@@ -312,7 +312,7 @@ app.get('/countiesreport/doses/country/:quotesId', (req, res) => {
 
 
 
-app.get('/topcovidnews/country/:quotesId', (req, res) => {
+app.get('/topcovidnews/country/:quotesId1', (req, res) => {
     //  const namesTitle = []
     const quotesId1 = req.params.quotesId1
     const links = require("./countries.json");
