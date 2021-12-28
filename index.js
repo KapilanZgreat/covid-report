@@ -746,9 +746,12 @@ app.get('/newstime', (req, res)=> {
 
 
 
-app.get('/totalreport/alphacode/:quotesId', (req, res) => {
+app.get('/totalreport/alphacode/:quotesId1', (req, res) => {
 
-    const quotesId = req.params.quotesId
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = quotesId1.toUpperCase()
+
     const links = require("./countries.json");
     const sourceAddress = links.filter(country => country.Alpha3Code == quotesId)[0].casesAddress
 //    const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
@@ -798,9 +801,12 @@ app.get('/totalreport/alphacode/:quotesId', (req, res) => {
 })
 
 
-app.get('/dailyreport/alphacode/:quotesId', (req, res) => {
+app.get('/dailyreport/alphacode/:quotesId1', (req, res) => {
 
-    const quotesId = req.params.quotesId
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = quotesId1.toUpperCase()
+
     const links = require("./countries.json");
     const sourceAddress = links.filter(country => country.Alpha3Code == quotesId)[0].casesAddress
 //    const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
@@ -858,9 +864,14 @@ app.get('/dailyreport/alphacode/:quotesId', (req, res) => {
 
 
 
-app.get('/countiesreport/cases/alphacode/:quotesId', (req, res) => {
+app.get('/countiesreport/cases/alphacode/:quotesId1', (req, res) => {
+
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = quotesId1.toUpperCase()
+
     const namesTitle = []
-    const quotesId = req.params.quotesId
+
     const links = require("./countries.json");
     const sourceAddress = links.filter(country => country.Alpha3Code == quotesId)[0].casesAddress
 //    const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
@@ -934,9 +945,11 @@ app.get('/countiesreport/cases/alphacode/:quotesId', (req, res) => {
 
 
 
-app.get('/countiesreport/doses/alphacode/:quotesId', (req, res) => {
+app.get('/countiesreport/vaccines/alphacode/:quotesId1', (req, res) => {
     const namesTitle = []
-    const quotesId = req.params.quotesId
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = quotesId1.toUpperCase()
     const links = require("./countries.json");
     const sourceAddress = links.filter(country => country.Alpha3Code == quotesId)[0].casesAddress
     const source2Address = links.filter(country => country.Alpha3Code == quotesId)[0].vaccineAddress
@@ -1003,9 +1016,11 @@ app.get('/countiesreport/doses/alphacode/:quotesId', (req, res) => {
 
 
 
-app.get('/topcovidnews/alphacode/:quotesId', (req, res) => {
+app.get('/topcovidnews/alphacode/:quotesId1', (req, res) => {
     //  const namesTitle = []
-    const quotesId = req.params.quotesId
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = quotesId1.toUpperCase()
     const links = require("./countries.json");
     const sourceAddress = links.filter(country => country.Alpha3Code == quotesId)[0].casesAddress
     //   const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
@@ -1264,7 +1279,7 @@ app.get('/countiesreport/cases/numericcode/:quotesId', (req, res) => {
 
 
 
-app.get('/countiesreport/doses/numericcode/:quotesId', (req, res) => {
+app.get('/countiesreport/vaccines/numericcode/:quotesId', (req, res) => {
     const namesTitle = []
     const quotesId = req.params.quotesId
     const links = require("./countries.json");
