@@ -529,7 +529,7 @@ setInterval(updateData, 450000);
        const specificArticles3 = []
        const specificArticles4 = []
 
-       for (let i = 0; i < 100; i++) {
+       for (let i = 0; i < 10; i++) {
 
            const options = {
                url: links1[i].casesAddress,
@@ -741,7 +741,7 @@ setInterval(updateData, 450000);
                }
                console.log("proc-1")
                console.log(specificArticles1.length)
-               if (specificArticles1.length == 100) {
+               if (specificArticles1.length == 10) {
 
                    //    phase2()
 
