@@ -505,8 +505,7 @@ app.get('/topcovidnews/country/:quotesId1', (req, res) => {
 
 
 
-
-//setInterval(updateData, 1800000);
+setInterval(updateData, 450000);
 
 //setInterval(updateData2, 12000);
 
@@ -530,7 +529,7 @@ app.get('/topcovidnews/country/:quotesId1', (req, res) => {
        const specificArticles3 = []
        const specificArticles4 = []
 
-       for (let i = 0; i < links.length; i++) {
+       for (let i = 0; i < 100; i++) {
 
            const options = {
                url: links1[i].casesAddress,
@@ -742,7 +741,7 @@ app.get('/topcovidnews/country/:quotesId1', (req, res) => {
                }
                console.log("proc-1")
                console.log(specificArticles1.length)
-               if (specificArticles1.length == links.length) {
+               if (specificArticles1.length == 100) {
 
                    //    phase2()
 
