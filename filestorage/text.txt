@@ -1,0 +1,1667 @@
+[
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Algeria Construction Market Trends and Opportunities Report 2021-2025 - ResearchAndMarkets.com",
+    "articleUrl": "https://news.google.com./articles/CBMilwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDEwNTAwNTU0NC9lbi9BbGdlcmlhLUNvbnN0cnVjdGlvbi1NYXJrZXQtVHJlbmRzLWFuZC1PcHBvcnR1bml0aWVzLVJlcG9ydC0yMDIxLTIwMjUtLS1SZXNlYXJjaEFuZE1hcmtldHMuY29t0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/aLNBlv0WX27vteX9sfLlQfr8kkgQ2AiYlxLJRMWomku6P-G0kdQeyPYditvC7UGJ0obR27UNJgnbq7F3zEdW-ZUqVJDujyF651_2iLkzPlyQ6mKPye2ovuy1OmfxkiPSH2Q0gxAYNuI2w4sOhZ8pxmMnkI02HpHEkNlmEeKsQ-wCpckdha5DJpKWugmPy9In6AzIzxEypFxaMWcny_p0Rk1nj8BanjnOZ2c6PiP5xAllVnLtpDvqXKjnnfCxc9HrEyhut7XYGCy7XCzN5wuofO5J4Oa_pDAJlJPlPliRdGGbRKhQkvVAoVQXUmMr4BM-ana1US_H_SWEgdBVeCra0Tp6ZveHOQA6ihLdJ4yBPvSD2cupoqzqWaO4_t6a7_HXO7BUCc4=s0-w100-h100-dcDXCMJi4H",
+    "source": "Business Wire",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:10:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Mahrez-led Algeria impress, but must buck trend to retain title",
+    "articleUrl": "https://news.google.com./articles/CBMiR2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9tYWhyZXotbGVkLWFsZ2VyaWEtaW1wcmVzcy1tdXN0LTAyMzExOTA5NC5odG1s0gFPaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbWFocmV6LWxlZC1hbGdlcmlhLWltcHJlc3MtbXVzdC0wMjMxMTkwOTQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/oXB1BPvwPqh6MEB5ogH-KX-3DBXMkgKd5cXSuMhqmJ3QVgdVbdFfWCYc_G-XWv4Ze9LdlVccLahOLuek3ZJmYG3rkEXiuhO1NNvDohbz2RuYhwodEnCuxmEOPmwsItgOwVLCGTlke635kCPFytJpHdoGwTp_uDdarHLW5LAZT3OCSpcR8P3z6c_VYV2oLKvSzIrF9DqBPRwGwx7K-H3TaNoqTS1VlFrAzm-b3Ix99OH-LsUnEs9FKRae2Wzjr-cYz60FXOpLqlGwaU6oaQHOOMg=s0-w100-h100-dcFTKGBx0K",
+    "source": "Yahoo Sports",
+    "hoursAgo": "14 hours ago",
+    "timeStamp": "2022-01-05T02:31:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Senegal latest team hit by virus days ahead of African Cup",
+    "articleUrl": "https://news.google.com./articles/CBMinAFodHRwczovL3d3dy5vdHR1bXdhY291cmllci5jb20vbmV3cy9jb3JvbmF2aXJ1cy9zZW5lZ2FsLWxhdGVzdC10ZWFtLWhpdC1ieS12aXJ1cy1kYXlzLWFoZWFkLW9mLWFmcmljYW4tY3VwL2FydGljbGVfZTlhMmU3MmYtZjkwMC01NDMyLTk4ZmItMzc2NTI5MDM3MWZkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kJtLKPUn1nM2EmS855aUIJTGhngjWUI8w87BG8-YpOhilStA_FjsHU7PHF-u-Qz78Puv3-E_DBNWZz-hFwtAG6vjIIHQzeDmpZS4zlJpwI_5ttSXZBz5c3MGjut3VYuINXR-E9aV9FI=s0-w100-h100-dcJTaWCx4J",
+    "source": "Ottumwacourier",
+    "hoursAgo": "2 hours ago",
+    "timeStamp": "2022-01-05T14:23:37Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Second Tunisia player tests positive for Covid — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CAIiEBK1BRSSZoPtQ73kawTzdh0qGQgEKhAIACoHCAow5tb5CjCzyuYCMMT5twU?uo=CAUiSWh0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvc2Vjb25kLXR1bmlzaWEtcGxheWVyLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC_SAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/6ZHzo7sYk9GM_N_CUdU6_Pz2zzXF1wHfWItL3ZTkpO5hr_su_Vf12m3lEXAymQ9lVLHlSN3zwgXbw5yOLj6g--V6SLhNI1Kk9FQoJ9BU5QQS7YQOdBz8jvgbV1mJr95S9ffLgrE=s0-w100-h100-dcPSSIcRkK",
+    "source": "Guardian Nigeria",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:37:09Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Gambia facing Covid AFCON 'catastrophe' says coach — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CBMiS2h0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvZ2FtYmlhLWZhY2luZy1jb3ZpZC1hZmNvbi1jYXRhc3Ryb3BoZS1zYXlzLWNvYWNoL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NMESrYmP6FUsu7HkZftYtYesmZyLexFJTe-JtRq5F6i-5Obmp-O00Cr6HWKLluDSN9_OKd_t7McEHrizJ9P61JSnxHsSFW8d1s-0h85qZOvHQ154o6L5MiUvhJQ8jQyZY-JVs62wGeAwD4EUI82jSsQBqZo3viiFKKR5NLs=s0-w100-h100-dcpVSIraUH",
+    "source": "Guardian",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:06:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Afcon 2021: Attendances capped at 60-80% for tournament in Cameroon",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hZnJpY2EvNTk4Nzk4NTHSAS1odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2FmcmljYS81OTg3OTg1MS5hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "BBC Sport",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:17:48Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Algeria Construction Market Trends and Opportunities Report 2021-2025 - ResearchAndMarkets.com",
+    "articleUrl": "https://news.google.com./articles/CBMilwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDEwNTAwNTU0NC9lbi9BbGdlcmlhLUNvbnN0cnVjdGlvbi1NYXJrZXQtVHJlbmRzLWFuZC1PcHBvcnR1bml0aWVzLVJlcG9ydC0yMDIxLTIwMjUtLS1SZXNlYXJjaEFuZE1hcmtldHMuY29t0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/aLNBlv0WX27vteX9sfLlQfr8kkgQ2AiYlxLJRMWomku6P-G0kdQeyPYditvC7UGJ0obR27UNJgnbq7F3zEdW-ZUqVJDujyF651_2iLkzPlyQ6mKPye2ovuy1OmfxkiPSH2Q0gxAYNuI2w4sOhZ8pxmMnkI02HpHEkNlmEeKsQ-wCpckdha5DJpKWugmPy9In6AzIzxEypFxaMWcny_p0Rk1nj8BanjnOZ2c6PiP5xAllVnLtpDvqXKjnnfCxc9HrEyhut7XYGCy7XCzN5wuofO5J4Oa_pDAJlJPlPliRdGGbRKhQkvVAoVQXUmMr4BM-ana1US_H_SWEgdBVeCra0Tp6ZveHOQA6ihLdJ4yBPvSD2cupoqzqWaO4_t6a7_HXO7BUCc4=s0-w100-h100-dcDXCMJi4H",
+    "source": "Business Wire",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:10:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Mahrez-led Algeria impress, but must buck trend to retain title",
+    "articleUrl": "https://news.google.com./articles/CBMiR2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9tYWhyZXotbGVkLWFsZ2VyaWEtaW1wcmVzcy1tdXN0LTAyMzExOTA5NC5odG1s0gFPaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbWFocmV6LWxlZC1hbGdlcmlhLWltcHJlc3MtbXVzdC0wMjMxMTkwOTQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/oXB1BPvwPqh6MEB5ogH-KX-3DBXMkgKd5cXSuMhqmJ3QVgdVbdFfWCYc_G-XWv4Ze9LdlVccLahOLuek3ZJmYG3rkEXiuhO1NNvDohbz2RuYhwodEnCuxmEOPmwsItgOwVLCGTlke635kCPFytJpHdoGwTp_uDdarHLW5LAZT3OCSpcR8P3z6c_VYV2oLKvSzIrF9DqBPRwGwx7K-H3TaNoqTS1VlFrAzm-b3Ix99OH-LsUnEs9FKRae2Wzjr-cYz60FXOpLqlGwaU6oaQHOOMg=s0-w100-h100-dcFTKGBx0K",
+    "source": "Yahoo Sports",
+    "hoursAgo": "14 hours ago",
+    "timeStamp": "2022-01-05T02:31:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Senegal latest team hit by virus days ahead of African Cup",
+    "articleUrl": "https://news.google.com./articles/CBMinAFodHRwczovL3d3dy5vdHR1bXdhY291cmllci5jb20vbmV3cy9jb3JvbmF2aXJ1cy9zZW5lZ2FsLWxhdGVzdC10ZWFtLWhpdC1ieS12aXJ1cy1kYXlzLWFoZWFkLW9mLWFmcmljYW4tY3VwL2FydGljbGVfZTlhMmU3MmYtZjkwMC01NDMyLTk4ZmItMzc2NTI5MDM3MWZkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kJtLKPUn1nM2EmS855aUIJTGhngjWUI8w87BG8-YpOhilStA_FjsHU7PHF-u-Qz78Puv3-E_DBNWZz-hFwtAG6vjIIHQzeDmpZS4zlJpwI_5ttSXZBz5c3MGjut3VYuINXR-E9aV9FI=s0-w100-h100-dcJTaWCx4J",
+    "source": "Ottumwacourier",
+    "hoursAgo": "2 hours ago",
+    "timeStamp": "2022-01-05T14:23:37Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Second Tunisia player tests positive for Covid — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CAIiEBK1BRSSZoPtQ73kawTzdh0qGQgEKhAIACoHCAow5tb5CjCzyuYCMMT5twU?uo=CAUiSWh0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvc2Vjb25kLXR1bmlzaWEtcGxheWVyLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC_SAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/6ZHzo7sYk9GM_N_CUdU6_Pz2zzXF1wHfWItL3ZTkpO5hr_su_Vf12m3lEXAymQ9lVLHlSN3zwgXbw5yOLj6g--V6SLhNI1Kk9FQoJ9BU5QQS7YQOdBz8jvgbV1mJr95S9ffLgrE=s0-w100-h100-dcPSSIcRkK",
+    "source": "Guardian Nigeria",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:37:09Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Gambia facing Covid AFCON 'catastrophe' says coach — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CBMiS2h0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvZ2FtYmlhLWZhY2luZy1jb3ZpZC1hZmNvbi1jYXRhc3Ryb3BoZS1zYXlzLWNvYWNoL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NMESrYmP6FUsu7HkZftYtYesmZyLexFJTe-JtRq5F6i-5Obmp-O00Cr6HWKLluDSN9_OKd_t7McEHrizJ9P61JSnxHsSFW8d1s-0h85qZOvHQ154o6L5MiUvhJQ8jQyZY-JVs62wGeAwD4EUI82jSsQBqZo3viiFKKR5NLs=s0-w100-h100-dcpVSIraUH",
+    "source": "Guardian",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:06:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Afcon 2021: Attendances capped at 60-80% for tournament in Cameroon",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hZnJpY2EvNTk4Nzk4NTHSAS1odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2FmcmljYS81OTg3OTg1MS5hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "BBC Sport",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:17:48Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Algeria Construction Market Trends and Opportunities Report 2021-2025 - ResearchAndMarkets.com",
+    "articleUrl": "https://news.google.com./articles/CBMilwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDEwNTAwNTU0NC9lbi9BbGdlcmlhLUNvbnN0cnVjdGlvbi1NYXJrZXQtVHJlbmRzLWFuZC1PcHBvcnR1bml0aWVzLVJlcG9ydC0yMDIxLTIwMjUtLS1SZXNlYXJjaEFuZE1hcmtldHMuY29t0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/aLNBlv0WX27vteX9sfLlQfr8kkgQ2AiYlxLJRMWomku6P-G0kdQeyPYditvC7UGJ0obR27UNJgnbq7F3zEdW-ZUqVJDujyF651_2iLkzPlyQ6mKPye2ovuy1OmfxkiPSH2Q0gxAYNuI2w4sOhZ8pxmMnkI02HpHEkNlmEeKsQ-wCpckdha5DJpKWugmPy9In6AzIzxEypFxaMWcny_p0Rk1nj8BanjnOZ2c6PiP5xAllVnLtpDvqXKjnnfCxc9HrEyhut7XYGCy7XCzN5wuofO5J4Oa_pDAJlJPlPliRdGGbRKhQkvVAoVQXUmMr4BM-ana1US_H_SWEgdBVeCra0Tp6ZveHOQA6ihLdJ4yBPvSD2cupoqzqWaO4_t6a7_HXO7BUCc4=s0-w100-h100-dcDXCMJi4H",
+    "source": "Business Wire",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:10:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Mahrez-led Algeria impress, but must buck trend to retain title",
+    "articleUrl": "https://news.google.com./articles/CBMiR2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9tYWhyZXotbGVkLWFsZ2VyaWEtaW1wcmVzcy1tdXN0LTAyMzExOTA5NC5odG1s0gFPaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbWFocmV6LWxlZC1hbGdlcmlhLWltcHJlc3MtbXVzdC0wMjMxMTkwOTQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/oXB1BPvwPqh6MEB5ogH-KX-3DBXMkgKd5cXSuMhqmJ3QVgdVbdFfWCYc_G-XWv4Ze9LdlVccLahOLuek3ZJmYG3rkEXiuhO1NNvDohbz2RuYhwodEnCuxmEOPmwsItgOwVLCGTlke635kCPFytJpHdoGwTp_uDdarHLW5LAZT3OCSpcR8P3z6c_VYV2oLKvSzIrF9DqBPRwGwx7K-H3TaNoqTS1VlFrAzm-b3Ix99OH-LsUnEs9FKRae2Wzjr-cYz60FXOpLqlGwaU6oaQHOOMg=s0-w100-h100-dcFTKGBx0K",
+    "source": "Yahoo Sports",
+    "hoursAgo": "14 hours ago",
+    "timeStamp": "2022-01-05T02:31:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Senegal latest team hit by virus days ahead of African Cup",
+    "articleUrl": "https://news.google.com./articles/CBMinAFodHRwczovL3d3dy5vdHR1bXdhY291cmllci5jb20vbmV3cy9jb3JvbmF2aXJ1cy9zZW5lZ2FsLWxhdGVzdC10ZWFtLWhpdC1ieS12aXJ1cy1kYXlzLWFoZWFkLW9mLWFmcmljYW4tY3VwL2FydGljbGVfZTlhMmU3MmYtZjkwMC01NDMyLTk4ZmItMzc2NTI5MDM3MWZkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kJtLKPUn1nM2EmS855aUIJTGhngjWUI8w87BG8-YpOhilStA_FjsHU7PHF-u-Qz78Puv3-E_DBNWZz-hFwtAG6vjIIHQzeDmpZS4zlJpwI_5ttSXZBz5c3MGjut3VYuINXR-E9aV9FI=s0-w100-h100-dcJTaWCx4J",
+    "source": "Ottumwacourier",
+    "hoursAgo": "2 hours ago",
+    "timeStamp": "2022-01-05T14:23:37Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Second Tunisia player tests positive for Covid — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CAIiEBK1BRSSZoPtQ73kawTzdh0qGQgEKhAIACoHCAow5tb5CjCzyuYCMMT5twU?uo=CAUiSWh0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvc2Vjb25kLXR1bmlzaWEtcGxheWVyLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC_SAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/6ZHzo7sYk9GM_N_CUdU6_Pz2zzXF1wHfWItL3ZTkpO5hr_su_Vf12m3lEXAymQ9lVLHlSN3zwgXbw5yOLj6g--V6SLhNI1Kk9FQoJ9BU5QQS7YQOdBz8jvgbV1mJr95S9ffLgrE=s0-w100-h100-dcPSSIcRkK",
+    "source": "Guardian Nigeria",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:37:09Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Gambia facing Covid AFCON 'catastrophe' says coach — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CBMiS2h0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvZ2FtYmlhLWZhY2luZy1jb3ZpZC1hZmNvbi1jYXRhc3Ryb3BoZS1zYXlzLWNvYWNoL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NMESrYmP6FUsu7HkZftYtYesmZyLexFJTe-JtRq5F6i-5Obmp-O00Cr6HWKLluDSN9_OKd_t7McEHrizJ9P61JSnxHsSFW8d1s-0h85qZOvHQ154o6L5MiUvhJQ8jQyZY-JVs62wGeAwD4EUI82jSsQBqZo3viiFKKR5NLs=s0-w100-h100-dcpVSIraUH",
+    "source": "Guardian",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:06:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Afcon 2021: Attendances capped at 60-80% for tournament in Cameroon",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hZnJpY2EvNTk4Nzk4NTHSAS1odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2FmcmljYS81OTg3OTg1MS5hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/we8hBLmcjFESxlt1Va0QSzE0iqA8GU4ZK_TeZ5sNPHROWSMLCtBGfK6akso9Tvrhw4MxubCkzDCZrA0Gbi6a4wuhJNa4Y1arGNExI_-McEic0UFP24WtFV3tlACEJh2F4FwrpKP0xJ4=s0-w100-h100-dcHWCSjKgI",
+    "source": "BBC Sport",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:17:48Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "US CDC Cautions Americans Against Travel to Singapore",
+    "articleUrl": "https://news.google.com./articles/CAIiEKPxkoBPB7ThabAbgwSkPv8qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUiYGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTAxLTA0L3Utcy1jZGMtc2F5cy1zaW5nYXBvcmUtcy1jb3ZpZC1sZXZlbHMtdW5rbm93btIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/RX3WB01j9ZaVuTZri--1F1lZsgi9QVsNQz854eF1c_hSqieaZR7TI61_P3aO54nvXVDo4tCXx-hJNquQYEqSMsLFS_IERyuYR_SQrj7oG6iAX_NUMSjbNIfKZpYt8Dn7FqN3fc0Rgjr-Gdbq=s0-w100-h100-dcAVSSrSkH",
+    "source": "Bloomberg",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:53:54Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Is the world failing the Afghan migrants challenge? | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL29waW5pb24vb3AtZWQvaXMtdGhlLXdvcmxkLWZhaWxpbmctdGhlLWFmZ2hhbi1taWdyYW50cy1jaGFsbGVuZ2XSAV9odHRwczovL3d3dy5kYWlseXNhYmFoLmNvbS9vcGluaW9uL29wLWVkL2lzLXRoZS13b3JsZC1mYWlsaW5nLXRoZS1hZmdoYW4tbWlncmFudHMtY2hhbGxlbmdlL2FtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/qwlDULaO2x9aMVNZ7ssKubtugBQnR-Mn6EIhOEZG7HV0H4GebqZTPf4F8u-9NR75B5akpwm0H3fZm1w7i6QKhn_pwj9iOOsolC7s9nRd4dlPGQzjFJMx7rtkz0w1V3YGi9wMI9dJlaStHbpXmR509x9iZQ6HXSCxC4wZBNx3IdcK=s0-w100-h100-dcATSOhJoJ",
+    "source": "Daily Sabah",
+    "hoursAgo": "21 hours ago",
+    "timeStamp": "2022-01-04T19:45:22Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "'Millions in Afghanistan are currently clinging to life by a thread - you can help': Sarah Boyack MSP",
+    "articleUrl": "https://news.google.com./articles/CBMid2h0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9wb2xpdGljcy8xOTgyNjQyMC5taWxsaW9ucy1hZmdoYW5pc3Rhbi1jbGluZ2luZy10aHJlYWQtbGlmZS0tLWNhbi1oZWxwLXNhcmFoLWJveWFjay1tc3Av0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/LDB4pmIIsdaO1PywY1KsZLXL0q1T7WM3mq0Ds84jOdkseJM9rqKCUSHcTwVHPBwkVvZDiio47l71ZU26VrYtwNV5wEh7DrOiAv-IHDd71scqES5jTI3jv1geDcW5KVnndDdvPdBQAsd0KSAD3em-7GoxmCjIYwsp9N1htb57YNUSV0ogCPDhDCZEHJPV=s0-w100-h100-dcAVGQEqEI",
+    "source": "HeraldScotland",
+    "hoursAgo": "51 minutes ago",
+    "timeStamp": "2022-01-05T16:27:53Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "The CDC says a test to get out of COVID isolation is not needed, resisting pushback",
+    "articleUrl": "https://news.google.com./articles/CAIiEIs7Vsk0Bxivn7EP5dsCIBgqFwgEKg4IACoGCAow9vBNMK3UCDCpvJYH?uo=CAUiTGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMi8wMS8wNC8xMDcwNDEzMzExL2NkYy10ZXN0LWNvdmlkLWlzb2xhdGlvbi1maXZlLWRheXPSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NxeB7R0ACBa-CMVeM-0sWI1xbTFREPLo42UFcqYv1iOsTywE-2dumybyvFWuETiLNfLhFgWIZE3aEp7LTZrvZlPC8BgZa3MAKU_wo97jBc2hRTWjNgjpixqc4cdyIZnapZdFlxJZSIezo9kpUs-00DT3aCporJSTe6_cc7t3s6rD2eZB3QV5ast8XjQJlfI=s0-w100-h100-dcDSKepxoqReQC",
+    "source": "NPR",
+    "hoursAgo": "15 hours ago",
+    "timeStamp": "2022-01-05T01:25:20Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Late-night hosts Jimmy Fallon and Seth Meyers test positive for COVID-19",
+    "articleUrl": "https://news.google.com./articles/CAIiEMOR9KLLCmXeJ3aL4tbOJGYqFwgEKg4IACoGCAow9vBNMK3UCDCFpJYH?uo=CAUiamh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjIvMDEvMDQvMTA3MDM0OTI0NS9qaW1teS1mYWxsb24tc2V0aC1tZXllcnMtY292aWTSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/uNzwYKYRmj3awm7LO1miVxw9pQG01RZspQc0xIdEVlEi-2opEmXxrfJ97jQ4GS3d1EtV-Fi2wZUqWkgEKaDPG-v13NQyuSX99cuMGu46AAm7Tiq46r1YrUsDUAeLXT73O1m-AFyILbFVX5XMg-ewlWJPrA=s0-w100-h100-dcJVCcMKUI",
+    "source": "NPR",
+    "hoursAgo": "18 hours ago",
+    "timeStamp": "2022-01-04T22:53:21Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "First Firefight: Turkmen, Taliban Engage In Border Shoot-Out",
+    "articleUrl": "https://news.google.com./articles/CAIiEA_RWt011BKt0XsyNzRBEj0qMwgEKioIACIQbSf1ztl9Af4yamcROsJhFyoUCAoiEG0n9c7ZfQH-MmpnETrCYRcwr9PGBg?uo=CAUiS2h0dHBzOi8vZ2FuZGhhcmEucmZlcmwub3JnL2EvdHVya21lbi10YWxpYmFuLWJvcmRlci1zaG9vdC1vdXQvMzE2NDA5NjUuaHRtbNIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "Gandhara",
+    "hoursAgo": "52 minutes ago",
+    "timeStamp": "2022-01-05T16:26:57Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Algeria Construction Market Trends and Opportunities Report 2021-2025 - ResearchAndMarkets.com",
+    "articleUrl": "https://news.google.com./articles/CBMilwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDEwNTAwNTU0NC9lbi9BbGdlcmlhLUNvbnN0cnVjdGlvbi1NYXJrZXQtVHJlbmRzLWFuZC1PcHBvcnR1bml0aWVzLVJlcG9ydC0yMDIxLTIwMjUtLS1SZXNlYXJjaEFuZE1hcmtldHMuY29t0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/aLNBlv0WX27vteX9sfLlQfr8kkgQ2AiYlxLJRMWomku6P-G0kdQeyPYditvC7UGJ0obR27UNJgnbq7F3zEdW-ZUqVJDujyF651_2iLkzPlyQ6mKPye2ovuy1OmfxkiPSH2Q0gxAYNuI2w4sOhZ8pxmMnkI02HpHEkNlmEeKsQ-wCpckdha5DJpKWugmPy9In6AzIzxEypFxaMWcny_p0Rk1nj8BanjnOZ2c6PiP5xAllVnLtpDvqXKjnnfCxc9HrEyhut7XYGCy7XCzN5wuofO5J4Oa_pDAJlJPlPliRdGGbRKhQkvVAoVQXUmMr4BM-ana1US_H_SWEgdBVeCra0Tp6ZveHOQA6ihLdJ4yBPvSD2cupoqzqWaO4_t6a7_HXO7BUCc4=s0-w100-h100-dcDXCMJi4H",
+    "source": "Business Wire",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:10:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Mahrez-led Algeria impress, but must buck trend to retain title",
+    "articleUrl": "https://news.google.com./articles/CBMiR2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9tYWhyZXotbGVkLWFsZ2VyaWEtaW1wcmVzcy1tdXN0LTAyMzExOTA5NC5odG1s0gFPaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbWFocmV6LWxlZC1hbGdlcmlhLWltcHJlc3MtbXVzdC0wMjMxMTkwOTQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/oXB1BPvwPqh6MEB5ogH-KX-3DBXMkgKd5cXSuMhqmJ3QVgdVbdFfWCYc_G-XWv4Ze9LdlVccLahOLuek3ZJmYG3rkEXiuhO1NNvDohbz2RuYhwodEnCuxmEOPmwsItgOwVLCGTlke635kCPFytJpHdoGwTp_uDdarHLW5LAZT3OCSpcR8P3z6c_VYV2oLKvSzIrF9DqBPRwGwx7K-H3TaNoqTS1VlFrAzm-b3Ix99OH-LsUnEs9FKRae2Wzjr-cYz60FXOpLqlGwaU6oaQHOOMg=s0-w100-h100-dcFTKGBx0K",
+    "source": "Yahoo Sports",
+    "hoursAgo": "14 hours ago",
+    "timeStamp": "2022-01-05T02:31:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Senegal latest team hit by virus days ahead of African Cup",
+    "articleUrl": "https://news.google.com./articles/CBMinAFodHRwczovL3d3dy5vdHR1bXdhY291cmllci5jb20vbmV3cy9jb3JvbmF2aXJ1cy9zZW5lZ2FsLWxhdGVzdC10ZWFtLWhpdC1ieS12aXJ1cy1kYXlzLWFoZWFkLW9mLWFmcmljYW4tY3VwL2FydGljbGVfZTlhMmU3MmYtZjkwMC01NDMyLTk4ZmItMzc2NTI5MDM3MWZkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kJtLKPUn1nM2EmS855aUIJTGhngjWUI8w87BG8-YpOhilStA_FjsHU7PHF-u-Qz78Puv3-E_DBNWZz-hFwtAG6vjIIHQzeDmpZS4zlJpwI_5ttSXZBz5c3MGjut3VYuINXR-E9aV9FI=s0-w100-h100-dcJTaWCx4J",
+    "source": "Ottumwacourier",
+    "hoursAgo": "2 hours ago",
+    "timeStamp": "2022-01-05T14:23:37Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Second Tunisia player tests positive for Covid — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CAIiEBK1BRSSZoPtQ73kawTzdh0qGQgEKhAIACoHCAow5tb5CjCzyuYCMMT5twU?uo=CAUiSWh0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvc2Vjb25kLXR1bmlzaWEtcGxheWVyLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC_SAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/6ZHzo7sYk9GM_N_CUdU6_Pz2zzXF1wHfWItL3ZTkpO5hr_su_Vf12m3lEXAymQ9lVLHlSN3zwgXbw5yOLj6g--V6SLhNI1Kk9FQoJ9BU5QQS7YQOdBz8jvgbV1mJr95S9ffLgrE=s0-w100-h100-dcPSSIcRkK",
+    "source": "Guardian Nigeria",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:37:09Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Gambia facing Covid AFCON 'catastrophe' says coach — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CBMiS2h0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvZ2FtYmlhLWZhY2luZy1jb3ZpZC1hZmNvbi1jYXRhc3Ryb3BoZS1zYXlzLWNvYWNoL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NMESrYmP6FUsu7HkZftYtYesmZyLexFJTe-JtRq5F6i-5Obmp-O00Cr6HWKLluDSN9_OKd_t7McEHrizJ9P61JSnxHsSFW8d1s-0h85qZOvHQ154o6L5MiUvhJQ8jQyZY-JVs62wGeAwD4EUI82jSsQBqZo3viiFKKR5NLs=s0-w100-h100-dcpVSIraUH",
+    "source": "Guardian",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:06:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Afcon 2021: Attendances capped at 60-80% for tournament in Cameroon",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hZnJpY2EvNTk4Nzk4NTHSAS1odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2FmcmljYS81OTg3OTg1MS5hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/we8hBLmcjFESxlt1Va0QSzE0iqA8GU4ZK_TeZ5sNPHROWSMLCtBGfK6akso9Tvrhw4MxubCkzDCZrA0Gbi6a4wuhJNa4Y1arGNExI_-McEic0UFP24WtFV3tlACEJh2F4FwrpKP0xJ4=s0-w100-h100-dcHWCSjKgI",
+    "source": "BBC Sport",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:17:48Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "US CDC Cautions Americans Against Travel to Singapore",
+    "articleUrl": "https://news.google.com./articles/CAIiEKPxkoBPB7ThabAbgwSkPv8qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUiYGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTAxLTA0L3Utcy1jZGMtc2F5cy1zaW5nYXBvcmUtcy1jb3ZpZC1sZXZlbHMtdW5rbm93btIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/RX3WB01j9ZaVuTZri--1F1lZsgi9QVsNQz854eF1c_hSqieaZR7TI61_P3aO54nvXVDo4tCXx-hJNquQYEqSMsLFS_IERyuYR_SQrj7oG6iAX_NUMSjbNIfKZpYt8Dn7FqN3fc0Rgjr-Gdbq=s0-w100-h100-dcAVSSrSkH",
+    "source": "Bloomberg",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:53:54Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Is the world failing the Afghan migrants challenge? | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL29waW5pb24vb3AtZWQvaXMtdGhlLXdvcmxkLWZhaWxpbmctdGhlLWFmZ2hhbi1taWdyYW50cy1jaGFsbGVuZ2XSAV9odHRwczovL3d3dy5kYWlseXNhYmFoLmNvbS9vcGluaW9uL29wLWVkL2lzLXRoZS13b3JsZC1mYWlsaW5nLXRoZS1hZmdoYW4tbWlncmFudHMtY2hhbGxlbmdlL2FtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/qwlDULaO2x9aMVNZ7ssKubtugBQnR-Mn6EIhOEZG7HV0H4GebqZTPf4F8u-9NR75B5akpwm0H3fZm1w7i6QKhn_pwj9iOOsolC7s9nRd4dlPGQzjFJMx7rtkz0w1V3YGi9wMI9dJlaStHbpXmR509x9iZQ6HXSCxC4wZBNx3IdcK=s0-w100-h100-dcATSOhJoJ",
+    "source": "Daily Sabah",
+    "hoursAgo": "21 hours ago",
+    "timeStamp": "2022-01-04T19:45:22Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "'Millions in Afghanistan are currently clinging to life by a thread - you can help': Sarah Boyack MSP",
+    "articleUrl": "https://news.google.com./articles/CBMid2h0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9wb2xpdGljcy8xOTgyNjQyMC5taWxsaW9ucy1hZmdoYW5pc3Rhbi1jbGluZ2luZy10aHJlYWQtbGlmZS0tLWNhbi1oZWxwLXNhcmFoLWJveWFjay1tc3Av0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/LDB4pmIIsdaO1PywY1KsZLXL0q1T7WM3mq0Ds84jOdkseJM9rqKCUSHcTwVHPBwkVvZDiio47l71ZU26VrYtwNV5wEh7DrOiAv-IHDd71scqES5jTI3jv1geDcW5KVnndDdvPdBQAsd0KSAD3em-7GoxmCjIYwsp9N1htb57YNUSV0ogCPDhDCZEHJPV=s0-w100-h100-dcAVGQEqEI",
+    "source": "HeraldScotland",
+    "hoursAgo": "51 minutes ago",
+    "timeStamp": "2022-01-05T16:27:53Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "The CDC says a test to get out of COVID isolation is not needed, resisting pushback",
+    "articleUrl": "https://news.google.com./articles/CAIiEIs7Vsk0Bxivn7EP5dsCIBgqFwgEKg4IACoGCAow9vBNMK3UCDCpvJYH?uo=CAUiTGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMi8wMS8wNC8xMDcwNDEzMzExL2NkYy10ZXN0LWNvdmlkLWlzb2xhdGlvbi1maXZlLWRheXPSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NxeB7R0ACBa-CMVeM-0sWI1xbTFREPLo42UFcqYv1iOsTywE-2dumybyvFWuETiLNfLhFgWIZE3aEp7LTZrvZlPC8BgZa3MAKU_wo97jBc2hRTWjNgjpixqc4cdyIZnapZdFlxJZSIezo9kpUs-00DT3aCporJSTe6_cc7t3s6rD2eZB3QV5ast8XjQJlfI=s0-w100-h100-dcDSKepxoqReQC",
+    "source": "NPR",
+    "hoursAgo": "15 hours ago",
+    "timeStamp": "2022-01-05T01:25:20Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Late-night hosts Jimmy Fallon and Seth Meyers test positive for COVID-19",
+    "articleUrl": "https://news.google.com./articles/CAIiEMOR9KLLCmXeJ3aL4tbOJGYqFwgEKg4IACoGCAow9vBNMK3UCDCFpJYH?uo=CAUiamh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjIvMDEvMDQvMTA3MDM0OTI0NS9qaW1teS1mYWxsb24tc2V0aC1tZXllcnMtY292aWTSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/uNzwYKYRmj3awm7LO1miVxw9pQG01RZspQc0xIdEVlEi-2opEmXxrfJ97jQ4GS3d1EtV-Fi2wZUqWkgEKaDPG-v13NQyuSX99cuMGu46AAm7Tiq46r1YrUsDUAeLXT73O1m-AFyILbFVX5XMg-ewlWJPrA=s0-w100-h100-dcJVCcMKUI",
+    "source": "NPR",
+    "hoursAgo": "18 hours ago",
+    "timeStamp": "2022-01-04T22:53:21Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "First Firefight: Turkmen, Taliban Engage In Border Shoot-Out",
+    "articleUrl": "https://news.google.com./articles/CAIiEA_RWt011BKt0XsyNzRBEj0qMwgEKioIACIQbSf1ztl9Af4yamcROsJhFyoUCAoiEG0n9c7ZfQH-MmpnETrCYRcwr9PGBg?uo=CAUiS2h0dHBzOi8vZ2FuZGhhcmEucmZlcmwub3JnL2EvdHVya21lbi10YWxpYmFuLWJvcmRlci1zaG9vdC1vdXQvMzE2NDA5NjUuaHRtbNIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/JN8c0x4695E9SpbY1NINUgjetTX2RDKpXgy4WFac9YtcNBbi_gIcdk6vqs2sWEV3pmbWL_vwRSHxlhOiwpW7nLc9hqUOB-QNFwbW1pTCQsVCjLuSuuldJ2ufVmk03LZCyHSP=s0-w100-h100-dcFWKECakH",
+    "source": "Gandhara",
+    "hoursAgo": "52 minutes ago",
+    "timeStamp": "2022-01-05T16:26:57Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Economic and social impact and effect of COVID-19 in Angola 2021",
+    "articleUrl": "https://news.google.com./articles/CBMiVmh0dHBzOi8vdW5jdGFkLm9yZy93ZWJmbHllci9lY29ub21pYy1hbmQtc29jaWFsLWltcGFjdC1hbmQtZWZmZWN0LWNvdmlkLTE5LWFuZ29sYS0yMDIx0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/2DXkVdZFAmjhXgkvRAJk0_Z6Me6uE5tT8tciWGvE_GuGzE7Ls01IdgmmqZQY5Xbg4MonnIxke4DwlBBbLJXb0w335Qlxan4HCmADcdf3U5ly8nkLpLaAoyOLbZbjIHMVbZKs-rYAi8YdQH2YKriRIPX81-NzAatA12JqIoi76N8ByS5hytilgI9ylrsHdB_soSwpq19zqBil4bmOikKzhmSpibhrE-zQp6NWi4XSvWuJo7eblZG7ow=s0-w100-h100-dcIVKQK60G",
+    "source": "UNCTAD",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T09:35:43Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Angola: More than 100,000 children, adolescents vaccinated against Covid-19",
+    "articleUrl": "https://news.google.com./articles/CBMiZ2h0dHBzOi8vd3d3Lm1hY2F1YnVzaW5lc3MuY29tL2FuZ29sYS1tb3JlLXRoYW4tMTAwMDAwLWNoaWxkcmVuLWFkb2xlc2NlbnRzLXZhY2NpbmF0ZWQtYWdhaW5zdC1jb3ZpZC0xOS_SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/TlBuRP9cW028I8dh9xySUcTr8mpllmmAjLzuGI3w74vS-F9gOLr3Au8i_n160-8nx4crNH2L0QMjabW2wqY3ZYbgLZTVlY2NavWyormHQERxETEQ1LwqWiQj65ZKDIW37H0b8JFjwuHbLHNn3Aym0PC-PwvNZ2YKmPQUA3rHi-i1_Rs0D678ssDJ_SxpZnwhZ3lK6qE3JmK5hIx_umeB2kQjFKfdIRcxeg=s0-w100-h100-dcAXCSRbYG",
+    "source": "Macau Business",
+    "hoursAgo": "12 minutes ago",
+    "timeStamp": "2022-01-05T17:07:01Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Oil extends gains above $80 after OPEC+ output hike",
+    "articleUrl": "https://news.google.com./articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMDEvMDUvb2lsLW1hcmtldHMtdXMtZnVlbC1pbnZlbnRvcmllcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMDEvMDUvb2lsLW1hcmtldHMtdXMtZnVlbC1pbnZlbnRvcmllcy5odG1s?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kaO_frE6-NjUvy-NJGsLUEFg8CcGBMK1YKsoN1p3gU_2p3YNd94xqWtpf4lA-a9mK4G_5iO0t2ULieSsG5FSVvO4Lgw8KRm55fw4zDJ6xvTKngCWn8N3yg=s0-w100-h100-dciZOSCLYH",
+    "source": "CNBC",
+    "hoursAgo": "10 hours ago",
+    "timeStamp": "2022-01-05T07:07:09Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "3 Israeli diplomatic missions close due to COVID",
+    "articleUrl": "https://news.google.com./articles/CBMiWGh0dHBzOi8vd3d3LmlzcmFlbGhheW9tLmNvbS8yMDIyLzAxLzA1LzMtaXNyYWVsaS1kaXBsb21hdGljLW1pc3Npb25zLWNsb3NlLWR1ZS10by1jb3ZpZC_SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/KfOnD6v_9gJ178z61x61MsRvw8moN4I1amq4mLYq54UikXzpPZhZR4jDt67EDhVKC0VNzmvjLrdslSxPAIA-cKUzU84lAHkj13VkwVuELbO5kWVnbRAsFaCMiLnPioJlZWNjrWy_IwleYG3jAm3LrQN9tywjn_i3X8eEVlABDMauwXZWF7Nncl_4SAryFYB0vOg=s0-w100-h100-dcxdKMFEEF",
+    "source": "Israel Hayom",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:05:17Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Wall Street is learning to live with big risks",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vd3d3Lmtha2UuY29tL3N0b3J5LzQ1NTg4NTk1L3dhbGwtc3RyZWV0LWlzLWxlYXJuaW5nLXRvLWxpdmUtd2l0aC1iaWctcmlza3PSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/epb51YUr_UvnMqg0OSh6ab2_U92457ezu5AgaG5fBwGQHyPTQtj6jguPnPePWg5i-Lnr8cvZsaltf1CQn2YXhKxBBrDgzakrJtIX7mcQjnriM4TP_5Pn6EILznoURDsoaP0JCPLd=s0-w100-h100-dckZCOSTZnNe0B",
+    "source": "KAKE",
+    "hoursAgo": "3 hours ago",
+    "timeStamp": "2022-01-05T14:01:49Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Omusati: 18 Angolan babies die of malnutrition",
+    "articleUrl": "https://news.google.com./articles/CBMiVWh0dHBzOi8vd3d3Lm5hbWliaWFuLmNvbS5uYS8xMDg3NjQvcmVhZC9PbXVzYXRpLTE4LUFuZ29sYW4tYmFiaWVzLWRpZS1vZi1tYWxudXRyaXRpb27SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "Namibian",
+    "hoursAgo": "5 hours ago",
+    "timeStamp": "2022-01-05T11:44:10Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Algeria Construction Market Trends and Opportunities Report 2021-2025 - ResearchAndMarkets.com",
+    "articleUrl": "https://news.google.com./articles/CBMilwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDEwNTAwNTU0NC9lbi9BbGdlcmlhLUNvbnN0cnVjdGlvbi1NYXJrZXQtVHJlbmRzLWFuZC1PcHBvcnR1bml0aWVzLVJlcG9ydC0yMDIxLTIwMjUtLS1SZXNlYXJjaEFuZE1hcmtldHMuY29t0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/aLNBlv0WX27vteX9sfLlQfr8kkgQ2AiYlxLJRMWomku6P-G0kdQeyPYditvC7UGJ0obR27UNJgnbq7F3zEdW-ZUqVJDujyF651_2iLkzPlyQ6mKPye2ovuy1OmfxkiPSH2Q0gxAYNuI2w4sOhZ8pxmMnkI02HpHEkNlmEeKsQ-wCpckdha5DJpKWugmPy9In6AzIzxEypFxaMWcny_p0Rk1nj8BanjnOZ2c6PiP5xAllVnLtpDvqXKjnnfCxc9HrEyhut7XYGCy7XCzN5wuofO5J4Oa_pDAJlJPlPliRdGGbRKhQkvVAoVQXUmMr4BM-ana1US_H_SWEgdBVeCra0Tp6ZveHOQA6ihLdJ4yBPvSD2cupoqzqWaO4_t6a7_HXO7BUCc4=s0-w100-h100-dcDXCMJi4H",
+    "source": "Business Wire",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:10:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Mahrez-led Algeria impress, but must buck trend to retain title",
+    "articleUrl": "https://news.google.com./articles/CBMiR2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9tYWhyZXotbGVkLWFsZ2VyaWEtaW1wcmVzcy1tdXN0LTAyMzExOTA5NC5odG1s0gFPaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbWFocmV6LWxlZC1hbGdlcmlhLWltcHJlc3MtbXVzdC0wMjMxMTkwOTQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/oXB1BPvwPqh6MEB5ogH-KX-3DBXMkgKd5cXSuMhqmJ3QVgdVbdFfWCYc_G-XWv4Ze9LdlVccLahOLuek3ZJmYG3rkEXiuhO1NNvDohbz2RuYhwodEnCuxmEOPmwsItgOwVLCGTlke635kCPFytJpHdoGwTp_uDdarHLW5LAZT3OCSpcR8P3z6c_VYV2oLKvSzIrF9DqBPRwGwx7K-H3TaNoqTS1VlFrAzm-b3Ix99OH-LsUnEs9FKRae2Wzjr-cYz60FXOpLqlGwaU6oaQHOOMg=s0-w100-h100-dcFTKGBx0K",
+    "source": "Yahoo Sports",
+    "hoursAgo": "14 hours ago",
+    "timeStamp": "2022-01-05T02:31:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Senegal latest team hit by virus days ahead of African Cup",
+    "articleUrl": "https://news.google.com./articles/CBMinAFodHRwczovL3d3dy5vdHR1bXdhY291cmllci5jb20vbmV3cy9jb3JvbmF2aXJ1cy9zZW5lZ2FsLWxhdGVzdC10ZWFtLWhpdC1ieS12aXJ1cy1kYXlzLWFoZWFkLW9mLWFmcmljYW4tY3VwL2FydGljbGVfZTlhMmU3MmYtZjkwMC01NDMyLTk4ZmItMzc2NTI5MDM3MWZkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kJtLKPUn1nM2EmS855aUIJTGhngjWUI8w87BG8-YpOhilStA_FjsHU7PHF-u-Qz78Puv3-E_DBNWZz-hFwtAG6vjIIHQzeDmpZS4zlJpwI_5ttSXZBz5c3MGjut3VYuINXR-E9aV9FI=s0-w100-h100-dcJTaWCx4J",
+    "source": "Ottumwacourier",
+    "hoursAgo": "2 hours ago",
+    "timeStamp": "2022-01-05T14:23:37Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Second Tunisia player tests positive for Covid — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CAIiEBK1BRSSZoPtQ73kawTzdh0qGQgEKhAIACoHCAow5tb5CjCzyuYCMMT5twU?uo=CAUiSWh0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvc2Vjb25kLXR1bmlzaWEtcGxheWVyLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC_SAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/6ZHzo7sYk9GM_N_CUdU6_Pz2zzXF1wHfWItL3ZTkpO5hr_su_Vf12m3lEXAymQ9lVLHlSN3zwgXbw5yOLj6g--V6SLhNI1Kk9FQoJ9BU5QQS7YQOdBz8jvgbV1mJr95S9ffLgrE=s0-w100-h100-dcPSSIcRkK",
+    "source": "Guardian Nigeria",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:37:09Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Gambia facing Covid AFCON 'catastrophe' says coach — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CBMiS2h0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvZ2FtYmlhLWZhY2luZy1jb3ZpZC1hZmNvbi1jYXRhc3Ryb3BoZS1zYXlzLWNvYWNoL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NMESrYmP6FUsu7HkZftYtYesmZyLexFJTe-JtRq5F6i-5Obmp-O00Cr6HWKLluDSN9_OKd_t7McEHrizJ9P61JSnxHsSFW8d1s-0h85qZOvHQ154o6L5MiUvhJQ8jQyZY-JVs62wGeAwD4EUI82jSsQBqZo3viiFKKR5NLs=s0-w100-h100-dcpVSIraUH",
+    "source": "Guardian",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:06:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Afcon 2021: Attendances capped at 60-80% for tournament in Cameroon",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hZnJpY2EvNTk4Nzk4NTHSAS1odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2FmcmljYS81OTg3OTg1MS5hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/we8hBLmcjFESxlt1Va0QSzE0iqA8GU4ZK_TeZ5sNPHROWSMLCtBGfK6akso9Tvrhw4MxubCkzDCZrA0Gbi6a4wuhJNa4Y1arGNExI_-McEic0UFP24WtFV3tlACEJh2F4FwrpKP0xJ4=s0-w100-h100-dcHWCSjKgI",
+    "source": "BBC Sport",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:17:48Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "US CDC Cautions Americans Against Travel to Singapore",
+    "articleUrl": "https://news.google.com./articles/CAIiEKPxkoBPB7ThabAbgwSkPv8qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUiYGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTAxLTA0L3Utcy1jZGMtc2F5cy1zaW5nYXBvcmUtcy1jb3ZpZC1sZXZlbHMtdW5rbm93btIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/RX3WB01j9ZaVuTZri--1F1lZsgi9QVsNQz854eF1c_hSqieaZR7TI61_P3aO54nvXVDo4tCXx-hJNquQYEqSMsLFS_IERyuYR_SQrj7oG6iAX_NUMSjbNIfKZpYt8Dn7FqN3fc0Rgjr-Gdbq=s0-w100-h100-dcAVSSrSkH",
+    "source": "Bloomberg",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:53:54Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Is the world failing the Afghan migrants challenge? | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL29waW5pb24vb3AtZWQvaXMtdGhlLXdvcmxkLWZhaWxpbmctdGhlLWFmZ2hhbi1taWdyYW50cy1jaGFsbGVuZ2XSAV9odHRwczovL3d3dy5kYWlseXNhYmFoLmNvbS9vcGluaW9uL29wLWVkL2lzLXRoZS13b3JsZC1mYWlsaW5nLXRoZS1hZmdoYW4tbWlncmFudHMtY2hhbGxlbmdlL2FtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/qwlDULaO2x9aMVNZ7ssKubtugBQnR-Mn6EIhOEZG7HV0H4GebqZTPf4F8u-9NR75B5akpwm0H3fZm1w7i6QKhn_pwj9iOOsolC7s9nRd4dlPGQzjFJMx7rtkz0w1V3YGi9wMI9dJlaStHbpXmR509x9iZQ6HXSCxC4wZBNx3IdcK=s0-w100-h100-dcATSOhJoJ",
+    "source": "Daily Sabah",
+    "hoursAgo": "21 hours ago",
+    "timeStamp": "2022-01-04T19:45:22Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "'Millions in Afghanistan are currently clinging to life by a thread - you can help': Sarah Boyack MSP",
+    "articleUrl": "https://news.google.com./articles/CBMid2h0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9wb2xpdGljcy8xOTgyNjQyMC5taWxsaW9ucy1hZmdoYW5pc3Rhbi1jbGluZ2luZy10aHJlYWQtbGlmZS0tLWNhbi1oZWxwLXNhcmFoLWJveWFjay1tc3Av0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/LDB4pmIIsdaO1PywY1KsZLXL0q1T7WM3mq0Ds84jOdkseJM9rqKCUSHcTwVHPBwkVvZDiio47l71ZU26VrYtwNV5wEh7DrOiAv-IHDd71scqES5jTI3jv1geDcW5KVnndDdvPdBQAsd0KSAD3em-7GoxmCjIYwsp9N1htb57YNUSV0ogCPDhDCZEHJPV=s0-w100-h100-dcAVGQEqEI",
+    "source": "HeraldScotland",
+    "hoursAgo": "51 minutes ago",
+    "timeStamp": "2022-01-05T16:27:53Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "The CDC says a test to get out of COVID isolation is not needed, resisting pushback",
+    "articleUrl": "https://news.google.com./articles/CAIiEIs7Vsk0Bxivn7EP5dsCIBgqFwgEKg4IACoGCAow9vBNMK3UCDCpvJYH?uo=CAUiTGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMi8wMS8wNC8xMDcwNDEzMzExL2NkYy10ZXN0LWNvdmlkLWlzb2xhdGlvbi1maXZlLWRheXPSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NxeB7R0ACBa-CMVeM-0sWI1xbTFREPLo42UFcqYv1iOsTywE-2dumybyvFWuETiLNfLhFgWIZE3aEp7LTZrvZlPC8BgZa3MAKU_wo97jBc2hRTWjNgjpixqc4cdyIZnapZdFlxJZSIezo9kpUs-00DT3aCporJSTe6_cc7t3s6rD2eZB3QV5ast8XjQJlfI=s0-w100-h100-dcDSKepxoqReQC",
+    "source": "NPR",
+    "hoursAgo": "15 hours ago",
+    "timeStamp": "2022-01-05T01:25:20Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Late-night hosts Jimmy Fallon and Seth Meyers test positive for COVID-19",
+    "articleUrl": "https://news.google.com./articles/CAIiEMOR9KLLCmXeJ3aL4tbOJGYqFwgEKg4IACoGCAow9vBNMK3UCDCFpJYH?uo=CAUiamh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjIvMDEvMDQvMTA3MDM0OTI0NS9qaW1teS1mYWxsb24tc2V0aC1tZXllcnMtY292aWTSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/uNzwYKYRmj3awm7LO1miVxw9pQG01RZspQc0xIdEVlEi-2opEmXxrfJ97jQ4GS3d1EtV-Fi2wZUqWkgEKaDPG-v13NQyuSX99cuMGu46AAm7Tiq46r1YrUsDUAeLXT73O1m-AFyILbFVX5XMg-ewlWJPrA=s0-w100-h100-dcJVCcMKUI",
+    "source": "NPR",
+    "hoursAgo": "18 hours ago",
+    "timeStamp": "2022-01-04T22:53:21Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "First Firefight: Turkmen, Taliban Engage In Border Shoot-Out",
+    "articleUrl": "https://news.google.com./articles/CAIiEA_RWt011BKt0XsyNzRBEj0qMwgEKioIACIQbSf1ztl9Af4yamcROsJhFyoUCAoiEG0n9c7ZfQH-MmpnETrCYRcwr9PGBg?uo=CAUiS2h0dHBzOi8vZ2FuZGhhcmEucmZlcmwub3JnL2EvdHVya21lbi10YWxpYmFuLWJvcmRlci1zaG9vdC1vdXQvMzE2NDA5NjUuaHRtbNIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/JN8c0x4695E9SpbY1NINUgjetTX2RDKpXgy4WFac9YtcNBbi_gIcdk6vqs2sWEV3pmbWL_vwRSHxlhOiwpW7nLc9hqUOB-QNFwbW1pTCQsVCjLuSuuldJ2ufVmk03LZCyHSP=s0-w100-h100-dcFWKECakH",
+    "source": "Gandhara",
+    "hoursAgo": "52 minutes ago",
+    "timeStamp": "2022-01-05T16:26:57Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Economic and social impact and effect of COVID-19 in Angola 2021",
+    "articleUrl": "https://news.google.com./articles/CBMiVmh0dHBzOi8vdW5jdGFkLm9yZy93ZWJmbHllci9lY29ub21pYy1hbmQtc29jaWFsLWltcGFjdC1hbmQtZWZmZWN0LWNvdmlkLTE5LWFuZ29sYS0yMDIx0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/2DXkVdZFAmjhXgkvRAJk0_Z6Me6uE5tT8tciWGvE_GuGzE7Ls01IdgmmqZQY5Xbg4MonnIxke4DwlBBbLJXb0w335Qlxan4HCmADcdf3U5ly8nkLpLaAoyOLbZbjIHMVbZKs-rYAi8YdQH2YKriRIPX81-NzAatA12JqIoi76N8ByS5hytilgI9ylrsHdB_soSwpq19zqBil4bmOikKzhmSpibhrE-zQp6NWi4XSvWuJo7eblZG7ow=s0-w100-h100-dcIVKQK60G",
+    "source": "UNCTAD",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T09:35:43Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Angola: More than 100,000 children, adolescents vaccinated against Covid-19",
+    "articleUrl": "https://news.google.com./articles/CBMiZ2h0dHBzOi8vd3d3Lm1hY2F1YnVzaW5lc3MuY29tL2FuZ29sYS1tb3JlLXRoYW4tMTAwMDAwLWNoaWxkcmVuLWFkb2xlc2NlbnRzLXZhY2NpbmF0ZWQtYWdhaW5zdC1jb3ZpZC0xOS_SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/TlBuRP9cW028I8dh9xySUcTr8mpllmmAjLzuGI3w74vS-F9gOLr3Au8i_n160-8nx4crNH2L0QMjabW2wqY3ZYbgLZTVlY2NavWyormHQERxETEQ1LwqWiQj65ZKDIW37H0b8JFjwuHbLHNn3Aym0PC-PwvNZ2YKmPQUA3rHi-i1_Rs0D678ssDJ_SxpZnwhZ3lK6qE3JmK5hIx_umeB2kQjFKfdIRcxeg=s0-w100-h100-dcAXCSRbYG",
+    "source": "Macau Business",
+    "hoursAgo": "12 minutes ago",
+    "timeStamp": "2022-01-05T17:07:01Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Oil extends gains above $80 after OPEC+ output hike",
+    "articleUrl": "https://news.google.com./articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMDEvMDUvb2lsLW1hcmtldHMtdXMtZnVlbC1pbnZlbnRvcmllcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMDEvMDUvb2lsLW1hcmtldHMtdXMtZnVlbC1pbnZlbnRvcmllcy5odG1s?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kaO_frE6-NjUvy-NJGsLUEFg8CcGBMK1YKsoN1p3gU_2p3YNd94xqWtpf4lA-a9mK4G_5iO0t2ULieSsG5FSVvO4Lgw8KRm55fw4zDJ6xvTKngCWn8N3yg=s0-w100-h100-dciZOSCLYH",
+    "source": "CNBC",
+    "hoursAgo": "10 hours ago",
+    "timeStamp": "2022-01-05T07:07:09Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "3 Israeli diplomatic missions close due to COVID",
+    "articleUrl": "https://news.google.com./articles/CBMiWGh0dHBzOi8vd3d3LmlzcmFlbGhheW9tLmNvbS8yMDIyLzAxLzA1LzMtaXNyYWVsaS1kaXBsb21hdGljLW1pc3Npb25zLWNsb3NlLWR1ZS10by1jb3ZpZC_SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/KfOnD6v_9gJ178z61x61MsRvw8moN4I1amq4mLYq54UikXzpPZhZR4jDt67EDhVKC0VNzmvjLrdslSxPAIA-cKUzU84lAHkj13VkwVuELbO5kWVnbRAsFaCMiLnPioJlZWNjrWy_IwleYG3jAm3LrQN9tywjn_i3X8eEVlABDMauwXZWF7Nncl_4SAryFYB0vOg=s0-w100-h100-dcxdKMFEEF",
+    "source": "Israel Hayom",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:05:17Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Wall Street is learning to live with big risks",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vd3d3Lmtha2UuY29tL3N0b3J5LzQ1NTg4NTk1L3dhbGwtc3RyZWV0LWlzLWxlYXJuaW5nLXRvLWxpdmUtd2l0aC1iaWctcmlza3PSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/epb51YUr_UvnMqg0OSh6ab2_U92457ezu5AgaG5fBwGQHyPTQtj6jguPnPePWg5i-Lnr8cvZsaltf1CQn2YXhKxBBrDgzakrJtIX7mcQjnriM4TP_5Pn6EILznoURDsoaP0JCPLd=s0-w100-h100-dckZCOSTZnNe0B",
+    "source": "KAKE",
+    "hoursAgo": "3 hours ago",
+    "timeStamp": "2022-01-05T14:01:49Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Omusati: 18 Angolan babies die of malnutrition",
+    "articleUrl": "https://news.google.com./articles/CBMiVWh0dHBzOi8vd3d3Lm5hbWliaWFuLmNvbS5uYS8xMDg3NjQvcmVhZC9PbXVzYXRpLTE4LUFuZ29sYW4tYmFiaWVzLWRpZS1vZi1tYWxudXRyaXRpb27SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/l-9lV5zMxMcCVEe2zH_OyySUP7h5LAp4_8wlmLJnfn52PSm3gVstWgu519iDmj6w87n3b3KkSbdYoAYCX7Lanb-gDCFSvuLAcpoUOs3yWSrvUdw6=s0-w100-h100-dcARSKbpEK",
+    "source": "Namibian",
+    "hoursAgo": "5 hours ago",
+    "timeStamp": "2022-01-05T11:44:10Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Covid-19: Armenia Imposes New Regulations for Public Places",
+    "articleUrl": "https://news.google.com./articles/CBMiIWh0dHBzOi8vaGV0cS5hbS9lbi9hcnRpY2xlLzEzOTczM9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/zqBJQbmyL8m-HrFbourKbR6fpTfVoUo3TvjHk1DtkQ3WMlp4BAEwDNLERKuYCjtTtrdDusR8R9TZB4QAtBYpSDd0HfnFE2wc=s0-w100-h100-dcjRGK1iQK",
+    "source": "Hetq Online",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T09:57:00Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "129 new cases of COVID-19 confirmed in Armenia",
+    "articleUrl": "https://news.google.com./articles/CBMiJGh0dHBzOi8vbmV3cy5hbS9lbmcvbmV3cy82ODA2MDcuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vFrVBlkDuZTedvfQbYZDowY3J-uEkGHaQoeRhBWqPQo5MBG_wf0a729DOAMtuB77iy4tR1HcugC5yWO-9LJb2StGJ_6JxW7VkaRz_PAz4wFh4A=s0-w100-h100-dcIVWE7CUI",
+    "source": "Information-Analytic Agency NEWS.am",
+    "hoursAgo": "9 hours ago",
+    "timeStamp": "2022-01-05T07:25:07Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "COVID-19: Armenia in EU’s green zone",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vYXJtZW5wcmVzcy5hbS9lbmcvbmV3cy8xMDcyMzI4Lmh0bWzSASVodHRwczovL2FybWVucHJlc3MuYW0vZW5nL2FtcC8xMDcyMzI4?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/95FOQoiiEJt3CLMGyprTpPa2VcTPyfg_aS_jYaqdweGuVSAAGbF0sLzI9mH1RD0t2DjbKtYlgVFZXUkzed_PpNpniNJkE7msv-kMyuC5wr38qQ=s0-w100-h100-dcjYKGMbXmis8B",
+    "source": "Armenpress.am",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T13:03:57Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Armenian Minister of Healthcare to issue order mandating COVID-19 health pass",
+    "articleUrl": "https://news.google.com./articles/CAIiEIXm4Of_4GvY-pM8fu77LX0qGAgEKg8IACoHCAowgJLXAjDQvhMwp4nYBg?uo=CAUiJ2h0dHBzOi8vYXJtZW5wcmVzcy5hbS9lbmcvbmV3cy8xMDcyMzAxL9IBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/gOVCSqXDrBpPn2HdZQl5keIp048cWJYCMRTrRo-bcLBLw6QNU19Cw8ovJCCPCE6Sj6inIVBLip5e-Q5rB_OnCHYtmYOo6KSSRB0srp4-ZbbUtWsL6PDpTqU2G_MP58NRLND-y64KlJ5WEPQsjTZEE7-zrshPuTTxNRpKAUXet9GNpaC2-DcNgw=s0-w100-h100-dcoRKML5UG",
+    "source": "ARMENPRESS",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T09:02:56Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Carpet Jam Provides Platform for Armenian Musicians",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vb3V0bG9va25ld3NwYXBlcnMuY29tL2Jsb2cvMjAyMi8wMS8wNC9jYXJwZXQtamFtLXByb3ZpZGVzLXBsYXRmb3JtLWZvci1hcm1lbmlhbi1tdXNpY2lhbnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/E9P3xzyI9ImoDbu_1X6iJhhU9WFRSRtKm8sJx0nKEzxXq1StUnpJ_gKri64YBsS1uAK-Wi_byKWRnRQf5DIMaDMb3j_tmCqtCt3WlGbZdn89RR3Ri_TUunyi2aL50VrapL0YbZ20snUEcPXpAeIFKCTOj2M=s0-w100-h100-dcBQKKxRJqPaUC",
+    "source": "outlooknewspapers.com",
+    "hoursAgo": "20 hours ago",
+    "timeStamp": "2022-01-04T21:00:26Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Christmas In Armenia: When 'Light From The Church' Brightens The Darkest Days",
+    "articleUrl": "https://news.google.com./articles/CAIiEGwcFj_INpcyF-V6I6mejRQqGAgEKg8IACoHCAowq7KfCTDPhm8wjLGfAQ?uo=CAUiT2h0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL2FybWVuaWEtY2hyaXN0bWFzLXRyYWRpdGlvbnMtY2VsZWJyYXRpb25zLzMxNjM3NzcyLmh0bWzSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "Radio Free Europe / Radio Liberty",
+    "hoursAgo": "23 hours ago",
+    "timeStamp": "2022-01-04T17:56:01Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Algeria Construction Market Trends and Opportunities Report 2021-2025 - ResearchAndMarkets.com",
+    "articleUrl": "https://news.google.com./articles/CBMilwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDEwNTAwNTU0NC9lbi9BbGdlcmlhLUNvbnN0cnVjdGlvbi1NYXJrZXQtVHJlbmRzLWFuZC1PcHBvcnR1bml0aWVzLVJlcG9ydC0yMDIxLTIwMjUtLS1SZXNlYXJjaEFuZE1hcmtldHMuY29t0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/aLNBlv0WX27vteX9sfLlQfr8kkgQ2AiYlxLJRMWomku6P-G0kdQeyPYditvC7UGJ0obR27UNJgnbq7F3zEdW-ZUqVJDujyF651_2iLkzPlyQ6mKPye2ovuy1OmfxkiPSH2Q0gxAYNuI2w4sOhZ8pxmMnkI02HpHEkNlmEeKsQ-wCpckdha5DJpKWugmPy9In6AzIzxEypFxaMWcny_p0Rk1nj8BanjnOZ2c6PiP5xAllVnLtpDvqXKjnnfCxc9HrEyhut7XYGCy7XCzN5wuofO5J4Oa_pDAJlJPlPliRdGGbRKhQkvVAoVQXUmMr4BM-ana1US_H_SWEgdBVeCra0Tp6ZveHOQA6ihLdJ4yBPvSD2cupoqzqWaO4_t6a7_HXO7BUCc4=s0-w100-h100-dcDXCMJi4H",
+    "source": "Business Wire",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:10:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Mahrez-led Algeria impress, but must buck trend to retain title",
+    "articleUrl": "https://news.google.com./articles/CBMiR2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9tYWhyZXotbGVkLWFsZ2VyaWEtaW1wcmVzcy1tdXN0LTAyMzExOTA5NC5odG1s0gFPaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbWFocmV6LWxlZC1hbGdlcmlhLWltcHJlc3MtbXVzdC0wMjMxMTkwOTQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/oXB1BPvwPqh6MEB5ogH-KX-3DBXMkgKd5cXSuMhqmJ3QVgdVbdFfWCYc_G-XWv4Ze9LdlVccLahOLuek3ZJmYG3rkEXiuhO1NNvDohbz2RuYhwodEnCuxmEOPmwsItgOwVLCGTlke635kCPFytJpHdoGwTp_uDdarHLW5LAZT3OCSpcR8P3z6c_VYV2oLKvSzIrF9DqBPRwGwx7K-H3TaNoqTS1VlFrAzm-b3Ix99OH-LsUnEs9FKRae2Wzjr-cYz60FXOpLqlGwaU6oaQHOOMg=s0-w100-h100-dcFTKGBx0K",
+    "source": "Yahoo Sports",
+    "hoursAgo": "14 hours ago",
+    "timeStamp": "2022-01-05T02:31:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Senegal latest team hit by virus days ahead of African Cup",
+    "articleUrl": "https://news.google.com./articles/CBMinAFodHRwczovL3d3dy5vdHR1bXdhY291cmllci5jb20vbmV3cy9jb3JvbmF2aXJ1cy9zZW5lZ2FsLWxhdGVzdC10ZWFtLWhpdC1ieS12aXJ1cy1kYXlzLWFoZWFkLW9mLWFmcmljYW4tY3VwL2FydGljbGVfZTlhMmU3MmYtZjkwMC01NDMyLTk4ZmItMzc2NTI5MDM3MWZkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kJtLKPUn1nM2EmS855aUIJTGhngjWUI8w87BG8-YpOhilStA_FjsHU7PHF-u-Qz78Puv3-E_DBNWZz-hFwtAG6vjIIHQzeDmpZS4zlJpwI_5ttSXZBz5c3MGjut3VYuINXR-E9aV9FI=s0-w100-h100-dcJTaWCx4J",
+    "source": "Ottumwacourier",
+    "hoursAgo": "2 hours ago",
+    "timeStamp": "2022-01-05T14:23:37Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Second Tunisia player tests positive for Covid — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CAIiEBK1BRSSZoPtQ73kawTzdh0qGQgEKhAIACoHCAow5tb5CjCzyuYCMMT5twU?uo=CAUiSWh0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvc2Vjb25kLXR1bmlzaWEtcGxheWVyLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC_SAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/6ZHzo7sYk9GM_N_CUdU6_Pz2zzXF1wHfWItL3ZTkpO5hr_su_Vf12m3lEXAymQ9lVLHlSN3zwgXbw5yOLj6g--V6SLhNI1Kk9FQoJ9BU5QQS7YQOdBz8jvgbV1mJr95S9ffLgrE=s0-w100-h100-dcPSSIcRkK",
+    "source": "Guardian Nigeria",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:37:09Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Gambia facing Covid AFCON 'catastrophe' says coach — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CBMiS2h0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvZ2FtYmlhLWZhY2luZy1jb3ZpZC1hZmNvbi1jYXRhc3Ryb3BoZS1zYXlzLWNvYWNoL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NMESrYmP6FUsu7HkZftYtYesmZyLexFJTe-JtRq5F6i-5Obmp-O00Cr6HWKLluDSN9_OKd_t7McEHrizJ9P61JSnxHsSFW8d1s-0h85qZOvHQ154o6L5MiUvhJQ8jQyZY-JVs62wGeAwD4EUI82jSsQBqZo3viiFKKR5NLs=s0-w100-h100-dcpVSIraUH",
+    "source": "Guardian",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:06:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Afcon 2021: Attendances capped at 60-80% for tournament in Cameroon",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hZnJpY2EvNTk4Nzk4NTHSAS1odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2FmcmljYS81OTg3OTg1MS5hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/we8hBLmcjFESxlt1Va0QSzE0iqA8GU4ZK_TeZ5sNPHROWSMLCtBGfK6akso9Tvrhw4MxubCkzDCZrA0Gbi6a4wuhJNa4Y1arGNExI_-McEic0UFP24WtFV3tlACEJh2F4FwrpKP0xJ4=s0-w100-h100-dcHWCSjKgI",
+    "source": "BBC Sport",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:17:48Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "US CDC Cautions Americans Against Travel to Singapore",
+    "articleUrl": "https://news.google.com./articles/CAIiEKPxkoBPB7ThabAbgwSkPv8qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUiYGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTAxLTA0L3Utcy1jZGMtc2F5cy1zaW5nYXBvcmUtcy1jb3ZpZC1sZXZlbHMtdW5rbm93btIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/RX3WB01j9ZaVuTZri--1F1lZsgi9QVsNQz854eF1c_hSqieaZR7TI61_P3aO54nvXVDo4tCXx-hJNquQYEqSMsLFS_IERyuYR_SQrj7oG6iAX_NUMSjbNIfKZpYt8Dn7FqN3fc0Rgjr-Gdbq=s0-w100-h100-dcAVSSrSkH",
+    "source": "Bloomberg",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:53:54Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Is the world failing the Afghan migrants challenge? | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL29waW5pb24vb3AtZWQvaXMtdGhlLXdvcmxkLWZhaWxpbmctdGhlLWFmZ2hhbi1taWdyYW50cy1jaGFsbGVuZ2XSAV9odHRwczovL3d3dy5kYWlseXNhYmFoLmNvbS9vcGluaW9uL29wLWVkL2lzLXRoZS13b3JsZC1mYWlsaW5nLXRoZS1hZmdoYW4tbWlncmFudHMtY2hhbGxlbmdlL2FtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/qwlDULaO2x9aMVNZ7ssKubtugBQnR-Mn6EIhOEZG7HV0H4GebqZTPf4F8u-9NR75B5akpwm0H3fZm1w7i6QKhn_pwj9iOOsolC7s9nRd4dlPGQzjFJMx7rtkz0w1V3YGi9wMI9dJlaStHbpXmR509x9iZQ6HXSCxC4wZBNx3IdcK=s0-w100-h100-dcATSOhJoJ",
+    "source": "Daily Sabah",
+    "hoursAgo": "21 hours ago",
+    "timeStamp": "2022-01-04T19:45:22Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "'Millions in Afghanistan are currently clinging to life by a thread - you can help': Sarah Boyack MSP",
+    "articleUrl": "https://news.google.com./articles/CBMid2h0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9wb2xpdGljcy8xOTgyNjQyMC5taWxsaW9ucy1hZmdoYW5pc3Rhbi1jbGluZ2luZy10aHJlYWQtbGlmZS0tLWNhbi1oZWxwLXNhcmFoLWJveWFjay1tc3Av0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/LDB4pmIIsdaO1PywY1KsZLXL0q1T7WM3mq0Ds84jOdkseJM9rqKCUSHcTwVHPBwkVvZDiio47l71ZU26VrYtwNV5wEh7DrOiAv-IHDd71scqES5jTI3jv1geDcW5KVnndDdvPdBQAsd0KSAD3em-7GoxmCjIYwsp9N1htb57YNUSV0ogCPDhDCZEHJPV=s0-w100-h100-dcAVGQEqEI",
+    "source": "HeraldScotland",
+    "hoursAgo": "51 minutes ago",
+    "timeStamp": "2022-01-05T16:27:53Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "The CDC says a test to get out of COVID isolation is not needed, resisting pushback",
+    "articleUrl": "https://news.google.com./articles/CAIiEIs7Vsk0Bxivn7EP5dsCIBgqFwgEKg4IACoGCAow9vBNMK3UCDCpvJYH?uo=CAUiTGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMi8wMS8wNC8xMDcwNDEzMzExL2NkYy10ZXN0LWNvdmlkLWlzb2xhdGlvbi1maXZlLWRheXPSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NxeB7R0ACBa-CMVeM-0sWI1xbTFREPLo42UFcqYv1iOsTywE-2dumybyvFWuETiLNfLhFgWIZE3aEp7LTZrvZlPC8BgZa3MAKU_wo97jBc2hRTWjNgjpixqc4cdyIZnapZdFlxJZSIezo9kpUs-00DT3aCporJSTe6_cc7t3s6rD2eZB3QV5ast8XjQJlfI=s0-w100-h100-dcDSKepxoqReQC",
+    "source": "NPR",
+    "hoursAgo": "15 hours ago",
+    "timeStamp": "2022-01-05T01:25:20Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Late-night hosts Jimmy Fallon and Seth Meyers test positive for COVID-19",
+    "articleUrl": "https://news.google.com./articles/CAIiEMOR9KLLCmXeJ3aL4tbOJGYqFwgEKg4IACoGCAow9vBNMK3UCDCFpJYH?uo=CAUiamh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjIvMDEvMDQvMTA3MDM0OTI0NS9qaW1teS1mYWxsb24tc2V0aC1tZXllcnMtY292aWTSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/uNzwYKYRmj3awm7LO1miVxw9pQG01RZspQc0xIdEVlEi-2opEmXxrfJ97jQ4GS3d1EtV-Fi2wZUqWkgEKaDPG-v13NQyuSX99cuMGu46AAm7Tiq46r1YrUsDUAeLXT73O1m-AFyILbFVX5XMg-ewlWJPrA=s0-w100-h100-dcJVCcMKUI",
+    "source": "NPR",
+    "hoursAgo": "18 hours ago",
+    "timeStamp": "2022-01-04T22:53:21Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "First Firefight: Turkmen, Taliban Engage In Border Shoot-Out",
+    "articleUrl": "https://news.google.com./articles/CAIiEA_RWt011BKt0XsyNzRBEj0qMwgEKioIACIQbSf1ztl9Af4yamcROsJhFyoUCAoiEG0n9c7ZfQH-MmpnETrCYRcwr9PGBg?uo=CAUiS2h0dHBzOi8vZ2FuZGhhcmEucmZlcmwub3JnL2EvdHVya21lbi10YWxpYmFuLWJvcmRlci1zaG9vdC1vdXQvMzE2NDA5NjUuaHRtbNIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/JN8c0x4695E9SpbY1NINUgjetTX2RDKpXgy4WFac9YtcNBbi_gIcdk6vqs2sWEV3pmbWL_vwRSHxlhOiwpW7nLc9hqUOB-QNFwbW1pTCQsVCjLuSuuldJ2ufVmk03LZCyHSP=s0-w100-h100-dcFWKECakH",
+    "source": "Gandhara",
+    "hoursAgo": "52 minutes ago",
+    "timeStamp": "2022-01-05T16:26:57Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Economic and social impact and effect of COVID-19 in Angola 2021",
+    "articleUrl": "https://news.google.com./articles/CBMiVmh0dHBzOi8vdW5jdGFkLm9yZy93ZWJmbHllci9lY29ub21pYy1hbmQtc29jaWFsLWltcGFjdC1hbmQtZWZmZWN0LWNvdmlkLTE5LWFuZ29sYS0yMDIx0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/2DXkVdZFAmjhXgkvRAJk0_Z6Me6uE5tT8tciWGvE_GuGzE7Ls01IdgmmqZQY5Xbg4MonnIxke4DwlBBbLJXb0w335Qlxan4HCmADcdf3U5ly8nkLpLaAoyOLbZbjIHMVbZKs-rYAi8YdQH2YKriRIPX81-NzAatA12JqIoi76N8ByS5hytilgI9ylrsHdB_soSwpq19zqBil4bmOikKzhmSpibhrE-zQp6NWi4XSvWuJo7eblZG7ow=s0-w100-h100-dcIVKQK60G",
+    "source": "UNCTAD",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T09:35:43Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Angola: More than 100,000 children, adolescents vaccinated against Covid-19",
+    "articleUrl": "https://news.google.com./articles/CBMiZ2h0dHBzOi8vd3d3Lm1hY2F1YnVzaW5lc3MuY29tL2FuZ29sYS1tb3JlLXRoYW4tMTAwMDAwLWNoaWxkcmVuLWFkb2xlc2NlbnRzLXZhY2NpbmF0ZWQtYWdhaW5zdC1jb3ZpZC0xOS_SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/TlBuRP9cW028I8dh9xySUcTr8mpllmmAjLzuGI3w74vS-F9gOLr3Au8i_n160-8nx4crNH2L0QMjabW2wqY3ZYbgLZTVlY2NavWyormHQERxETEQ1LwqWiQj65ZKDIW37H0b8JFjwuHbLHNn3Aym0PC-PwvNZ2YKmPQUA3rHi-i1_Rs0D678ssDJ_SxpZnwhZ3lK6qE3JmK5hIx_umeB2kQjFKfdIRcxeg=s0-w100-h100-dcAXCSRbYG",
+    "source": "Macau Business",
+    "hoursAgo": "12 minutes ago",
+    "timeStamp": "2022-01-05T17:07:01Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Oil extends gains above $80 after OPEC+ output hike",
+    "articleUrl": "https://news.google.com./articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMDEvMDUvb2lsLW1hcmtldHMtdXMtZnVlbC1pbnZlbnRvcmllcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMDEvMDUvb2lsLW1hcmtldHMtdXMtZnVlbC1pbnZlbnRvcmllcy5odG1s?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kaO_frE6-NjUvy-NJGsLUEFg8CcGBMK1YKsoN1p3gU_2p3YNd94xqWtpf4lA-a9mK4G_5iO0t2ULieSsG5FSVvO4Lgw8KRm55fw4zDJ6xvTKngCWn8N3yg=s0-w100-h100-dciZOSCLYH",
+    "source": "CNBC",
+    "hoursAgo": "10 hours ago",
+    "timeStamp": "2022-01-05T07:07:09Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "3 Israeli diplomatic missions close due to COVID",
+    "articleUrl": "https://news.google.com./articles/CBMiWGh0dHBzOi8vd3d3LmlzcmFlbGhheW9tLmNvbS8yMDIyLzAxLzA1LzMtaXNyYWVsaS1kaXBsb21hdGljLW1pc3Npb25zLWNsb3NlLWR1ZS10by1jb3ZpZC_SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/KfOnD6v_9gJ178z61x61MsRvw8moN4I1amq4mLYq54UikXzpPZhZR4jDt67EDhVKC0VNzmvjLrdslSxPAIA-cKUzU84lAHkj13VkwVuELbO5kWVnbRAsFaCMiLnPioJlZWNjrWy_IwleYG3jAm3LrQN9tywjn_i3X8eEVlABDMauwXZWF7Nncl_4SAryFYB0vOg=s0-w100-h100-dcxdKMFEEF",
+    "source": "Israel Hayom",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:05:17Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Wall Street is learning to live with big risks",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vd3d3Lmtha2UuY29tL3N0b3J5LzQ1NTg4NTk1L3dhbGwtc3RyZWV0LWlzLWxlYXJuaW5nLXRvLWxpdmUtd2l0aC1iaWctcmlza3PSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/epb51YUr_UvnMqg0OSh6ab2_U92457ezu5AgaG5fBwGQHyPTQtj6jguPnPePWg5i-Lnr8cvZsaltf1CQn2YXhKxBBrDgzakrJtIX7mcQjnriM4TP_5Pn6EILznoURDsoaP0JCPLd=s0-w100-h100-dckZCOSTZnNe0B",
+    "source": "KAKE",
+    "hoursAgo": "3 hours ago",
+    "timeStamp": "2022-01-05T14:01:49Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Omusati: 18 Angolan babies die of malnutrition",
+    "articleUrl": "https://news.google.com./articles/CBMiVWh0dHBzOi8vd3d3Lm5hbWliaWFuLmNvbS5uYS8xMDg3NjQvcmVhZC9PbXVzYXRpLTE4LUFuZ29sYW4tYmFiaWVzLWRpZS1vZi1tYWxudXRyaXRpb27SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/l-9lV5zMxMcCVEe2zH_OyySUP7h5LAp4_8wlmLJnfn52PSm3gVstWgu519iDmj6w87n3b3KkSbdYoAYCX7Lanb-gDCFSvuLAcpoUOs3yWSrvUdw6=s0-w100-h100-dcARSKbpEK",
+    "source": "Namibian",
+    "hoursAgo": "5 hours ago",
+    "timeStamp": "2022-01-05T11:44:10Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Covid-19: Armenia Imposes New Regulations for Public Places",
+    "articleUrl": "https://news.google.com./articles/CBMiIWh0dHBzOi8vaGV0cS5hbS9lbi9hcnRpY2xlLzEzOTczM9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/zqBJQbmyL8m-HrFbourKbR6fpTfVoUo3TvjHk1DtkQ3WMlp4BAEwDNLERKuYCjtTtrdDusR8R9TZB4QAtBYpSDd0HfnFE2wc=s0-w100-h100-dcjRGK1iQK",
+    "source": "Hetq Online",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T09:57:00Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "129 new cases of COVID-19 confirmed in Armenia",
+    "articleUrl": "https://news.google.com./articles/CBMiJGh0dHBzOi8vbmV3cy5hbS9lbmcvbmV3cy82ODA2MDcuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vFrVBlkDuZTedvfQbYZDowY3J-uEkGHaQoeRhBWqPQo5MBG_wf0a729DOAMtuB77iy4tR1HcugC5yWO-9LJb2StGJ_6JxW7VkaRz_PAz4wFh4A=s0-w100-h100-dcIVWE7CUI",
+    "source": "Information-Analytic Agency NEWS.am",
+    "hoursAgo": "9 hours ago",
+    "timeStamp": "2022-01-05T07:25:07Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "COVID-19: Armenia in EU’s green zone",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vYXJtZW5wcmVzcy5hbS9lbmcvbmV3cy8xMDcyMzI4Lmh0bWzSASVodHRwczovL2FybWVucHJlc3MuYW0vZW5nL2FtcC8xMDcyMzI4?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/95FOQoiiEJt3CLMGyprTpPa2VcTPyfg_aS_jYaqdweGuVSAAGbF0sLzI9mH1RD0t2DjbKtYlgVFZXUkzed_PpNpniNJkE7msv-kMyuC5wr38qQ=s0-w100-h100-dcjYKGMbXmis8B",
+    "source": "Armenpress.am",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T13:03:57Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Armenian Minister of Healthcare to issue order mandating COVID-19 health pass",
+    "articleUrl": "https://news.google.com./articles/CAIiEIXm4Of_4GvY-pM8fu77LX0qGAgEKg8IACoHCAowgJLXAjDQvhMwp4nYBg?uo=CAUiJ2h0dHBzOi8vYXJtZW5wcmVzcy5hbS9lbmcvbmV3cy8xMDcyMzAxL9IBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/gOVCSqXDrBpPn2HdZQl5keIp048cWJYCMRTrRo-bcLBLw6QNU19Cw8ovJCCPCE6Sj6inIVBLip5e-Q5rB_OnCHYtmYOo6KSSRB0srp4-ZbbUtWsL6PDpTqU2G_MP58NRLND-y64KlJ5WEPQsjTZEE7-zrshPuTTxNRpKAUXet9GNpaC2-DcNgw=s0-w100-h100-dcoRKML5UG",
+    "source": "ARMENPRESS",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T09:02:56Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Carpet Jam Provides Platform for Armenian Musicians",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vb3V0bG9va25ld3NwYXBlcnMuY29tL2Jsb2cvMjAyMi8wMS8wNC9jYXJwZXQtamFtLXByb3ZpZGVzLXBsYXRmb3JtLWZvci1hcm1lbmlhbi1tdXNpY2lhbnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/E9P3xzyI9ImoDbu_1X6iJhhU9WFRSRtKm8sJx0nKEzxXq1StUnpJ_gKri64YBsS1uAK-Wi_byKWRnRQf5DIMaDMb3j_tmCqtCt3WlGbZdn89RR3Ri_TUunyi2aL50VrapL0YbZ20snUEcPXpAeIFKCTOj2M=s0-w100-h100-dcBQKKxRJqPaUC",
+    "source": "outlooknewspapers.com",
+    "hoursAgo": "20 hours ago",
+    "timeStamp": "2022-01-04T21:00:26Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Christmas In Armenia: When 'Light From The Church' Brightens The Darkest Days",
+    "articleUrl": "https://news.google.com./articles/CAIiEGwcFj_INpcyF-V6I6mejRQqGAgEKg8IACoHCAowq7KfCTDPhm8wjLGfAQ?uo=CAUiT2h0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL2FybWVuaWEtY2hyaXN0bWFzLXRyYWRpdGlvbnMtY2VsZWJyYXRpb25zLzMxNjM3NzcyLmh0bWzSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/HhnC6tjrdK8bPCx4OhEBLfILspT_w2e-U6UWlHdybOnsMCpGVxUzZXkB6VgycP1RabPoGuq768nP8YArcf35UZe-N-5_4YaQtZMFYHKq3lBX6KkCY6khFWqJe1QQUx7xTfY2luOHnz3AGnr4ORZswmHF5ORr=s0-w100-h100-dcAXGUJK3nqKoC",
+    "source": "Radio Free Europe / Radio Liberty",
+    "hoursAgo": "23 hours ago",
+    "timeStamp": "2022-01-04T17:56:01Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Argentina hits new Covid record: 81,210 cases in 24 hours",
+    "articleUrl": "https://news.google.com./articles/CBMiY2h0dHBzOi8vYmF0aW1lcy5jb20uYXIvbmV3cy9hcmdlbnRpbmEvYXJnZW50aW5hLWhpdHMtbmV3LWNvdmlkLXJlY29yZC04MTIxMC1jYXNlcy1pbi0yNC1ob3Vycy5waHRtbNIBZ2h0dHBzOi8vYmF0aW1lcy5jb20uYXIvbmV3cy9hbXAvYXJnZW50aW5hL2FyZ2VudGluYS1oaXRzLW5ldy1jb3ZpZC1yZWNvcmQtODEyMTAtY2FzZXMtaW4tMjQtaG91cnMucGh0bWw?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/CP9PefRTEjqt6e5r0yNGCP_2WFlFyzz_dx9a9VX9wIn9mz1EAH9_e_OXIbXTW3ZQ5YQpxRrqdt1jsyr4KmM9k8uqvMoxGJS8fAZQBZzddpxW1_FFOeDyv_ozD4iUgzk2L-tsCk90Dq_gywtspPCt2mofSagYSjJZTJIWBAXqXrjGG07TMa6BZQ-QOupsVvkAhAwIhT_qbt5xwE0WHG4TvBVYhnDTT67V9iKXImbj8Ou9Lb5VNrl1hq1gdUo6wl4bnulvECqyKDbb0TmOiD6ZTlt5ymlViD1Vj-rPgazYWCM=s0-w100-h100-dcITeWK5oJ",
+    "source": "Buenos Aires Times",
+    "hoursAgo": "20 hours ago",
+    "timeStamp": "2022-01-04T21:13:38Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Messi's dancefloor 'murder': How Covid-19 mystery soured PSG star's Argentine Christmas",
+    "articleUrl": "https://news.google.com./articles/CBMib2h0dHBzOi8vd3d3LmdvYWwuY29tL2VuLXVzL25ld3MvbWVzc2ktZGFuY2VmbG9vci1tdXJkZXItY292aWQtcHNnLWNoYW1waW9ucy1sZWFndWUtaGVhZGFjaGUvYmx0MWQxMTJiN2I0ODExNjU4ZtIBc2h0dHBzOi8vd3d3LmdvYWwuY29tL2VuLXVzL2FtcC9uZXdzL21lc3NpLWRhbmNlZmxvb3ItbXVyZGVyLWNvdmlkLXBzZy1jaGFtcGlvbnMtbGVhZ3VlLWhlYWRhY2hlL2JsdDFkMTEyYjdiNDgxMTY1OGY?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4SlDyvUH_vKNuJ0uc2fZf0H9Ez5eP4riV4va0bvoO85rgAOVUBavITY-0SvauZpuKBXZfDq2jPJuFzwWTXyIYHG9vlDwNp2UM13ckyMHzXk29kGFT_Ikdg1olJDgo8I_pJn_Itg5nsRQnThH9_FF9qunh9841LfFYy25I_RbPl4R-ZTKvAPd9UUudxF1qQtREs6gDf8nKpnqEGhjYrgoqa2J5E8N1KG2empAlSOXJKfxcrMz2A=s0-w100-h100-dcAbCI00wD",
+    "source": "Goal.com",
+    "hoursAgo": "5 hours ago",
+    "timeStamp": "2022-01-05T12:00:00Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Latest COVID updates: UK daily cases hit 200,000",
+    "articleUrl": "https://news.google.com./articles/CAIiECjkf479IK5szhq4vk7eH7EqFQgEKgwIACoFCAowhgIwkDgwsvqTBw?uo=CAUiZmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIyLzEvNC9pbmRpYS1oaXRzLWhpZ2hlc3QtZGFpbHktY292aWQtY2FzZXMtc2luY2Utc2VwdGVtYmVyLWxpdmUtbmV3c9IBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/CP9PefRTEjqt6e5r0yNGCP_2WFlFyzz_dx9a9VX9wIn9mz1EAH9_e_OXIbXTW3ZQ5YQpxRrqdt1jsyr4KmM9k8uqvMoxGJS8fAZQBZzddpxW1_FFOeDyv_ozD4iUgzk2L-tsCk90Dq_gywtspPCt2mofSagYSjJZTJIWBAXqXrjGG07TMa6BZQ-QOupsVvkAhAwIhT_qbt5xwE0WHG4TvBVYhnDTT67V9iKXImbj8Ou9Lb5VNrl1hq1gdUo6wl4bnulvECqyKDbb0TmOiD6ZTlt5ymlViD1Vj-rPgazYWCM=s0-w100-h100-dcITeWK5oJ",
+    "source": "Al Jazeera English",
+    "hoursAgo": "18 hours ago",
+    "timeStamp": "2022-01-04T22:56:58Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Messi's dancefloor 'murder': Covid infection gives PSG serious Champions League headache",
+    "articleUrl": "https://news.google.com./articles/CBMib2h0dHBzOi8vd3d3LmdvYWwuY29tL2VuLWJoL25ld3MvbWVzc2ktZGFuY2VmbG9vci1tdXJkZXItY292aWQtcHNnLWNoYW1waW9ucy1sZWFndWUtaGVhZGFjaGUvYmx0MWQxMTJiN2I0ODExNjU4ZtIBc2h0dHBzOi8vd3d3LmdvYWwuY29tL2VuLWJoL2FtcC9uZXdzL21lc3NpLWRhbmNlZmxvb3ItbXVyZGVyLWNvdmlkLXBzZy1jaGFtcGlvbnMtbGVhZ3VlLWhlYWRhY2hlL2JsdDFkMTEyYjdiNDgxMTY1OGY?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/WHipfGyiYEV49sKVaBSGk7rz0ThDiSwG52DD5SpYOXOpjinA1H5WabHsJiyIKqjptXoTVivOfUha1Qk3GeubbOD97szAgKFmRsM-15ut5QxcklsbMII_XmpxFnK-OEagTDEM3TnCjW1sNoNgFwEb2Jo3dYQflHRp19JQ0GyVVkiVWkI=s0-w100-h100-dcnXWSCy4H",
+    "source": "Goal.com",
+    "hoursAgo": "5 hours ago",
+    "timeStamp": "2022-01-05T12:00:00Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Global Covid caseload tops 295 mn",
+    "articleUrl": "https://news.google.com./articles/CAIiEM2Qc9cZXSv2rI0727Dk5IYqGQgEKhAIACoHCAowyo-HCzD-tIUDMKTXlgY?uo=CAUiUGh0dHBzOi8vd3d3LnRyaWJ1bmVpbmRpYS5jb20vbmV3cy93b3JsZC9nbG9iYWwtY292aWQtY2FzZWxvYWQtdG9wcy0yOTUtbW4tMzU4Mzgx0gEA&hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "The Tribune India",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:58:00Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Liverpool wants Arsenal cup match postponed over COVID",
+    "articleUrl": "https://news.google.com./articles/CBMiggFodHRwczovL3d3dy5mb3g1dmVnYXMuY29tL2xpdmVycG9vbC13YW50cy1hcnNlbmFsLWN1cC1tYXRjaC1wb3N0cG9uZWQtb3Zlci1jb3ZpZC9hcnRpY2xlXzc3ZTEwYzQyLTljZjQtNWU5MC1iODVmLTIzMWVhYWQ4OTc5Mi5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "FOX5 Las Vegas",
+    "hoursAgo": "20 hours ago",
+    "timeStamp": "2022-01-04T21:12:20Z",
+    "country": "Argentina"
+  }
+]  {
+    "articleTitle": "Albania, Brazil, Gabon, Ghana ,UAE join Security Council",
+    "articleUrl": "https://news.google.com./articles/CBMiUGh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL2FsYmFuaWEtYnJhemlsLWdhYm9uLWdoYW5hLXVhZS1qb2luLXNlY3VyaXR5LWNvdW5jaWwv0gFUaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3MvYWxiYW5pYS1icmF6aWwtZ2Fib24tZ2hhbmEtdWFlLWpvaW4tc2VjdXJpdHktY291bmNpbC9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/mLYpqmHajFr_PRL78NChQUEysK2HWwYCAO2Kq2id_ny68mImjKEeu8qUyNxLRtKW8rkkNZxbkXlT4agcFTd-EqLCiMXYYzlVVrwfWwec8d_xU2WEpUXoANbUCBRRK2ofO7xaIFOrk-nCjSsDTCeAbZlllaL8vqQ=s0-w100-h100-dcCYGKtUgE",
+    "source": "CBS17.com",
+    "hoursAgo": "22 hours ago",
+    "timeStamp": "2022-01-04T19:13:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Albanian Daily News",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vYWxiYW5pYW5kYWlseW5ld3MuY29tL25ld3MvYWxiYW5pYS1vdXRzaWRlLWNvdmlkLWVuZGFuZ2VyZWQtY291bnRyaWVzLWxpc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/EuaYW5NGoEZ2T4i2A-a3vtrogX_3dNU76Er5J8yY736xnXWL1rpHtvTY4uXB95rqBQdCmi32RgGL1vJSi-97sxVnoQl5ul5XnF4yM2Lz9R-krkJh-YOA1YiejWQ=s0-w100-h100-dcAUCKLESlcvAB",
+    "source": "albaniandailynews.com",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T08:37:22Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Turkey reached out to 160 countries with help amid COVID-19 | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3R1cmtleS90dXJrZXktcmVhY2hlZC1vdXQtdG8tMTYwLWNvdW50cmllcy13aXRoLWhlbHAtYW1pZC1jb3ZpZC0xOS9uZXdz0gFmaHR0cHM6Ly93d3cuZGFpbHlzYWJhaC5jb20vdHVya2V5L3R1cmtleS1yZWFjaGVkLW91dC10by0xNjAtY291bnRyaWVzLXdpdGgtaGVscC1hbWlkLWNvdmlkLTE5L25ld3MvYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/QuvUw72ve1Q-I6YwLi7BCUnwungUTGt6FwZyMoUoeCGuWwksOr82_XT9CVS3i2HNvz-uO420Vb-OdWLmTsBB7n74Q36J4wnbk4-ZVuvYzj2Q6vPc8Ds2fnVN_CW-0v9ECOX5XjiJp-PNxwBI=s0-w100-h100-dcAVCM0aCle3AB",
+    "source": "Daily Sabah",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T12:38:26Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "'Far from paradise': Hopeful Albanian youth find hardship abroad",
+    "articleUrl": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZNIBbGh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjAxMDUtZmFyLWZyb20tcGFyYWRpc2UtaG9wZWZ1bC1hbGJhbmlhbi15b3V0aC1maW5kLWhhcmRzaGlwLWFicm9hZA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/SYIP2mGF43auxUjVkqBey0dwtjPiJ1AQnqnXAsfKJ08QgiwY77FzNmSFBvWZ2aEGMvysJTxgA-23fIGwWjWaVbLQYQcv2NDmMRvaKi2S6WrBT6pJD1KMaIaknZX4YhKXpkJP8czPmSyZvtBPhECe0l_uUTtgAPnh7TJWuZ_b4M5eNHd76TcTGw1p6uc_Pljl09UA5AaItw9tAJIlhkouTw=s0-w100-h100-dcKUKB82AB",
+    "source": "FRANCE 24",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T06:16:15Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Montenegro Leads Region in Sudden Surge in COVID-19 Cases",
+    "articleUrl": "https://news.google.com./articles/CBMiX2h0dHBzOi8vYmFsa2FuaW5zaWdodC5jb20vMjAyMi8wMS8wNS9tb250ZW5lZ3JvLWxlYWRzLXJlZ2lvbi1pbi1zdWRkZW4tc3VyZ2UtaW4tY292aWQtMTktY2FzZXMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vOc9l8SE1mNqN-phqqSpgK7FaM1Pxrv1gKvU32a5GvGb2Cz77jHVsmzePa9emRZ9zjGu9TyHokyuD2op65rnV2D4XYkprJNbaCjhOZ90pf9kt2ZhsMIBy9leQQic0nCAF5PsSHc=s0-w100-h100-dcAaCOpb4F",
+    "source": "Balkan Insight",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:32:49Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "XENOS, HELEN",
+    "articleUrl": "https://news.google.com./articles/CBMiTmh0dHBzOi8vd3d3LmpvdXJuYWwtbmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRdIBYGh0dHBzOi8vd3d3LmRheXRvbmRhaWx5bmV3cy5jb20vb2JpdHVhcmllcy94ZW5vcy1oZWxlbi83VDJZUU5BS1ZaRVNQR0ZJN1RWVUdSVVhCRT9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4BsrOKf6lX4nsBWPGhxnkLyXHzfl8ophy1e0tmBV6Ec8yslD1MWg1fSpX3TTIcYwyjzXnv6Toy9PJTz-bMh2-veiKho47pkmjhi4NVtC2Y1Teyi4wB8La2rMcTG_MwITHnC-eDulbgSEZEtJyZrKkVVv1pqJO54=s0-w100-h100-dclVOUaLZmVGcC",
+    "source": "Hamilton Journal News",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:25:44Z",
+    "country": "Albania"
+  },
+  {
+    "articleTitle": "Algeria Construction Market Trends and Opportunities Report 2021-2025 - ResearchAndMarkets.com",
+    "articleUrl": "https://news.google.com./articles/CBMilwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMDEwNTAwNTU0NC9lbi9BbGdlcmlhLUNvbnN0cnVjdGlvbi1NYXJrZXQtVHJlbmRzLWFuZC1PcHBvcnR1bml0aWVzLVJlcG9ydC0yMDIxLTIwMjUtLS1SZXNlYXJjaEFuZE1hcmtldHMuY29t0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/aLNBlv0WX27vteX9sfLlQfr8kkgQ2AiYlxLJRMWomku6P-G0kdQeyPYditvC7UGJ0obR27UNJgnbq7F3zEdW-ZUqVJDujyF651_2iLkzPlyQ6mKPye2ovuy1OmfxkiPSH2Q0gxAYNuI2w4sOhZ8pxmMnkI02HpHEkNlmEeKsQ-wCpckdha5DJpKWugmPy9In6AzIzxEypFxaMWcny_p0Rk1nj8BanjnOZ2c6PiP5xAllVnLtpDvqXKjnnfCxc9HrEyhut7XYGCy7XCzN5wuofO5J4Oa_pDAJlJPlPliRdGGbRKhQkvVAoVQXUmMr4BM-ana1US_H_SWEgdBVeCra0Tp6ZveHOQA6ihLdJ4yBPvSD2cupoqzqWaO4_t6a7_HXO7BUCc4=s0-w100-h100-dcDXCMJi4H",
+    "source": "Business Wire",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:10:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Mahrez-led Algeria impress, but must buck trend to retain title",
+    "articleUrl": "https://news.google.com./articles/CBMiR2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9tYWhyZXotbGVkLWFsZ2VyaWEtaW1wcmVzcy1tdXN0LTAyMzExOTA5NC5odG1s0gFPaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbWFocmV6LWxlZC1hbGdlcmlhLWltcHJlc3MtbXVzdC0wMjMxMTkwOTQuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/oXB1BPvwPqh6MEB5ogH-KX-3DBXMkgKd5cXSuMhqmJ3QVgdVbdFfWCYc_G-XWv4Ze9LdlVccLahOLuek3ZJmYG3rkEXiuhO1NNvDohbz2RuYhwodEnCuxmEOPmwsItgOwVLCGTlke635kCPFytJpHdoGwTp_uDdarHLW5LAZT3OCSpcR8P3z6c_VYV2oLKvSzIrF9DqBPRwGwx7K-H3TaNoqTS1VlFrAzm-b3Ix99OH-LsUnEs9FKRae2Wzjr-cYz60FXOpLqlGwaU6oaQHOOMg=s0-w100-h100-dcFTKGBx0K",
+    "source": "Yahoo Sports",
+    "hoursAgo": "14 hours ago",
+    "timeStamp": "2022-01-05T02:31:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Senegal latest team hit by virus days ahead of African Cup",
+    "articleUrl": "https://news.google.com./articles/CBMinAFodHRwczovL3d3dy5vdHR1bXdhY291cmllci5jb20vbmV3cy9jb3JvbmF2aXJ1cy9zZW5lZ2FsLWxhdGVzdC10ZWFtLWhpdC1ieS12aXJ1cy1kYXlzLWFoZWFkLW9mLWFmcmljYW4tY3VwL2FydGljbGVfZTlhMmU3MmYtZjkwMC01NDMyLTk4ZmItMzc2NTI5MDM3MWZkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kJtLKPUn1nM2EmS855aUIJTGhngjWUI8w87BG8-YpOhilStA_FjsHU7PHF-u-Qz78Puv3-E_DBNWZz-hFwtAG6vjIIHQzeDmpZS4zlJpwI_5ttSXZBz5c3MGjut3VYuINXR-E9aV9FI=s0-w100-h100-dcJTaWCx4J",
+    "source": "Ottumwacourier",
+    "hoursAgo": "2 hours ago",
+    "timeStamp": "2022-01-05T14:23:37Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Second Tunisia player tests positive for Covid — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CAIiEBK1BRSSZoPtQ73kawTzdh0qGQgEKhAIACoHCAow5tb5CjCzyuYCMMT5twU?uo=CAUiSWh0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvc2Vjb25kLXR1bmlzaWEtcGxheWVyLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC_SAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/6ZHzo7sYk9GM_N_CUdU6_Pz2zzXF1wHfWItL3ZTkpO5hr_su_Vf12m3lEXAymQ9lVLHlSN3zwgXbw5yOLj6g--V6SLhNI1Kk9FQoJ9BU5QQS7YQOdBz8jvgbV1mJr95S9ffLgrE=s0-w100-h100-dcPSSIcRkK",
+    "source": "Guardian Nigeria",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:37:09Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Gambia facing Covid AFCON 'catastrophe' says coach — Sport — The Guardian Nigeria News – Nigeria and World News",
+    "articleUrl": "https://news.google.com./articles/CBMiS2h0dHBzOi8vZ3VhcmRpYW4ubmcvc3BvcnQvZ2FtYmlhLWZhY2luZy1jb3ZpZC1hZmNvbi1jYXRhc3Ryb3BoZS1zYXlzLWNvYWNoL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NMESrYmP6FUsu7HkZftYtYesmZyLexFJTe-JtRq5F6i-5Obmp-O00Cr6HWKLluDSN9_OKd_t7McEHrizJ9P61JSnxHsSFW8d1s-0h85qZOvHQ154o6L5MiUvhJQ8jQyZY-JVs62wGeAwD4EUI82jSsQBqZo3viiFKKR5NLs=s0-w100-h100-dcpVSIraUH",
+    "source": "Guardian",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T10:06:00Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "Afcon 2021: Attendances capped at 60-80% for tournament in Cameroon",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hZnJpY2EvNTk4Nzk4NTHSAS1odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2FmcmljYS81OTg3OTg1MS5hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/we8hBLmcjFESxlt1Va0QSzE0iqA8GU4ZK_TeZ5sNPHROWSMLCtBGfK6akso9Tvrhw4MxubCkzDCZrA0Gbi6a4wuhJNa4Y1arGNExI_-McEic0UFP24WtFV3tlACEJh2F4FwrpKP0xJ4=s0-w100-h100-dcHWCSjKgI",
+    "source": "BBC Sport",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:17:48Z",
+    "country": "Algeria"
+  },
+  {
+    "articleTitle": "US CDC Cautions Americans Against Travel to Singapore",
+    "articleUrl": "https://news.google.com./articles/CAIiEKPxkoBPB7ThabAbgwSkPv8qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUiYGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTAxLTA0L3Utcy1jZGMtc2F5cy1zaW5nYXBvcmUtcy1jb3ZpZC1sZXZlbHMtdW5rbm93btIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/RX3WB01j9ZaVuTZri--1F1lZsgi9QVsNQz854eF1c_hSqieaZR7TI61_P3aO54nvXVDo4tCXx-hJNquQYEqSMsLFS_IERyuYR_SQrj7oG6iAX_NUMSjbNIfKZpYt8Dn7FqN3fc0Rgjr-Gdbq=s0-w100-h100-dcAVSSrSkH",
+    "source": "Bloomberg",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T10:53:54Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Is the world failing the Afghan migrants challenge? | Daily Sabah",
+    "articleUrl": "https://news.google.com./articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL29waW5pb24vb3AtZWQvaXMtdGhlLXdvcmxkLWZhaWxpbmctdGhlLWFmZ2hhbi1taWdyYW50cy1jaGFsbGVuZ2XSAV9odHRwczovL3d3dy5kYWlseXNhYmFoLmNvbS9vcGluaW9uL29wLWVkL2lzLXRoZS13b3JsZC1mYWlsaW5nLXRoZS1hZmdoYW4tbWlncmFudHMtY2hhbGxlbmdlL2FtcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/qwlDULaO2x9aMVNZ7ssKubtugBQnR-Mn6EIhOEZG7HV0H4GebqZTPf4F8u-9NR75B5akpwm0H3fZm1w7i6QKhn_pwj9iOOsolC7s9nRd4dlPGQzjFJMx7rtkz0w1V3YGi9wMI9dJlaStHbpXmR509x9iZQ6HXSCxC4wZBNx3IdcK=s0-w100-h100-dcATSOhJoJ",
+    "source": "Daily Sabah",
+    "hoursAgo": "21 hours ago",
+    "timeStamp": "2022-01-04T19:45:22Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "'Millions in Afghanistan are currently clinging to life by a thread - you can help': Sarah Boyack MSP",
+    "articleUrl": "https://news.google.com./articles/CBMid2h0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9wb2xpdGljcy8xOTgyNjQyMC5taWxsaW9ucy1hZmdoYW5pc3Rhbi1jbGluZ2luZy10aHJlYWQtbGlmZS0tLWNhbi1oZWxwLXNhcmFoLWJveWFjay1tc3Av0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/LDB4pmIIsdaO1PywY1KsZLXL0q1T7WM3mq0Ds84jOdkseJM9rqKCUSHcTwVHPBwkVvZDiio47l71ZU26VrYtwNV5wEh7DrOiAv-IHDd71scqES5jTI3jv1geDcW5KVnndDdvPdBQAsd0KSAD3em-7GoxmCjIYwsp9N1htb57YNUSV0ogCPDhDCZEHJPV=s0-w100-h100-dcAVGQEqEI",
+    "source": "HeraldScotland",
+    "hoursAgo": "51 minutes ago",
+    "timeStamp": "2022-01-05T16:27:53Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "The CDC says a test to get out of COVID isolation is not needed, resisting pushback",
+    "articleUrl": "https://news.google.com./articles/CAIiEIs7Vsk0Bxivn7EP5dsCIBgqFwgEKg4IACoGCAow9vBNMK3UCDCpvJYH?uo=CAUiTGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMi8wMS8wNC8xMDcwNDEzMzExL2NkYy10ZXN0LWNvdmlkLWlzb2xhdGlvbi1maXZlLWRheXPSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/NxeB7R0ACBa-CMVeM-0sWI1xbTFREPLo42UFcqYv1iOsTywE-2dumybyvFWuETiLNfLhFgWIZE3aEp7LTZrvZlPC8BgZa3MAKU_wo97jBc2hRTWjNgjpixqc4cdyIZnapZdFlxJZSIezo9kpUs-00DT3aCporJSTe6_cc7t3s6rD2eZB3QV5ast8XjQJlfI=s0-w100-h100-dcDSKepxoqReQC",
+    "source": "NPR",
+    "hoursAgo": "15 hours ago",
+    "timeStamp": "2022-01-05T01:25:20Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Late-night hosts Jimmy Fallon and Seth Meyers test positive for COVID-19",
+    "articleUrl": "https://news.google.com./articles/CAIiEMOR9KLLCmXeJ3aL4tbOJGYqFwgEKg4IACoGCAow9vBNMK3UCDCFpJYH?uo=CAUiamh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjIvMDEvMDQvMTA3MDM0OTI0NS9qaW1teS1mYWxsb24tc2V0aC1tZXllcnMtY292aWTSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/uNzwYKYRmj3awm7LO1miVxw9pQG01RZspQc0xIdEVlEi-2opEmXxrfJ97jQ4GS3d1EtV-Fi2wZUqWkgEKaDPG-v13NQyuSX99cuMGu46AAm7Tiq46r1YrUsDUAeLXT73O1m-AFyILbFVX5XMg-ewlWJPrA=s0-w100-h100-dcJVCcMKUI",
+    "source": "NPR",
+    "hoursAgo": "18 hours ago",
+    "timeStamp": "2022-01-04T22:53:21Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "First Firefight: Turkmen, Taliban Engage In Border Shoot-Out",
+    "articleUrl": "https://news.google.com./articles/CAIiEA_RWt011BKt0XsyNzRBEj0qMwgEKioIACIQbSf1ztl9Af4yamcROsJhFyoUCAoiEG0n9c7ZfQH-MmpnETrCYRcwr9PGBg?uo=CAUiS2h0dHBzOi8vZ2FuZGhhcmEucmZlcmwub3JnL2EvdHVya21lbi10YWxpYmFuLWJvcmRlci1zaG9vdC1vdXQvMzE2NDA5NjUuaHRtbNIBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/JN8c0x4695E9SpbY1NINUgjetTX2RDKpXgy4WFac9YtcNBbi_gIcdk6vqs2sWEV3pmbWL_vwRSHxlhOiwpW7nLc9hqUOB-QNFwbW1pTCQsVCjLuSuuldJ2ufVmk03LZCyHSP=s0-w100-h100-dcFWKECakH",
+    "source": "Gandhara",
+    "hoursAgo": "52 minutes ago",
+    "timeStamp": "2022-01-05T16:26:57Z",
+    "country": "Afghanistan"
+  },
+  {
+    "articleTitle": "Economic and social impact and effect of COVID-19 in Angola 2021",
+    "articleUrl": "https://news.google.com./articles/CBMiVmh0dHBzOi8vdW5jdGFkLm9yZy93ZWJmbHllci9lY29ub21pYy1hbmQtc29jaWFsLWltcGFjdC1hbmQtZWZmZWN0LWNvdmlkLTE5LWFuZ29sYS0yMDIx0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/2DXkVdZFAmjhXgkvRAJk0_Z6Me6uE5tT8tciWGvE_GuGzE7Ls01IdgmmqZQY5Xbg4MonnIxke4DwlBBbLJXb0w335Qlxan4HCmADcdf3U5ly8nkLpLaAoyOLbZbjIHMVbZKs-rYAi8YdQH2YKriRIPX81-NzAatA12JqIoi76N8ByS5hytilgI9ylrsHdB_soSwpq19zqBil4bmOikKzhmSpibhrE-zQp6NWi4XSvWuJo7eblZG7ow=s0-w100-h100-dcIVKQK60G",
+    "source": "UNCTAD",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T09:35:43Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Angola: More than 100,000 children, adolescents vaccinated against Covid-19",
+    "articleUrl": "https://news.google.com./articles/CBMiZ2h0dHBzOi8vd3d3Lm1hY2F1YnVzaW5lc3MuY29tL2FuZ29sYS1tb3JlLXRoYW4tMTAwMDAwLWNoaWxkcmVuLWFkb2xlc2NlbnRzLXZhY2NpbmF0ZWQtYWdhaW5zdC1jb3ZpZC0xOS_SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/TlBuRP9cW028I8dh9xySUcTr8mpllmmAjLzuGI3w74vS-F9gOLr3Au8i_n160-8nx4crNH2L0QMjabW2wqY3ZYbgLZTVlY2NavWyormHQERxETEQ1LwqWiQj65ZKDIW37H0b8JFjwuHbLHNn3Aym0PC-PwvNZ2YKmPQUA3rHi-i1_Rs0D678ssDJ_SxpZnwhZ3lK6qE3JmK5hIx_umeB2kQjFKfdIRcxeg=s0-w100-h100-dcAXCSRbYG",
+    "source": "Macau Business",
+    "hoursAgo": "12 minutes ago",
+    "timeStamp": "2022-01-05T17:07:01Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Oil extends gains above $80 after OPEC+ output hike",
+    "articleUrl": "https://news.google.com./articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMDEvMDUvb2lsLW1hcmtldHMtdXMtZnVlbC1pbnZlbnRvcmllcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjIvMDEvMDUvb2lsLW1hcmtldHMtdXMtZnVlbC1pbnZlbnRvcmllcy5odG1s?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/kaO_frE6-NjUvy-NJGsLUEFg8CcGBMK1YKsoN1p3gU_2p3YNd94xqWtpf4lA-a9mK4G_5iO0t2ULieSsG5FSVvO4Lgw8KRm55fw4zDJ6xvTKngCWn8N3yg=s0-w100-h100-dciZOSCLYH",
+    "source": "CNBC",
+    "hoursAgo": "10 hours ago",
+    "timeStamp": "2022-01-05T07:07:09Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "3 Israeli diplomatic missions close due to COVID",
+    "articleUrl": "https://news.google.com./articles/CBMiWGh0dHBzOi8vd3d3LmlzcmFlbGhheW9tLmNvbS8yMDIyLzAxLzA1LzMtaXNyYWVsaS1kaXBsb21hdGljLW1pc3Npb25zLWNsb3NlLWR1ZS10by1jb3ZpZC_SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/KfOnD6v_9gJ178z61x61MsRvw8moN4I1amq4mLYq54UikXzpPZhZR4jDt67EDhVKC0VNzmvjLrdslSxPAIA-cKUzU84lAHkj13VkwVuELbO5kWVnbRAsFaCMiLnPioJlZWNjrWy_IwleYG3jAm3LrQN9tywjn_i3X8eEVlABDMauwXZWF7Nncl_4SAryFYB0vOg=s0-w100-h100-dcxdKMFEEF",
+    "source": "Israel Hayom",
+    "hoursAgo": "6 hours ago",
+    "timeStamp": "2022-01-05T11:05:17Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Wall Street is learning to live with big risks",
+    "articleUrl": "https://news.google.com./articles/CBMiUmh0dHBzOi8vd3d3Lmtha2UuY29tL3N0b3J5LzQ1NTg4NTk1L3dhbGwtc3RyZWV0LWlzLWxlYXJuaW5nLXRvLWxpdmUtd2l0aC1iaWctcmlza3PSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/epb51YUr_UvnMqg0OSh6ab2_U92457ezu5AgaG5fBwGQHyPTQtj6jguPnPePWg5i-Lnr8cvZsaltf1CQn2YXhKxBBrDgzakrJtIX7mcQjnriM4TP_5Pn6EILznoURDsoaP0JCPLd=s0-w100-h100-dckZCOSTZnNe0B",
+    "source": "KAKE",
+    "hoursAgo": "3 hours ago",
+    "timeStamp": "2022-01-05T14:01:49Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Omusati: 18 Angolan babies die of malnutrition",
+    "articleUrl": "https://news.google.com./articles/CBMiVWh0dHBzOi8vd3d3Lm5hbWliaWFuLmNvbS5uYS8xMDg3NjQvcmVhZC9PbXVzYXRpLTE4LUFuZ29sYW4tYmFiaWVzLWRpZS1vZi1tYWxudXRyaXRpb27SAQA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/l-9lV5zMxMcCVEe2zH_OyySUP7h5LAp4_8wlmLJnfn52PSm3gVstWgu519iDmj6w87n3b3KkSbdYoAYCX7Lanb-gDCFSvuLAcpoUOs3yWSrvUdw6=s0-w100-h100-dcARSKbpEK",
+    "source": "Namibian",
+    "hoursAgo": "5 hours ago",
+    "timeStamp": "2022-01-05T11:44:10Z",
+    "country": "Angola"
+  },
+  {
+    "articleTitle": "Covid-19: Armenia Imposes New Regulations for Public Places",
+    "articleUrl": "https://news.google.com./articles/CBMiIWh0dHBzOi8vaGV0cS5hbS9lbi9hcnRpY2xlLzEzOTczM9IBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/zqBJQbmyL8m-HrFbourKbR6fpTfVoUo3TvjHk1DtkQ3WMlp4BAEwDNLERKuYCjtTtrdDusR8R9TZB4QAtBYpSDd0HfnFE2wc=s0-w100-h100-dcjRGK1iQK",
+    "source": "Hetq Online",
+    "hoursAgo": "7 hours ago",
+    "timeStamp": "2022-01-05T09:57:00Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "129 new cases of COVID-19 confirmed in Armenia",
+    "articleUrl": "https://news.google.com./articles/CBMiJGh0dHBzOi8vbmV3cy5hbS9lbmcvbmV3cy82ODA2MDcuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/vFrVBlkDuZTedvfQbYZDowY3J-uEkGHaQoeRhBWqPQo5MBG_wf0a729DOAMtuB77iy4tR1HcugC5yWO-9LJb2StGJ_6JxW7VkaRz_PAz4wFh4A=s0-w100-h100-dcIVWE7CUI",
+    "source": "Information-Analytic Agency NEWS.am",
+    "hoursAgo": "9 hours ago",
+    "timeStamp": "2022-01-05T07:25:07Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "COVID-19: Armenia in EU’s green zone",
+    "articleUrl": "https://news.google.com./articles/CBMiK2h0dHBzOi8vYXJtZW5wcmVzcy5hbS9lbmcvbmV3cy8xMDcyMzI4Lmh0bWzSASVodHRwczovL2FybWVucHJlc3MuYW0vZW5nL2FtcC8xMDcyMzI4?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/95FOQoiiEJt3CLMGyprTpPa2VcTPyfg_aS_jYaqdweGuVSAAGbF0sLzI9mH1RD0t2DjbKtYlgVFZXUkzed_PpNpniNJkE7msv-kMyuC5wr38qQ=s0-w100-h100-dcjYKGMbXmis8B",
+    "source": "Armenpress.am",
+    "hoursAgo": "4 hours ago",
+    "timeStamp": "2022-01-05T13:03:57Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Armenian Minister of Healthcare to issue order mandating COVID-19 health pass",
+    "articleUrl": "https://news.google.com./articles/CAIiEIXm4Of_4GvY-pM8fu77LX0qGAgEKg8IACoHCAowgJLXAjDQvhMwp4nYBg?uo=CAUiJ2h0dHBzOi8vYXJtZW5wcmVzcy5hbS9lbmcvbmV3cy8xMDcyMzAxL9IBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/gOVCSqXDrBpPn2HdZQl5keIp048cWJYCMRTrRo-bcLBLw6QNU19Cw8ovJCCPCE6Sj6inIVBLip5e-Q5rB_OnCHYtmYOo6KSSRB0srp4-ZbbUtWsL6PDpTqU2G_MP58NRLND-y64KlJ5WEPQsjTZEE7-zrshPuTTxNRpKAUXet9GNpaC2-DcNgw=s0-w100-h100-dcoRKML5UG",
+    "source": "ARMENPRESS",
+    "hoursAgo": "8 hours ago",
+    "timeStamp": "2022-01-05T09:02:56Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Carpet Jam Provides Platform for Armenian Musicians",
+    "articleUrl": "https://news.google.com./articles/CBMiYmh0dHBzOi8vb3V0bG9va25ld3NwYXBlcnMuY29tL2Jsb2cvMjAyMi8wMS8wNC9jYXJwZXQtamFtLXByb3ZpZGVzLXBsYXRmb3JtLWZvci1hcm1lbmlhbi1tdXNpY2lhbnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/E9P3xzyI9ImoDbu_1X6iJhhU9WFRSRtKm8sJx0nKEzxXq1StUnpJ_gKri64YBsS1uAK-Wi_byKWRnRQf5DIMaDMb3j_tmCqtCt3WlGbZdn89RR3Ri_TUunyi2aL50VrapL0YbZ20snUEcPXpAeIFKCTOj2M=s0-w100-h100-dcBQKKxRJqPaUC",
+    "source": "outlooknewspapers.com",
+    "hoursAgo": "20 hours ago",
+    "timeStamp": "2022-01-04T21:00:26Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Christmas In Armenia: When 'Light From The Church' Brightens The Darkest Days",
+    "articleUrl": "https://news.google.com./articles/CAIiEGwcFj_INpcyF-V6I6mejRQqGAgEKg8IACoHCAowq7KfCTDPhm8wjLGfAQ?uo=CAUiT2h0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL2FybWVuaWEtY2hyaXN0bWFzLXRyYWRpdGlvbnMtY2VsZWJyYXRpb25zLzMxNjM3NzcyLmh0bWzSAQA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/HhnC6tjrdK8bPCx4OhEBLfILspT_w2e-U6UWlHdybOnsMCpGVxUzZXkB6VgycP1RabPoGuq768nP8YArcf35UZe-N-5_4YaQtZMFYHKq3lBX6KkCY6khFWqJe1QQUx7xTfY2luOHnz3AGnr4ORZswmHF5ORr=s0-w100-h100-dcAXGUJK3nqKoC",
+    "source": "Radio Free Europe / Radio Liberty",
+    "hoursAgo": "23 hours ago",
+    "timeStamp": "2022-01-04T17:56:01Z",
+    "country": "Armenia"
+  },
+  {
+    "articleTitle": "Argentina hits new Covid record: 81,210 cases in 24 hours",
+    "articleUrl": "https://news.google.com./articles/CBMiY2h0dHBzOi8vYmF0aW1lcy5jb20uYXIvbmV3cy9hcmdlbnRpbmEvYXJnZW50aW5hLWhpdHMtbmV3LWNvdmlkLXJlY29yZC04MTIxMC1jYXNlcy1pbi0yNC1ob3Vycy5waHRtbNIBZ2h0dHBzOi8vYmF0aW1lcy5jb20uYXIvbmV3cy9hbXAvYXJnZW50aW5hL2FyZ2VudGluYS1oaXRzLW5ldy1jb3ZpZC1yZWNvcmQtODEyMTAtY2FzZXMtaW4tMjQtaG91cnMucGh0bWw?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/CP9PefRTEjqt6e5r0yNGCP_2WFlFyzz_dx9a9VX9wIn9mz1EAH9_e_OXIbXTW3ZQ5YQpxRrqdt1jsyr4KmM9k8uqvMoxGJS8fAZQBZzddpxW1_FFOeDyv_ozD4iUgzk2L-tsCk90Dq_gywtspPCt2mofSagYSjJZTJIWBAXqXrjGG07TMa6BZQ-QOupsVvkAhAwIhT_qbt5xwE0WHG4TvBVYhnDTT67V9iKXImbj8Ou9Lb5VNrl1hq1gdUo6wl4bnulvECqyKDbb0TmOiD6ZTlt5ymlViD1Vj-rPgazYWCM=s0-w100-h100-dcITeWK5oJ",
+    "source": "Buenos Aires Times",
+    "hoursAgo": "20 hours ago",
+    "timeStamp": "2022-01-04T21:13:38Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Messi's dancefloor 'murder': How Covid-19 mystery soured PSG star's Argentine Christmas",
+    "articleUrl": "https://news.google.com./articles/CBMib2h0dHBzOi8vd3d3LmdvYWwuY29tL2VuLXVzL25ld3MvbWVzc2ktZGFuY2VmbG9vci1tdXJkZXItY292aWQtcHNnLWNoYW1waW9ucy1sZWFndWUtaGVhZGFjaGUvYmx0MWQxMTJiN2I0ODExNjU4ZtIBc2h0dHBzOi8vd3d3LmdvYWwuY29tL2VuLXVzL2FtcC9uZXdzL21lc3NpLWRhbmNlZmxvb3ItbXVyZGVyLWNvdmlkLXBzZy1jaGFtcGlvbnMtbGVhZ3VlLWhlYWRhY2hlL2JsdDFkMTEyYjdiNDgxMTY1OGY?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/4SlDyvUH_vKNuJ0uc2fZf0H9Ez5eP4riV4va0bvoO85rgAOVUBavITY-0SvauZpuKBXZfDq2jPJuFzwWTXyIYHG9vlDwNp2UM13ckyMHzXk29kGFT_Ikdg1olJDgo8I_pJn_Itg5nsRQnThH9_FF9qunh9841LfFYy25I_RbPl4R-ZTKvAPd9UUudxF1qQtREs6gDf8nKpnqEGhjYrgoqa2J5E8N1KG2empAlSOXJKfxcrMz2A=s0-w100-h100-dcAbCI00wD",
+    "source": "Goal.com",
+    "hoursAgo": "5 hours ago",
+    "timeStamp": "2022-01-05T12:00:00Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Latest COVID updates: UK daily cases hit 200,000",
+    "articleUrl": "https://news.google.com./articles/CAIiECjkf479IK5szhq4vk7eH7EqFQgEKgwIACoFCAowhgIwkDgwsvqTBw?uo=CAUiZmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIyLzEvNC9pbmRpYS1oaXRzLWhpZ2hlc3QtZGFpbHktY292aWQtY2FzZXMtc2luY2Utc2VwdGVtYmVyLWxpdmUtbmV3c9IBAA&hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/CP9PefRTEjqt6e5r0yNGCP_2WFlFyzz_dx9a9VX9wIn9mz1EAH9_e_OXIbXTW3ZQ5YQpxRrqdt1jsyr4KmM9k8uqvMoxGJS8fAZQBZzddpxW1_FFOeDyv_ozD4iUgzk2L-tsCk90Dq_gywtspPCt2mofSagYSjJZTJIWBAXqXrjGG07TMa6BZQ-QOupsVvkAhAwIhT_qbt5xwE0WHG4TvBVYhnDTT67V9iKXImbj8Ou9Lb5VNrl1hq1gdUo6wl4bnulvECqyKDbb0TmOiD6ZTlt5ymlViD1Vj-rPgazYWCM=s0-w100-h100-dcITeWK5oJ",
+    "source": "Al Jazeera English",
+    "hoursAgo": "18 hours ago",
+    "timeStamp": "2022-01-04T22:56:58Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Messi's dancefloor 'murder': Covid infection gives PSG serious Champions League headache",
+    "articleUrl": "https://news.google.com./articles/CBMib2h0dHBzOi8vd3d3LmdvYWwuY29tL2VuLWJoL25ld3MvbWVzc2ktZGFuY2VmbG9vci1tdXJkZXItY292aWQtcHNnLWNoYW1waW9ucy1sZWFndWUtaGVhZGFjaGUvYmx0MWQxMTJiN2I0ODExNjU4ZtIBc2h0dHBzOi8vd3d3LmdvYWwuY29tL2VuLWJoL2FtcC9uZXdzL21lc3NpLWRhbmNlZmxvb3ItbXVyZGVyLWNvdmlkLXBzZy1jaGFtcGlvbnMtbGVhZ3VlLWhlYWRhY2hlL2JsdDFkMTEyYjdiNDgxMTY1OGY?hl=en-US&gl=US&ceid=US%3Aen",
+    "titleImage": "https://lh3.googleusercontent.com/proxy/WHipfGyiYEV49sKVaBSGk7rz0ThDiSwG52DD5SpYOXOpjinA1H5WabHsJiyIKqjptXoTVivOfUha1Qk3GeubbOD97szAgKFmRsM-15ut5QxcklsbMII_XmpxFnK-OEagTDEM3TnCjW1sNoNgFwEb2Jo3dYQflHRp19JQ0GyVVkiVWkI=s0-w100-h100-dcnXWSCy4H",
+    "source": "Goal.com",
+    "hoursAgo": "5 hours ago",
+    "timeStamp": "2022-01-05T12:00:00Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Global Covid caseload tops 295 mn",
+    "articleUrl": "https://news.google.com./articles/CAIiEM2Qc9cZXSv2rI0727Dk5IYqGQgEKhAIACoHCAowyo-HCzD-tIUDMKTXlgY?uo=CAUiUGh0dHBzOi8vd3d3LnRyaWJ1bmVpbmRpYS5jb20vbmV3cy93b3JsZC9nbG9iYWwtY292aWQtY2FzZWxvYWQtdG9wcy0yOTUtbW4tMzU4Mzgx0gEA&hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "The Tribune India",
+    "hoursAgo": "11 hours ago",
+    "timeStamp": "2022-01-05T05:58:00Z",
+    "country": "Argentina"
+  },
+  {
+    "articleTitle": "Liverpool wants Arsenal cup match postponed over COVID",
+    "articleUrl": "https://news.google.com./articles/CBMiggFodHRwczovL3d3dy5mb3g1dmVnYXMuY29tL2xpdmVycG9vbC13YW50cy1hcnNlbmFsLWN1cC1tYXRjaC1wb3N0cG9uZWQtb3Zlci1jb3ZpZC9hcnRpY2xlXzc3ZTEwYzQyLTljZjQtNWU5MC1iODVmLTIzMWVhYWQ4OTc5Mi5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "FOX5 Las Vegas",
+    "hoursAgo": "20 hours ago",
+    "timeStamp": "2022-01-04T21:12:20Z",
+    "country": "Argentina"
+  }
+]

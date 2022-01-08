@@ -363,7 +363,7 @@
 {
 "name" : "Canada",
 "vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d060g&gl=US&ceid=US%3Aen&state=5",
-"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d060g&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0d060g&gl=US&ceid=US%3Aen&state=1",
 "base": "https://news.google.com",
 "tag": "Cases, Deaths, Doses, News, Vaccinated",
 "Alpha3Code": "CAN",
@@ -803,7 +803,7 @@
 {
 "name" : "Greece",
 "vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035qy&gl=US&ceid=US%3Aen&state=5",
-"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035qy&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F035qy&gl=US&ceid=US%3Aen&state=1",
 "base": "https://news.google.com",
 "tag": "Cases, Deaths, Doses, News, Vaccinated",
 "Alpha3Code": "GRC",
@@ -1516,7 +1516,7 @@
 {
 "name" : "Panama",
 "vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qx1&gl=US&ceid=US%3Aen&state=5",
-"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qx1&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F05qx1&gl=US&ceid=US%3Aen&state=1",
 "base": "https://news.google.com",
 "tag": "Cases, Deaths, Doses, News, Vaccinated",
 "Alpha3Code": "PAN",
@@ -1721,7 +1721,7 @@
 {
 "name" : "Sao Tome and Principe",
 "vaccineAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j681&gl=US&ceid=US%3Aen&state=5",
-"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j681&gl=US&ceid=US%3Aen&state=5",
+"casesAddress": "https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F0j681&gl=US&ceid=US%3Aen&state=1",
 "base": "https://news.google.com",
 "tag": "Cases, Deaths, Doses, News, Vaccinated",
 "Alpha3Code": "STP",
