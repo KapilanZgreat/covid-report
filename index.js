@@ -524,6 +524,8 @@ setInterval(updateData, 1800000);
        const hoursAgo = []
        const timeStamp = []
        const country = []
+       const countryalphacode = []
+       const countrynummericcode = []
        const specificArticles1 = []
        const specificArticles3 = []
        const specificArticles4 = []
@@ -667,7 +669,9 @@ setInterval(updateData, 1800000);
                            casesPerMillion: numbers[3 + k1],
                            deaths: numbers[4 + k1],
                            timestamp: datetime,
-                           countyOfThisCountry: links[i].name
+                           countyOfThisCountry: links[i].name,
+                           alphaCode: links1[i].Alpha3Code,
+                           numericCode: links[i].NumericCode
                        })
                        k1 += 5;
                    }
@@ -708,6 +712,8 @@ setInterval(updateData, 1800000);
 
                    for (let k = 0; k < articleTitle1.length; k++) {
                        country.push(links1[i].name)
+                       countryalphacode.push(links[i].Alpha3Code)
+                       countrynummericcode.push(links[i].NumericCode)
                    }
 
                    // console.log(timeStamp);
@@ -720,15 +726,17 @@ setInterval(updateData, 1800000);
 
                const specificArticles = []
 
-               for (let i = 0; i < articleTitle.length; i++) {
+               for (let h = 0; h < articleTitle.length; h++) {
                    specificArticles.push({
-                       articleTitle: articleTitle[i],
-                       articleUrl: articleUrl[i],
-                       titleImage: titleImage[i],
-                       source: articleSource[i],
-                       hoursAgo: hoursAgo[i],
-                       timeStamp: timeStamp[i],
-                       country: country[i]
+                       articleTitle: articleTitle[h],
+                       articleUrl: articleUrl[h],
+                       titleImage: titleImage[h],
+                       source: articleSource[h],
+                       hoursAgo: hoursAgo[h],
+                       timeStamp: timeStamp[h],
+                       country: country[h],
+                       alphaCode: countryalphacode[h],
+                       numericCode: countrynummericcode[h],
                    })
 
                }
@@ -2496,6 +2504,29 @@ app.get('/newstime', (req, res)=> {
 
 app.get('/totalreport/alphacode/:quotesId1', (req, res) => {
 
+
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
+    const links = require("./filestorage/totalreport.json");
+
+
+    let result = []
+
+    for (let i = 0; i < links.length; i++) {
+        if (links[i].alphaCode == quotesId ) {
+            result.push(links[i])
+
+        }
+    }
+    if(result.length==0){
+
+        result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
+    }
+    res.json(result)
+
+
+/*
     const quotesId1 = req.params.quotesId1
 
     const quotesId = quotesId1.toUpperCase()
@@ -2545,12 +2576,33 @@ app.get('/totalreport/alphacode/:quotesId1', (req, res) => {
             res.json(specificArticles)
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
-
+*/
 })
 
 
 app.get('/dailyreport/alphacode/:quotesId1', (req, res) => {
 
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
+    const links = require("./filestorage/dailyreport.json");
+
+
+    let result = []
+
+    for (let i = 0; i < links.length; i++) {
+        if (links[i].alphaCode == quotesId ) {
+            result.push(links[i])
+
+        }
+    }
+    if(result.length==0){
+
+        result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
+    }
+    res.json(result)
+
+/*
     const quotesId1 = req.params.quotesId1
 
     const quotesId = quotesId1.toUpperCase()
@@ -2606,7 +2658,7 @@ app.get('/dailyreport/alphacode/:quotesId1', (req, res) => {
             res.json(specificArticles)
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
-
+*/
 })
 
 
@@ -2614,6 +2666,29 @@ app.get('/dailyreport/alphacode/:quotesId1', (req, res) => {
 
 app.get('/countiesreport/cases/alphacode/:quotesId1', (req, res) => {
 
+
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
+    const links = require("./filestorage/countrycases.json");
+
+
+    let result = []
+
+    for (let i = 0; i < links.length; i++) {
+        if (links[i].alphaCode == quotesId ) {
+            result.push(links[i])
+
+        }
+    }
+    if(result.length==0){
+
+        result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
+    }
+    res.json(result)
+
+
+/*
     const quotesId1 = req.params.quotesId1
 
     const quotesId = quotesId1.toUpperCase()
@@ -2685,7 +2760,7 @@ app.get('/countiesreport/cases/alphacode/:quotesId1', (req, res) => {
             res.json(specificArticles)
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
-
+*/
 })
 
 
@@ -2694,6 +2769,8 @@ app.get('/countiesreport/cases/alphacode/:quotesId1', (req, res) => {
 
 
 app.get('/countiesreport/vaccines/alphacode/:quotesId1', (req, res) => {
+
+    /*
     const namesTitle = []
     const quotesId1 = req.params.quotesId1
 
@@ -2759,6 +2836,7 @@ app.get('/countiesreport/vaccines/alphacode/:quotesId1', (req, res) => {
             res.json(specificArticles)
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
+    */
 
 })
 
@@ -2766,6 +2844,30 @@ app.get('/countiesreport/vaccines/alphacode/:quotesId1', (req, res) => {
 
 app.get('/topcovidnews/alphacode/:quotesId1', (req, res) => {
     //  const namesTitle = []
+
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
+    const links = require("./filestorage/news.json");
+
+
+    let result = []
+
+    for (let i = 0; i < links.length; i++) {
+        if (links[i].alphaCode == quotesId ) {
+            result.push(links[i])
+
+        }
+    }
+    if(result.length==0){
+
+        result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
+    }
+    res.json(result)
+
+
+
+    /*
     const quotesId1 = req.params.quotesId1
 
     const quotesId = quotesId1.toUpperCase()
@@ -2833,7 +2935,7 @@ app.get('/topcovidnews/alphacode/:quotesId1', (req, res) => {
             res.json(specificArticles)
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
-
+*/
 })
 
 
@@ -2841,6 +2943,27 @@ app.get('/topcovidnews/alphacode/:quotesId1', (req, res) => {
 
 app.get('/totalreport/numericcode/:quotesId', (req, res) => {
 
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
+    const links = require("./filestorage/totalreport.json");
+
+
+    let result = []
+
+    for (let i = 0; i < links.length; i++) {
+        if (links[i].numericCode == quotesId ) {
+            result.push(links[i])
+
+        }
+    }
+    if(result.length==0){
+
+        result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
+    }
+    res.json(result)
+
+/*
     const quotesId = req.params.quotesId
     const links = require("./countries.json");
     const sourceAddress = links.filter(country => country.NumericCode == quotesId)[0].casesAddress
@@ -2887,71 +3010,121 @@ app.get('/totalreport/numericcode/:quotesId', (req, res) => {
             res.json(specificArticles)
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
-
+*/
 })
 
 
 app.get('/dailyreport/numericcode/:quotesId', (req, res) => {
 
-    const quotesId = req.params.quotesId
-    const links = require("./countries.json");
-    const sourceAddress = links.filter(country => country.NumericCode == quotesId)[0].casesAddress
-//    const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
-    const alpha3Code = links.filter(country => country.NumericCode == quotesId)[0].Alpha3Code
-    const numericCode = links.filter(country => country.NumericCode == quotesId)[0].NumericCode
-    const country = links.filter(country => country.NumericCode == quotesId)[0].name
-    axios.get(sourceAddress)
-        .then(response => {
-            const html = response.data
-            const $ = cheerio.load(html)
-            const specificArticles = []
-            const dailyStats = []
-            const newCases = []
-
-            $("div[class='tIUMlb']", html).each(function () {
-                const title = $(this).text()
-                //     const url = $(this).attr('href')
-                dailyStats.push($(this).text())
-            })
 
 
-            $("div[class='DlOivf']", html).each(function () {
-                const title = $(this).text()
-                newCases.push($(this).text())
-                //     const url = $(this).attr('href')
+    const quotesId1 = req.params.quotesId1
 
-            })
+    const quotesId = capitalizeFirstLetter(quotesId1);
+    const links = require("./filestorage/dailyreport.json");
 
 
-            const cases = dailyStats[0]
-            const deaths = dailyStats[1]
-            const doses = dailyStats[2]
-            const percentofpeopleoverpopvaccinated = dailyStats[3]
-            const newCasesLastWeek = newCases[0]
-            //    const newDosesLastWeek1 = newCases[1]
+    let result = []
 
-            specificArticles.push({
-                country,
-                alphaCode: alpha3Code,
-                numericCode: numericCode,
-                cases,
-                newCasesLastWeek,
-                // newDosesLastWeek: newDosesLastWeek1,
-                doses,
-                deaths,
-                percentofpeopleoverpopvaccinated
-            })
+    for (let i = 0; i < links.length; i++) {
+        if (links[i].numericCode == quotesId ) {
+            result.push(links[i])
 
-            res.json(specificArticles)
-            //  console.log(specificArticles)
-        }).catch((err) => console.log(err))
+        }
+    }
+    if(result.length==0){
 
+        result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
+    }
+    res.json(result)
+
+
+    /*
+        const quotesId = req.params.quotesId
+        const links = require("./countries.json");
+        const sourceAddress = links.filter(country => country.NumericCode == quotesId)[0].casesAddress
+    //    const source2Address = links.filter(country => country.name == quotesId)[0].vaccineAddress
+        const alpha3Code = links.filter(country => country.NumericCode == quotesId)[0].Alpha3Code
+        const numericCode = links.filter(country => country.NumericCode == quotesId)[0].NumericCode
+        const country = links.filter(country => country.NumericCode == quotesId)[0].name
+        axios.get(sourceAddress)
+            .then(response => {
+                const html = response.data
+                const $ = cheerio.load(html)
+                const specificArticles = []
+                const dailyStats = []
+                const newCases = []
+
+                $("div[class='tIUMlb']", html).each(function () {
+                    const title = $(this).text()
+                    //     const url = $(this).attr('href')
+                    dailyStats.push($(this).text())
+                })
+
+
+                $("div[class='DlOivf']", html).each(function () {
+                    const title = $(this).text()
+                    newCases.push($(this).text())
+                    //     const url = $(this).attr('href')
+
+                })
+
+
+                const cases = dailyStats[0]
+                const deaths = dailyStats[1]
+                const doses = dailyStats[2]
+                const percentofpeopleoverpopvaccinated = dailyStats[3]
+                const newCasesLastWeek = newCases[0]
+                //    const newDosesLastWeek1 = newCases[1]
+
+                specificArticles.push({
+                    country,
+                    alphaCode: alpha3Code,
+                    numericCode: numericCode,
+                    cases,
+                    newCasesLastWeek,
+                    // newDosesLastWeek: newDosesLastWeek1,
+                    doses,
+                    deaths,
+                    percentofpeopleoverpopvaccinated
+                })
+
+                res.json(specificArticles)
+                //  console.log(specificArticles)
+            }).catch((err) => console.log(err))
+    */
 })
 
 
 
 
 app.get('/countiesreport/cases/numericcode/:quotesId', (req, res) => {
+
+
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
+    const links = require("./filestorage/countrycases.json");
+
+
+    let result = []
+
+    for (let i = 0; i < links.length; i++) {
+        if (links[i].numericCode == quotesId ) {
+            result.push(links[i])
+
+        }
+    }
+    if(result.length==0){
+
+        result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
+    }
+    res.json(result)
+
+
+
+
+    /*
     const namesTitle = []
     const quotesId = req.params.quotesId
     const links = require("./countries.json");
@@ -3019,7 +3192,7 @@ app.get('/countiesreport/cases/numericcode/:quotesId', (req, res) => {
             res.json(specificArticles)
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
-
+*/
 })
 
 
@@ -3028,6 +3201,14 @@ app.get('/countiesreport/cases/numericcode/:quotesId', (req, res) => {
 
 
 app.get('/countiesreport/vaccines/numericcode/:quotesId', (req, res) => {
+
+
+
+
+
+
+
+    /*
     const namesTitle = []
     const quotesId = req.params.quotesId
     const links = require("./countries.json");
@@ -3091,12 +3272,38 @@ app.get('/countiesreport/vaccines/numericcode/:quotesId', (req, res) => {
             res.json(specificArticles)
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
-
+*/
 })
 
 
 
 app.get('/topcovidnews/numericcode/:quotesId', (req, res) => {
+
+
+    const quotesId1 = req.params.quotesId1
+
+    const quotesId = capitalizeFirstLetter(quotesId1);
+    const links = require("./filestorage/news.json");
+
+
+    let result = []
+
+    for (let i = 0; i < links.length; i++) {
+        if (links[i].numericCode == quotesId ) {
+            result.push(links[i])
+
+        }
+    }
+    if(result.length==0){
+
+        result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
+    }
+    res.json(result)
+
+
+
+
+    /*
     //  const namesTitle = []
     const quotesId = req.params.quotesId
     const links = require("./countries.json");
@@ -3164,6 +3371,8 @@ app.get('/topcovidnews/numericcode/:quotesId', (req, res) => {
             //  console.log(specificArticles)
         }).catch((err) => console.log(err))
 
+
+     */
 })
 
 
