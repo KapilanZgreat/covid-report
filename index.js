@@ -506,7 +506,7 @@ app.get('/topcovidnews/country/:quotesId1', (req, res) => {
 
 
 
-setInterval(updateData, 1800000);
+//setInterval(updateData, 1800000);
 
 //setInterval(updateData2, 12000);
 
