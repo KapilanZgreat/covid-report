@@ -24,7 +24,8 @@
       "news.json",
       "dailyreport.json",
       "countryvaccines.json",
-      "countrycases.json"
+      "countrycases.json",
+      "index.js"
     ]
   }
 }
