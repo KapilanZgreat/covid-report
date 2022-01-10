@@ -4,9 +4,11 @@ const cheerio = require("cheerio");
 //const links = require("./countries.json");
 
 
-const amount = 10
+const amount = 12
 
+const links2 = require("./filestorage/totalreport.json");
 
+parentPort.postMessage(links2.length)
 //updateData()
 
 setInterval(updateData, 100000);
@@ -356,9 +358,7 @@ function proxyGenerator() {
 
 
 
-//const links2 = require("./filestorage/countrycases.json");
 
-//parentPort.postMessage(links2.length)
 
 
 
