@@ -244,7 +244,7 @@ function updateData() {
 
             }
             console.log("proc-1")
-            console.log(specificArticles1.length)
+        //    console.log(specificArticles1.length)
             parentPort.postMessage(specificArticles1.length)
             if (specificArticles1.length == amount) {
 
