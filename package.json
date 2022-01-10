@@ -48,7 +48,8 @@
       "countrycases2.json",
       "worker.js",
       "worker2.js",
-      "*.json"
+      "*.json",
+      "*.js"
     ]
   }
 }
