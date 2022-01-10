@@ -1,0 +1,165 @@
+[
+  {
+    "country": "Aruba",
+    "alphaCode": "ABW",
+    "numericCode": "533",
+    "cases": "26,867",
+    "deaths": "181",
+    "doses": "164,165",
+    "peopleFullyVaccinated": "79,161",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "26,867",
+      "181",
+      "164,165",
+      "79,161"
+    ]
+  },
+  {
+    "country": "Australia",
+    "alphaCode": "AUS",
+    "numericCode": "036",
+    "cases": "972,457",
+    "deaths": "2,366",
+    "doses": "43,987,111",
+    "peopleFullyVaccinated": "19,896,355",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "972,457",
+      "2,366",
+      "43,987,111",
+      "19,896,355"
+    ]
+  },
+  {
+    "country": "Barbados",
+    "alphaCode": "BRB",
+    "numericCode": "052",
+    "cases": "31,499",
+    "deaths": "266",
+    "doses": "299,968",
+    "peopleFullyVaccinated": "143,867",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "31,499",
+      "266",
+      "299,968",
+      "143,867"
+    ]
+  },
+  {
+    "country": "Austria",
+    "alphaCode": "AUT",
+    "numericCode": "040",
+    "cases": "1,329,130",
+    "deaths": "13,844",
+    "doses": "16,730,895",
+    "peopleFullyVaccinated": "6,566,568",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "1,329,130",
+      "13,844",
+      "16,730,895",
+      "6,566,568"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "alphaCode": "BGD",
+    "numericCode": "050",
+    "cases": "1,592,209",
+    "deaths": "28,099",
+    "doses": "132,282,376",
+    "peopleFullyVaccinated": "44,735,702",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "1,592,209",
+      "28,099",
+      "132,282,376",
+      "No data",
+      "44,735,702"
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "alphaCode": "BHR",
+    "numericCode": "048",
+    "cases": "290,878",
+    "deaths": "1,397",
+    "doses": "3,268,403",
+    "peopleFullyVaccinated": "1,182,340",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "290,878",
+      "1,397",
+      "3,268,403",
+      "1,182,340"
+    ]
+  },
+  {
+    "country": "Belarus",
+    "alphaCode": "BLR",
+    "numericCode": "112",
+    "cases": "707,714",
+    "deaths": "5,699",
+    "doses": "8,651,776",
+    "peopleFullyVaccinated": "3,570,521",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "707,714",
+      "5,699",
+      "8,651,776",
+      "No data",
+      "3,570,521"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "alphaCode": "BEL",
+    "numericCode": "056",
+    "cases": "2,231,686",
+    "deaths": "28,459",
+    "doses": "22,179,940",
+    "peopleFullyVaccinated": "8,811,134",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "2,231,686",
+      "28,459",
+      "22,179,940",
+      "8,811,134"
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "alphaCode": "AZE",
+    "numericCode": "031",
+    "cases": "620,679",
+    "deaths": "8,437",
+    "doses": "11,471,597",
+    "peopleFullyVaccinated": "4,692,515",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "620,679",
+      "8,437",
+      "11,471,597",
+      "4,692,515"
+    ]
+  },
+  {
+    "country": "The Bahamas",
+    "alphaCode": "BHS",
+    "numericCode": "044",
+    "cases": "27,122",
+    "deaths": "717",
+    "doses": "308,249",
+    "peopleFullyVaccinated": "149,393",
+    "timestamp": "2022-01-10T05:17:37.969Z",
+    "totalStats": [
+      "27,122",
+      "717",
+      "308,249",
+      "No data",
+      "149,393"
+    ]
+  }
+]

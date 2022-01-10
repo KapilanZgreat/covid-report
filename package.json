@@ -26,7 +26,12 @@
       "./filestorage/dailyreport.json",
       "./filestorage/countryvaccines.json",
       "./filestorage/countrycases.json",
-      "./index.js"
+      "./index.js",
+      "./filestorage/totalreport2.json",
+      "./filestorage/news2.json",
+      "./filestorage/dailyreport2.json",
+      "./filestorage/countryvaccines2.json",
+      "./filestorage/countrycases2.json"
     ]
   }
 }

@@ -4,7 +4,7 @@ const cheerio = require("cheerio");
 //const links = require("./countries.json");
 
 
-const amount = 10
+const amount = 20
 
 
 updateData()
@@ -33,7 +33,7 @@ function updateData() {
     const specificArticles3 = []
     const specificArticles4 = []
 
-    for (let i = 0; i < amount; i++) {
+    for (let i = 10; i < 20; i++) {
 
         const options = {
             url: links1[i].casesAddress,
@@ -244,14 +244,14 @@ function updateData() {
 
             }
             console.log("proc-1")
-        //    console.log(specificArticles1.length)
+            //    console.log(specificArticles1.length)
             parentPort.postMessage(specificArticles1.length)
-            if (specificArticles1.length == amount) {
+            if (specificArticles1.length == 10) {
 
                 //    phase2()
 
                 require('fs').writeFile(
-                    './filestorage/news.json',
+                    './filestorage/news2.json',
 
                     JSON.stringify(specificArticles, null, 2),
 
@@ -267,7 +267,7 @@ function updateData() {
                 //    console.error(specificArticles1)
 
                 require('fs').writeFile(
-                    './filestorage/totalreport.json',
+                    './filestorage/totalreport2.json',
 
                     JSON.stringify(specificArticles1, null, 2),
 
@@ -279,7 +279,7 @@ function updateData() {
                 );
 
                 require('fs').writeFile(
-                    './filestorage/dailyreport.json',
+                    './filestorage/dailyreport2.json',
 
                     JSON.stringify(specificArticles4, null, 2),
 
@@ -291,7 +291,7 @@ function updateData() {
                 );
 
                 require('fs').writeFile(
-                    './filestorage/countrycases.json',
+                    './filestorage/countrycases2.json',
 
                     JSON.stringify(specificArticles3, null, 2),
 
