@@ -519,9 +519,9 @@ worker.on("error", (err) => {
     console.error(err);
 });
 
-worker.on("exit", () => {
-    console.log('Worker exited')
-});
+//worker.on("exit", () => {
+ //   console.log('Worker exited')
+//});
 
 
 
@@ -533,9 +533,9 @@ worker2.on("error", (err) => {
     console.error(err);
 });
 
-worker2.on("exit", () => {
-    console.log('Worker exited')
-});
+//worker2.on("exit", () => {
+ //   console.log('Worker exited')
+//});
 
 
     /*

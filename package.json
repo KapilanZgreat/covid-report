@@ -47,7 +47,8 @@
       "countryvaccines2.json",
       "countrycases2.json",
       "worker.js",
-      "worker2.js"
+      "worker2.js",
+      "*.json"
     ]
   }
 }
