@@ -32,8 +32,8 @@
       "./filestorage/dailyreport2.json",
       "./filestorage/countryvaccines2.json",
       "./filestorage/countrycases2.json",
-      "./worker.js",
-      "./worker2.js"
+      "worker.js",
+      "worker2.js"
     ]
   }
 }
