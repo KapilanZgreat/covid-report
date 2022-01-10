@@ -9,7 +9,7 @@ const links = require("./countries.json");
 
 
 
-//setInterval(updateData, 50000);
+setInterval(updateData, 100000);
 
 //setInterval(updateData2, 12000);
 
