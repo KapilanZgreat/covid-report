@@ -3,22 +3,14 @@ const request = require("request");
 const cheerio = require("cheerio");
 const links = require("./countries.json");
 
-var counter = 0;
 
 const amount = 20
 
-updateData()
-setInterval(begin, 1000);
 
 
-function begin() {
 
-    if (counter = amount) {
-        counter = 0;
-        updateData()
+setInterval(updateData, 100000);
 
-    }
-}
 //setInterval(updateData2, 12000);
 
 //1 milisecond = 15 minutes
@@ -96,9 +88,6 @@ function updateData() {
                     timestamp: datetime,
                     totalStats
                 })
-
-                counter += 1;
-
 
                 ///totalreport/country/:quotesId1-------------------------------------------------Total Report-------------------------------------------------------
 ///dailyreport/country/:quotesId1------------------------------------------------- Daily Report------------------------------------------------------
