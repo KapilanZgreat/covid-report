@@ -3,14 +3,22 @@ const request = require("request");
 const cheerio = require("cheerio");
 const links = require("./countries.json");
 
+var counter = 0;
+
+const amount = 20
+
+updateData()
+setInterval(begin, 1000);
 
 
+function begin() {
 
+    if (counter = amount) {
+        counter = 0;
+        updateData()
 
-
-
-setInterval(updateData, 100000);
-
+    }
+}
 //setInterval(updateData2, 12000);
 
 //1 milisecond = 15 minutes
@@ -33,7 +41,7 @@ function updateData() {
     const specificArticles3 = []
     const specificArticles4 = []
 
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < amount; i++) {
 
         const options = {
             url: links1[i].casesAddress,
@@ -88,6 +96,9 @@ function updateData() {
                     timestamp: datetime,
                     totalStats
                 })
+
+                counter += 1;
+
 
                 ///totalreport/country/:quotesId1-------------------------------------------------Total Report-------------------------------------------------------
 ///dailyreport/country/:quotesId1------------------------------------------------- Daily Report------------------------------------------------------
@@ -246,7 +257,7 @@ function updateData() {
             console.log("proc-1")
             console.log(specificArticles1.length)
             parentPort.postMessage(specificArticles1.length)
-            if (specificArticles1.length == 20) {
+            if (specificArticles1.length == amount) {
 
                 //    phase2()
 
