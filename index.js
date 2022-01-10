@@ -506,7 +506,7 @@ app.get('/', (req, res)=> {
 
 const worker = new Worker('./worker.js')
 
-const worker2 = new Worker('./worker2.js')
+//const worker2 = new Worker('./worker2.js')
 
 
 worker.on('message', (data) => {
@@ -525,16 +525,16 @@ worker.on("error", (err) => {
 
 
 
-worker2.on('message', (data) => {
-    console.log(data)
-})
+//worker2.on('message', (data) => {
+  //  console.log(data)
+//})
 
-worker2.on("error", (err) => {
-    console.error(err);
-});
+//worker2.on("error", (err) => {
+ //   console.error(err);
+//});
 
 //worker2.on("exit", () => {
- //   console.log('Worker exited')
+//    console.log('Worker exited')
 //});
 
 

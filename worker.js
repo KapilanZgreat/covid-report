@@ -4,7 +4,7 @@ const cheerio = require("cheerio");
 //const links = require("./countries.json");
 
 
-const amount = 10
+const amount = 20
 
 
 //updateData()
