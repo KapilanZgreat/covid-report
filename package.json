@@ -45,11 +45,8 @@
       "news2.json",
       "dailyreport2.json",
       "countryvaccines2.json",
-      "countrycases2.json",
-      "worker.js",
-      "worker2.js",
-      "*.json",
-      "*.js"
+      "countrycases2.json"
+
     ]
   }
 }
