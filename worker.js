@@ -9,7 +9,7 @@ const links = require("./countries.json");
 
 
 
-setInterval(updateData, 50000);
+setInterval(updateData, 100000);
 
 //setInterval(updateData2, 12000);
 
@@ -33,7 +33,7 @@ function updateData() {
     const specificArticles3 = []
     const specificArticles4 = []
 
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 20; i++) {
 
         const options = {
             url: links1[i].casesAddress,
@@ -246,7 +246,7 @@ function updateData() {
             console.log("proc-1")
             console.log(specificArticles1.length)
             parentPort.postMessage(specificArticles1.length)
-            if (specificArticles1.length == 10) {
+            if (specificArticles1.length == 20) {
 
                 //    phase2()
 

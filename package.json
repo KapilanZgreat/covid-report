@@ -20,13 +20,14 @@
   },
   "nodemonConfig": {
     "ignore": [
-      "hold2.json",
-      "totalreport.json",
-      "news.json",
-      "dailyreport.json",
-      "countryvaccines.json",
-      "countrycases.json",
-      "index.js"
+      "./hold2.json",
+      "./filestorage/totalreport.json",
+      "./filestorage/news.json",
+      "./filestorage/dailyreport.json",
+      "./filestorage/countryvaccines.json",
+      "./filestorage/countrycases.json",
+      "./index.js",
+      "./worker.js"
     ]
   }
 }
