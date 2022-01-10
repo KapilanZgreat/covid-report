@@ -7,9 +7,9 @@ const links = require("./countries.json");
 const amount = 20
 
 
+updateData()
 
-
-setInterval(updateData, 100000);
+//setInterval(updateData, 100000);
 
 //setInterval(updateData2, 12000);
 
