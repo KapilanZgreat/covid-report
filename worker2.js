@@ -7,9 +7,9 @@ const cheerio = require("cheerio");
 const amount = 20
 
 
-updateData()
+//updateData()
 
-//setInterval(updateData, 100000);
+setInterval(updateData, 100000);
 
 //setInterval(updateData2, 12000);
 
