@@ -1,69 +1,25 @@
 [
   {
-    "country": "Armenia",
-    "alphaCode": "ARM",
-    "numericCode": "051",
-    "cases2": "Reported yesterday: +195",
-    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +1,334",
-    "doses2": "",
-    "deaths2": "Reported yesterday: +2",
-    "timestamp": "2022-01-09T22:14:28.593Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 24%"
-  },
-  {
-    "country": "Antigua and Barbuda",
-    "alphaCode": "ATG",
-    "numericCode": "028",
-    "cases2": "Reported yesterday: +129",
-    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +608",
+    "country": "Aruba",
+    "alphaCode": "ABW",
+    "numericCode": "533",
+    "cases2": "Reported yesterday: +701",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +9,367",
     "doses2": "",
     "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-09T22:14:28.593Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 61.2%"
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 70.5%"
   },
   {
-    "country": "Afghanistan",
-    "alphaCode": "AFG",
-    "numericCode": "004",
-    "cases2": "Reported yesterday: +9",
-    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +420",
-    "doses2": "",
-    "deaths2": "Reported yesterday: +1",
-    "timestamp": "2022-01-09T22:14:28.593Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 11.6%"
-  },
-  {
-    "country": "Argentina",
-    "alphaCode": "ARG",
-    "numericCode": "032",
-    "cases2": "Reported yesterday: +101,689",
-    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +785,106",
-    "doses2": "Reported yesterday: +486,151",
-    "deaths2": "Reported yesterday: +37",
-    "timestamp": "2022-01-09T22:14:28.593Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 73.9%"
-  },
-  {
-    "country": "Angola",
-    "alphaCode": "AGO",
-    "numericCode": "024",
-    "cases2": "Reported yesterday: +476",
-    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +18,109",
-    "doses2": "",
-    "deaths2": "Reported yesterday: +10",
-    "timestamp": "2022-01-09T22:14:28.593Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 12.8%"
-  },
-  {
-    "country": "Anguila",
-    "alphaCode": "AIA",
-    "numericCode": "660",
+    "country": "Belgium",
+    "alphaCode": "BEL",
+    "numericCode": "056",
     "cases2": "Reported yesterday: +0",
-    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +131",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +193,575",
     "doses2": "",
     "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-09T22:14:28.593Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 62%"
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 76.5%"
   },
   {
     "country": "Andorra",
@@ -73,8 +29,19 @@
     "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +4,678",
     "doses2": "",
     "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-09T22:14:28.593Z",
+    "timestamp": "2022-01-10T04:23:42.126Z",
     "percentofpeopleoverpopvaccinated2": "% of population: 66.3%"
+  },
+  {
+    "country": "Belarus",
+    "alphaCode": "BLR",
+    "numericCode": "112",
+    "cases2": "Reported yesterday: +1,184",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +15,113",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +14",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 37.9%"
   },
   {
     "country": "American Samoa",
@@ -84,8 +51,63 @@
     "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +5,401",
     "doses2": "Reported yesterday: +502",
     "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-09T22:14:28.593Z",
+    "timestamp": "2022-01-10T04:23:42.126Z",
     "percentofpeopleoverpopvaccinated2": "% of population: 62.9%"
+  },
+  {
+    "country": "Bahrain",
+    "alphaCode": "BHR",
+    "numericCode": "048",
+    "cases2": "Reported yesterday: +1,424",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +11,360",
+    "doses2": "Reported yesterday: +3,660",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 76.6%"
+  },
+  {
+    "country": "The Bahamas",
+    "alphaCode": "BHS",
+    "numericCode": "044",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +3,583",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 38.8%"
+  },
+  {
+    "country": "Barbados",
+    "alphaCode": "BRB",
+    "numericCode": "052",
+    "cases2": "Reported yesterday: +495",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +3,870",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 50.1%"
+  },
+  {
+    "country": "Armenia",
+    "alphaCode": "ARM",
+    "numericCode": "051",
+    "cases2": "Reported yesterday: +195",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +1,334",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +2",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 24%"
+  },
+  {
+    "country": "Angola",
+    "alphaCode": "AGO",
+    "numericCode": "024",
+    "cases2": "Reported yesterday: +476",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +18,109",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +10",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 12.8%"
   },
   {
     "country": "Algeria",
@@ -95,8 +117,30 @@
     "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +5,366",
     "doses2": "",
     "deaths2": "Reported yesterday: +5",
-    "timestamp": "2022-01-09T22:14:28.593Z",
+    "timestamp": "2022-01-10T04:23:42.126Z",
     "percentofpeopleoverpopvaccinated2": "% of population: 13%"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "alphaCode": "ATG",
+    "numericCode": "028",
+    "cases2": "Reported yesterday: +129",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +608",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 61.2%"
+  },
+  {
+    "country": "Bangladesh",
+    "alphaCode": "BGD",
+    "numericCode": "050",
+    "cases2": "Reported yesterday: +1,116",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +9,224",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 26.6%"
   },
   {
     "country": "Albania",
@@ -106,7 +150,73 @@
     "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +7,363",
     "doses2": "",
     "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-09T22:14:28.593Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 37%"
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 37.3%"
+  },
+  {
+    "country": "Austria",
+    "alphaCode": "AUT",
+    "numericCode": "040",
+    "cases2": "Reported yesterday: +7,405",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +66,294",
+    "doses2": "Reported yesterday: +40,941",
+    "deaths2": "Reported yesterday: +14",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 73.8%"
+  },
+  {
+    "country": "Azerbaijan",
+    "alphaCode": "AZE",
+    "numericCode": "031",
+    "cases2": "Reported yesterday: +630",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +6,560",
+    "doses2": "Reported yesterday: +32,306",
+    "deaths2": "Reported yesterday: +6",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 46.6%"
+  },
+  {
+    "country": "Argentina",
+    "alphaCode": "ARG",
+    "numericCode": "032",
+    "cases2": "Reported yesterday: +101,689",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +785,106",
+    "doses2": "Reported yesterday: +787,303",
+    "deaths2": "Reported yesterday: +37",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 74%"
+  },
+  {
+    "country": "Afghanistan",
+    "alphaCode": "AFG",
+    "numericCode": "004",
+    "cases2": "Reported yesterday: +9",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +420",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 11.6%"
+  },
+  {
+    "country": "Anguila",
+    "alphaCode": "AIA",
+    "numericCode": "660",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +131",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 62%"
+  },
+  {
+    "country": "Australia",
+    "alphaCode": "AUS",
+    "numericCode": "036",
+    "cases2": "Reported yesterday: +111,907",
+    "newCasesLastWeek2": "Dec 26, 2021–Jan 8, 2022: +671,863",
+    "doses2": "Reported yesterday: +163,443",
+    "deaths2": "Reported yesterday: +29",
+    "timestamp": "2022-01-10T04:23:42.126Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 77.5%"
   }
 ]

@@ -511,6 +511,15 @@ worker.on('message', (data) => {
     console.log(data)
 })
 
+worker.on("error", (err) => {
+    console.error(err);
+});
+
+worker.on("exit", () => {
+    console.log('Worker exited')
+});
+
+
     /*
 
 

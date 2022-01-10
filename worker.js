@@ -1,7 +1,7 @@
 const { parentPort } = require('worker_threads')
 const request = require("request");
 const cheerio = require("cheerio");
-const links = require("./countries.json");
+//const links = require("./countries.json");
 
 
 const amount = 20
@@ -78,9 +78,9 @@ function updateData() {
                 }
 
                 specificArticles1.push({
-                    country: links[i].name,
+                    country: links1[i].name,
                     alphaCode: links1[i].Alpha3Code,
-                    numericCode: links[i].NumericCode,
+                    numericCode: links1[i].NumericCode,
                     cases,
                     deaths,
                     doses,
@@ -116,9 +116,9 @@ function updateData() {
                 const newCasesLastWeek2 = newCases[0]
 
                 specificArticles4.push({
-                    country: links[i].name,
+                    country: links1[i].name,
                     alphaCode: links1[i].Alpha3Code,
-                    numericCode: links[i].NumericCode,
+                    numericCode: links1[i].NumericCode,
                     cases2,
                     newCasesLastWeek2,
                     // newDosesLastWeek: newDosesLastWeek1,
@@ -172,9 +172,9 @@ function updateData() {
                         casesPerMillion: numbers[3 + k1],
                         deaths: numbers[4 + k1],
                         timestamp: datetime,
-                        countyOfThisCountry: links[i].name,
+                        countyOfThisCountry: links1[i].name,
                         alphaCode: links1[i].Alpha3Code,
-                        numericCode: links[i].NumericCode
+                        numericCode: links1[i].NumericCode
                     })
                     k1 += 5;
                 }
@@ -215,8 +215,8 @@ function updateData() {
 
                 for (let k = 0; k < articleTitle1.length; k++) {
                     country.push(links1[i].name)
-                    countryalphacode.push(links[i].Alpha3Code)
-                    countrynummericcode.push(links[i].NumericCode)
+                    countryalphacode.push(links1[i].Alpha3Code)
+                    countrynummericcode.push(links1[i].NumericCode)
                 }
 
                 // console.log(timeStamp);
@@ -356,9 +356,9 @@ function proxyGenerator() {
 
 
 
-const links2 = require("./filestorage/countrycases.json");
+//const links2 = require("./filestorage/countrycases.json");
 
-parentPort.postMessage(links2.length)
+//parentPort.postMessage(links2.length)
 
 
 
