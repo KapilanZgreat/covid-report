@@ -522,12 +522,12 @@ worker.on("error", (err) => {
 worker.on("exit", () => {
     console.log('Worker exited')
 
-    const worker = new Worker('./worker.js')
+ /*   const worker = new Worker('./worker.js')
     worker.on('message', (data) => {
         console.log(data)
         console.log(data.count)
         console.log("k")
-    })
+    })   */
 });
 
 
