@@ -571,7 +571,7 @@ function update() {
     console.log(result.filter(x => !sourcesArrayresult.includes(x)) );
 
 
-    const worker1 = new Worker('./worker2.js')
+ //   const worker1 = new Worker('./worker2.js')
 }
 
 
