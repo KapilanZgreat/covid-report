@@ -11,6 +11,15 @@ const app = express()
 
 
 
+const result =[]
+
+
+
+for (let i = 0; i < links.length; i++) {
+    //  console.log(words[1570])
+    //  const land = "a"
+    result.push(links[i].name)
+}
 
 
 
@@ -557,18 +566,9 @@ function update() {
 
 
 
-    const result =[]
 
 
-
-    for (let i = 0; i < links.length; i++) {
-        //  console.log(words[1570])
-        //  const land = "a"
-result.push(links[i].name)
-    }
-
-
-    console.log( result.filter(x => !sourcesArrayresult.includes(x)) );
+    console.log(result.filter(x => !sourcesArrayresult.includes(x)) );
 
 
     const worker1 = new Worker('./worker2.js')
