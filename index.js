@@ -504,14 +504,21 @@ app.get('/', (req, res)=> {
     */
     })
 
-const worker = new Worker('./worker.js')
+const worker = new Worker('./worker2.js')
 
 //const worker2 = new Worker('./worker2.js')
 
+const sourcesArray = []
+
+
+const sourcesArrayresult = []
 
 worker.on('message', (data) => {
+
     console.log(data)
-    console.log(data.count)
+    sourcesArray.push(data)
+//    console.log(sourcesArray)
+  //  console.log(data.count)
     console.log("k")
 })
 
@@ -520,8 +527,12 @@ worker.on("error", (err) => {
 });
 
 worker.on("exit", () => {
+    sourcesArrayresult.push(sourcesArray)
     console.log('Worker exited')
-
+    console.log(sourcesArrayresult)
+    console.log('Worker exited')
+    worker.postMessage("Message from parent");
+    update()
  /*   const worker = new Worker('./worker.js')
     worker.on('message', (data) => {
         console.log(data)
@@ -529,6 +540,42 @@ worker.on("exit", () => {
         console.log("k")
     })   */
 });
+
+
+
+
+function update() {
+
+    const a1 = ["a", "b", "c", "t"];
+    const a2 = ["d", "a", "t", "e", "g"];
+
+
+
+
+
+
+
+
+
+    const result =[]
+
+
+
+    for (let i = 0; i < links.length; i++) {
+        //  console.log(words[1570])
+        //  const land = "a"
+result.push(links[i].name)
+    }
+
+
+    console.log( result.filter(x => !sourcesArrayresult.includes(x)) );
+
+
+    const worker1 = new Worker('./worker2.js')
+}
+
+
+
 
 
 
