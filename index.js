@@ -570,7 +570,7 @@ function update() {
 
     console.log(result.filter(x => !sourcesArrayresult.includes(x)) );
 
-
+    process.exit()
  //   const worker1 = new Worker('./worker2.js')
 }
 
