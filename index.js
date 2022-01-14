@@ -11,15 +11,6 @@ const app = express()
 
 
 
-const result =[]
-
-
-
-for (let i = 0; i < links.length; i++) {
-    //  console.log(words[1570])
-    //  const land = "a"
-    result.push(links[i].name)
-}
 
 
 
