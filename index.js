@@ -546,23 +546,29 @@ worker.on("exit", () => {
 
 function update() {
 
-    const a1 = ["a", "b", "c", "t"];
-    const a2 = ["d", "a", "t", "e", "g"];
+
+const result =[]
+
+    const checker = []
+    for (let i = 0; i <  links.length; i++) {
+       checker.push(links[i].name)
+    }
+
+    for (let i = 0; i <  sourcesArrayresult.length; i++) {
+        //  console.log(words[1570])
+        //  const land = "a"
+
+        //   console.log(replacedQuote.includes(words[1570]))
+        if (!checker.includes(sourcesArrayresult[i])) {
+            result.push(sourcesArrayresult[i])
+        }
+    }
 
 
+console.log(result)
 
 
-
-
-
-
-
-
-
-    console.log(result.filter(x => !sourcesArrayresult.includes(x)) );
-
-    process.exit()
- //   const worker1 = new Worker('./worker2.js')
+    const worker1 = new Worker('./worker2.js')
 }
 
 

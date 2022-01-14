@@ -303,12 +303,6 @@ sources1.forEach(source =>{
 */
 
 
-
-
-
-
-
-
 //const links = require("./countries.json");
 var randomnum;
 
@@ -539,7 +533,6 @@ links.forEach(source =>{
 
         console.log("proc-1")
             console.log(specificArticles1.length)
-
         parentPort.postMessage(source.name)
         if (specificArticles1.length == links1.length) {
 
