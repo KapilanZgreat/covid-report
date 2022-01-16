@@ -182,16 +182,16 @@ sources1.forEach(source =>{
 
 */
 
-for (let k = 54; k < 74; k++) {
+for (let k = 110; k < 130; k++) {
     linkstwo.push(links[k])
 
 }
 
-for (let k = 74; k < 94; k++) {
+for (let k = 130; k < 150; k++) {
     linksthree.push(links[k])
 
 }
-for (let k = 94; k < 110; k++) {
+for (let k = 150; k < 164; k++) {
     linksfour.push(links[k])
 
 }
@@ -983,7 +983,7 @@ function update2() {
                 resultspecificArticles3.push(specificArticles3)
 
                 require('fs').writeFile(
-                    './filestorage/news2.json',
+                    './filestorage/news3.json',
 
                     JSON.stringify(resultspecificArticles, null, 2),
 
@@ -999,7 +999,7 @@ function update2() {
                 //    console.error(specificArticles1)
 
                 require('fs').writeFile(
-                    './filestorage/totalreport2.json',
+                    './filestorage/totalreport3.json',
 
                     JSON.stringify(resultspecificArticles1, null, 2),
 
@@ -1011,7 +1011,7 @@ function update2() {
                 );
 
                 require('fs').writeFile(
-                    './filestorage/dailyreport2.json',
+                    './filestorage/dailyreport3.json',
 
                     JSON.stringify(resultspecificArticles4, null, 2),
 
@@ -1023,7 +1023,7 @@ function update2() {
                 );
 
                 require('fs').writeFile(
-                    './filestorage/countrycases2.json',
+                    './filestorage/countrycases3.json',
 
                     JSON.stringify(resultspecificArticles3, null, 2),
 

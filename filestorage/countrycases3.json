@@ -1,0 +1,3818 @@
+[
+  [
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Liberia"
+    },
+    {
+      "name": "Liberia",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/liberia_icon_square.png",
+      "totalCases": "7,121",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "1,591",
+      "deaths": "287",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Liberia"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Lesotho"
+    },
+    {
+      "name": "Lesotho",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/lesotho_icon_square.png",
+      "totalCases": "31,604",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "15,745",
+      "deaths": "687",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Lesotho"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Laos"
+    },
+    {
+      "name": "Laos",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/laos_icon_square.png",
+      "totalCases": "123,293",
+      "newCasesPerDay": "1,052",
+      "casesPerMillion": "17,309",
+      "deaths": "476",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Laos"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Luxembourg"
+    },
+    {
+      "name": "Luxembourg",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/luxembourg_icon_square.png",
+      "totalCases": "123,340",
+      "newCasesPerDay": "2,103",
+      "casesPerMillion": "200,914",
+      "deaths": "934",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Luxembourg"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Liechtenstein"
+    },
+    {
+      "name": "Liechtenstein",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/liechtenstein_icon_square.png",
+      "totalCases": "7,020",
+      "newCasesPerDay": "7",
+      "casesPerMillion": "181,166",
+      "deaths": "72",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Liechtenstein"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Macao"
+    },
+    {
+      "name": "Macao",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/macau_icon_square.png",
+      "totalCases": "79",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "116",
+      "deaths": "0",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Macao"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Mauritius"
+    },
+    {
+      "name": "Mauritius",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/mauritius_icon_square.png",
+      "totalCases": "24,425",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "19,293",
+      "deaths": "240",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Mauritius"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Lebanon"
+    },
+    {
+      "name": "Lebanon",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/lebanon_icon_square.png",
+      "totalCases": "808,612",
+      "newCasesPerDay": "6,811",
+      "casesPerMillion": "118,470",
+      "deaths": "9,353",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Lebanon"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Libya"
+    },
+    {
+      "name": "Libya",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/libya_icon_square.png",
+      "totalCases": "396,452",
+      "newCasesPerDay": "765",
+      "casesPerMillion": "57,697",
+      "deaths": "5,828",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Libya"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Latvia"
+    },
+    {
+      "name": "Latvia",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/latvia_icon_square.png",
+      "totalCases": "298,589",
+      "newCasesPerDay": "2,628",
+      "casesPerMillion": "156,592",
+      "deaths": "4,712",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Latvia"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Martinique"
+    },
+    {
+      "name": "Martinique",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/martinique_icon_square.png",
+      "totalCases": "63,055",
+      "newCasesPerDay": "3,472",
+      "casesPerMillion": "167,486",
+      "deaths": "795",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Martinique"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malawi"
+    },
+    {
+      "name": "Malawi",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/malawi_icon_square.png",
+      "totalCases": "82,262",
+      "newCasesPerDay": "372",
+      "casesPerMillion": "4,300",
+      "deaths": "2,453",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malawi"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Malaysia",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/malaysia_icon_square.png",
+      "totalCases": "2,802,263",
+      "newCasesPerDay": "3,346",
+      "casesPerMillion": "85,597",
+      "deaths": "31,762",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Selangor",
+      "symbol": "No Data",
+      "totalCases": "798,036",
+      "newCasesPerDay": "1,006",
+      "casesPerMillion": "137,830",
+      "deaths": "10,010",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Sarawak",
+      "symbol": "No Data",
+      "totalCases": "252,581",
+      "newCasesPerDay": "13",
+      "casesPerMillion": "96,431",
+      "deaths": "1,619",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Johor",
+      "symbol": "No Data",
+      "totalCases": "249,990",
+      "newCasesPerDay": "380",
+      "casesPerMillion": "71,495",
+      "deaths": "3,890",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Sabah",
+      "symbol": "No Data",
+      "totalCases": "243,739",
+      "newCasesPerDay": "244",
+      "casesPerMillion": "68,853",
+      "deaths": "2,805",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Kelantan",
+      "symbol": "No Data",
+      "totalCases": "173,202",
+      "newCasesPerDay": "270",
+      "casesPerMillion": "86,558",
+      "deaths": "1,265",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Kedah",
+      "symbol": "No Data",
+      "totalCases": "171,444",
+      "newCasesPerDay": "178",
+      "casesPerMillion": "82,747",
+      "deaths": "2,177",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Perak",
+      "symbol": "No Data",
+      "totalCases": "130,927",
+      "newCasesPerDay": "137",
+      "casesPerMillion": "53,514",
+      "deaths": "1,417",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Negeri Sembilan",
+      "symbol": "No Data",
+      "totalCases": "115,403",
+      "newCasesPerDay": "157",
+      "casesPerMillion": "105,055",
+      "deaths": "1,326",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Pahang",
+      "symbol": "No Data",
+      "totalCases": "98,165",
+      "newCasesPerDay": "204",
+      "casesPerMillion": "60,476",
+      "deaths": "791",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Terengganu",
+      "symbol": "No Data",
+      "totalCases": "84,170",
+      "newCasesPerDay": "56",
+      "casesPerMillion": "74,818",
+      "deaths": "741",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Penang",
+      "symbol": "No Data",
+      "totalCases": "57,949",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "35,170",
+      "deaths": "6",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Malacca",
+      "symbol": "No Data",
+      "totalCases": "38,375",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "41,144",
+      "deaths": "11",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Labuan",
+      "symbol": "No Data",
+      "totalCases": "9,740",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "0",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malaysia"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "North Macedonia"
+    },
+    {
+      "name": "North Macedonia",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/macedonia_icon_square.png",
+      "totalCases": "241,651",
+      "newCasesPerDay": "1,731",
+      "casesPerMillion": "116,339",
+      "deaths": "8,083",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "North Macedonia"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Mauritania"
+    },
+    {
+      "name": "Mauritania",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/mauritania_icon_square.png",
+      "totalCases": "53,643",
+      "newCasesPerDay": "871",
+      "casesPerMillion": "13,156",
+      "deaths": "900",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Mauritania"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Madagascar"
+    },
+    {
+      "name": "Madagascar",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/madagascar_icon_square.png",
+      "totalCases": "54,101",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "2,061",
+      "deaths": "1,117",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Madagascar"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Mali"
+    },
+    {
+      "name": "Mali",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/mali_icon_square.png",
+      "totalCases": "27,980",
+      "newCasesPerDay": "327",
+      "casesPerMillion": "1,401",
+      "deaths": "683",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Mali"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malta"
+    },
+    {
+      "name": "Malta",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/malta_icon_square.png",
+      "totalCases": "62,906",
+      "newCasesPerDay": "516",
+      "casesPerMillion": "127,454",
+      "deaths": "501",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Malta"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Lithuania"
+    },
+    {
+      "name": "Lithuania",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/lithuania_icon_square.png",
+      "totalCases": "559,980",
+      "newCasesPerDay": "4,009",
+      "casesPerMillion": "200,460",
+      "deaths": "7,618",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Lithuania"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Maldives"
+    },
+    {
+      "name": "Maldives",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/maldives_icon_square.png",
+      "totalCases": "101,418",
+      "newCasesPerDay": "967",
+      "casesPerMillion": "270,610",
+      "deaths": "265",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "countyOfThisCountry": "Maldives"
+    }
+  ],
+  [
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Montserrat"
+    },
+    {
+      "name": "Montserrat",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/montserrat_icon_square.png",
+      "totalCases": "129",
+      "newCasesPerDay": "11",
+      "casesPerMillion": "No data",
+      "deaths": "1",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Montserrat"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Montenegro"
+    },
+    {
+      "name": "Montenegro",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/montenegro_icon_square.png",
+      "totalCases": "200,535",
+      "newCasesPerDay": "1,678",
+      "casesPerMillion": "322,218",
+      "deaths": "2,465",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Montenegro"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Northern Mariana Islands"
+    },
+    {
+      "name": "United States",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/united_states_icon_square.png",
+      "totalCases": "65,435,336",
+      "newCasesPerDay": "933,249",
+      "casesPerMillion": "198,556",
+      "deaths": "849,543",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Northern Mariana Islands"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "symbol": "No Data",
+      "totalCases": "3,905",
+      "newCasesPerDay": "66",
+      "casesPerMillion": "69,484",
+      "deaths": "21",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Northern Mariana Islands"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Monaco"
+    },
+    {
+      "name": "Monaco",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/monaco_icon_square.png",
+      "totalCases": "6,485",
+      "newCasesPerDay": "123",
+      "casesPerMillion": "169,321",
+      "deaths": "44",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Monaco"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Nigeria",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/nigeria_icon_square.png",
+      "totalCases": "250,009",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "1,213",
+      "deaths": "3,092",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Lagos",
+      "symbol": "No Data",
+      "totalCases": "22,562",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "220",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Oyo",
+      "symbol": "No Data",
+      "totalCases": "9,999",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "193",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Edo",
+      "symbol": "No Data",
+      "totalCases": "7,533",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "281",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Federal Capital Territory",
+      "symbol": "No Data",
+      "totalCases": "6,385",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "82",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Delta",
+      "symbol": "No Data",
+      "totalCases": "4,991",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "110",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Ondo",
+      "symbol": "No Data",
+      "totalCases": "4,909",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "100",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Akwa Ibom",
+      "symbol": "No Data",
+      "totalCases": "4,550",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "835",
+      "deaths": "44",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Plateau",
+      "symbol": "No Data",
+      "totalCases": "3,724",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "33",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Osun",
+      "symbol": "No Data",
+      "totalCases": "3,113",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "89",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Rivers",
+      "symbol": "No Data",
+      "totalCases": "2,916",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "59",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Enugu",
+      "symbol": "No Data",
+      "totalCases": "2,913",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "29",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Gombe",
+      "symbol": "No Data",
+      "totalCases": "2,836",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "60",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Kaduna",
+      "symbol": "No Data",
+      "totalCases": "2,778",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "45",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Nasarawa",
+      "symbol": "No Data",
+      "totalCases": "2,624",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "39",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Anambra",
+      "symbol": "No Data",
+      "totalCases": "2,492",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "19",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Katsina",
+      "symbol": "No Data",
+      "totalCases": "2,378",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "37",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Imo",
+      "symbol": "No Data",
+      "totalCases": "2,310",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "469",
+      "deaths": "57",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Abia",
+      "symbol": "No Data",
+      "totalCases": "2,129",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "33",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Ogun State",
+      "symbol": "No Data",
+      "totalCases": "2,103",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "31",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Ebonyi",
+      "symbol": "No Data",
+      "totalCases": "2,062",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "32",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Ekiti",
+      "symbol": "No Data",
+      "totalCases": "1,928",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "28",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Benue",
+      "symbol": "No Data",
+      "totalCases": "1,907",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "25",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Bauchi",
+      "symbol": "No Data",
+      "totalCases": "1,876",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "23",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Kano",
+      "symbol": "No Data",
+      "totalCases": "1,768",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "54",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Borno",
+      "symbol": "No Data",
+      "totalCases": "1,532",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "261",
+      "deaths": "38",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Bayelsa",
+      "symbol": "No Data",
+      "totalCases": "1,298",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "28",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Taraba",
+      "symbol": "No Data",
+      "totalCases": "1,269",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "32",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Adamawa",
+      "symbol": "No Data",
+      "totalCases": "1,157",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "32",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Niger",
+      "symbol": "No Data",
+      "totalCases": "1,113",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "20",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Kwara",
+      "symbol": "No Data",
+      "totalCases": "1,088",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "27",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Sokoto",
+      "symbol": "No Data",
+      "totalCases": "810",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "28",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Cross River",
+      "symbol": "No Data",
+      "totalCases": "725",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "194",
+      "deaths": "25",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Jigawa",
+      "symbol": "No Data",
+      "totalCases": "630",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "18",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Yobe",
+      "symbol": "No Data",
+      "totalCases": "502",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "9",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Kebbi",
+      "symbol": "No Data",
+      "totalCases": "478",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "16",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Zamfara",
+      "symbol": "No Data",
+      "totalCases": "375",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "40",
+      "deaths": "9",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Kogi",
+      "symbol": "No Data",
+      "totalCases": "5",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "2",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nigeria"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Namibia"
+    },
+    {
+      "name": "Namibia",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/namibia_icon_square.png",
+      "totalCases": "153,969",
+      "newCasesPerDay": "358",
+      "casesPerMillion": "62,616",
+      "deaths": "3,804",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Namibia"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Moldova"
+    },
+    {
+      "name": "Moldova",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/moldova_icon_square.png",
+      "totalCases": "386,905",
+      "newCasesPerDay": "1,858",
+      "casesPerMillion": "144,274",
+      "deaths": "10,427",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Moldova"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Oman"
+    },
+    {
+      "name": "Oman",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/oman_icon_square.png",
+      "totalCases": "310,338",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "66,528",
+      "deaths": "4,119",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Oman"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Niger"
+    },
+    {
+      "name": "Niger",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/niger_icon_square.png",
+      "totalCases": "8,347",
+      "newCasesPerDay": "41",
+      "casesPerMillion": "374",
+      "deaths": "287",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Niger"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Caledonia"
+    },
+    {
+      "name": "New Caledonia",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/new_caledonia_icon_square.png",
+      "totalCases": "13,536",
+      "newCasesPerDay": "79",
+      "casesPerMillion": "47,966",
+      "deaths": "281",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Caledonia"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mongolia"
+    },
+    {
+      "name": "Mongolia",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/mongolia_icon_square.png",
+      "totalCases": "402,462",
+      "newCasesPerDay": "2,010",
+      "casesPerMillion": "121,568",
+      "deaths": "2,082",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mongolia"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nicaragua"
+    },
+    {
+      "name": "Nicaragua",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/nicaragua_icon_square.png",
+      "totalCases": "17,563",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "2,719",
+      "deaths": "218",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nicaragua"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mozambique"
+    },
+    {
+      "name": "Mozambique",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/mozambique_icon_square.png",
+      "totalCases": "217,821",
+      "newCasesPerDay": "1,262",
+      "casesPerMillion": "7,245",
+      "deaths": "2,117",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mozambique"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nepal"
+    },
+    {
+      "name": "Nepal",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/nepal_icon_square.png",
+      "totalCases": "845,501",
+      "newCasesPerDay": "4,204",
+      "casesPerMillion": "28,187",
+      "deaths": "11,613",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nepal"
+    },
+    {
+      "name": "Bagmati Province",
+      "symbol": "No Data",
+      "totalCases": "173,819",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,722",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nepal"
+    },
+    {
+      "name": "Province No. 1",
+      "symbol": "No Data",
+      "totalCases": "37,983",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "557",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nepal"
+    },
+    {
+      "name": "Province No. 2",
+      "symbol": "No Data",
+      "totalCases": "22,361",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "3,631",
+      "deaths": "267",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nepal"
+    },
+    {
+      "name": "Gandaki Province",
+      "symbol": "No Data",
+      "totalCases": "17,916",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "194",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nepal"
+    },
+    {
+      "name": "Sudurpashchim Province",
+      "symbol": "No Data",
+      "totalCases": "15,953",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "165",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nepal"
+    },
+    {
+      "name": "Karnali Province",
+      "symbol": "No Data",
+      "totalCases": "7,359",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "27",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Nepal"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Netherlands",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/netherlands_icon_square.png",
+      "totalCases": "3,500,915",
+      "newCasesPerDay": "35,452",
+      "casesPerMillion": "200,614",
+      "deaths": "21,142",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "South Holland",
+      "symbol": "No Data",
+      "totalCases": "795,496",
+      "newCasesPerDay": "8,344",
+      "casesPerMillion": "214,469",
+      "deaths": "4,891",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "North Holland",
+      "symbol": "No Data",
+      "totalCases": "596,325",
+      "newCasesPerDay": "7,122",
+      "casesPerMillion": "345,930",
+      "deaths": "3,138",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "North Brabant",
+      "symbol": "No Data",
+      "totalCases": "532,784",
+      "newCasesPerDay": "5,678",
+      "casesPerMillion": "209,361",
+      "deaths": "3,561",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Gelderland",
+      "symbol": "No Data",
+      "totalCases": "393,381",
+      "newCasesPerDay": "3,427",
+      "casesPerMillion": "189,858",
+      "deaths": "2,608",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Utrecht",
+      "symbol": "No Data",
+      "totalCases": "277,351",
+      "newCasesPerDay": "3,251",
+      "casesPerMillion": "212,219",
+      "deaths": "1,479",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Limburg",
+      "symbol": "No Data",
+      "totalCases": "245,722",
+      "newCasesPerDay": "1,315",
+      "casesPerMillion": "220,154",
+      "deaths": "2,074",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Overijssel",
+      "symbol": "No Data",
+      "totalCases": "222,724",
+      "newCasesPerDay": "1,769",
+      "casesPerMillion": "192,596",
+      "deaths": "1,347",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Friesland",
+      "symbol": "No Data",
+      "totalCases": "107,878",
+      "newCasesPerDay": "1,006",
+      "casesPerMillion": "165,980",
+      "deaths": "586",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Groningen",
+      "symbol": "No Data",
+      "totalCases": "86,639",
+      "newCasesPerDay": "671",
+      "casesPerMillion": "148,357",
+      "deaths": "342",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Flevoland",
+      "symbol": "No Data",
+      "totalCases": "81,322",
+      "newCasesPerDay": "1,003",
+      "casesPerMillion": "195,229",
+      "deaths": "313",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Zeeland",
+      "symbol": "No Data",
+      "totalCases": "71,234",
+      "newCasesPerDay": "652",
+      "casesPerMillion": "185,974",
+      "deaths": "358",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Drenthe",
+      "symbol": "No Data",
+      "totalCases": "71,129",
+      "newCasesPerDay": "750",
+      "casesPerMillion": "144,522",
+      "deaths": "425",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Netherlands"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Myanmar (Burma)",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/myanmar_icon_square.png",
+      "totalCases": "532,851",
+      "newCasesPerDay": "126",
+      "casesPerMillion": "9,806",
+      "deaths": "19,299",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Yangon Region",
+      "symbol": "No Data",
+      "totalCases": "40,103",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "5,448",
+      "deaths": "1,166",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Rakhine",
+      "symbol": "No Data",
+      "totalCases": "4,261",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "1,336",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Magway Region",
+      "symbol": "No Data",
+      "totalCases": "3,512",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "897",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Mon State",
+      "symbol": "No Data",
+      "totalCases": "3,242",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "1,578",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Sagaing Region",
+      "symbol": "No Data",
+      "totalCases": "2,836",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "533",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Bago Region",
+      "symbol": "No Data",
+      "totalCases": "2,669",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "548",
+      "deaths": "3",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Mandalay Region",
+      "symbol": "No Data",
+      "totalCases": "1,841",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "299",
+      "deaths": "7",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Kayin State",
+      "symbol": "No Data",
+      "totalCases": "1,307",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "830",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Naypyidaw Union Territory",
+      "symbol": "No Data",
+      "totalCases": "1,223",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "1,054",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Ayeyarwady",
+      "symbol": "No Data",
+      "totalCases": "1,146",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "185",
+      "deaths": "6",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Shan",
+      "symbol": "No Data",
+      "totalCases": "1,060",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "182",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Kachin",
+      "symbol": "No Data",
+      "totalCases": "877",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "519",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Tanintharyi Region",
+      "symbol": "No Data",
+      "totalCases": "635",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "451",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Chin State",
+      "symbol": "No Data",
+      "totalCases": "350",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "731",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Kayah State",
+      "symbol": "No Data",
+      "totalCases": "71",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "248",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Myanmar (Burma)"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Norway",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/norway_icon_square.png",
+      "totalCases": "496,312",
+      "newCasesPerDay": "12,360",
+      "casesPerMillion": "92,465",
+      "deaths": "1,381",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Oslo",
+      "symbol": "No Data",
+      "totalCases": "2,543",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Viken",
+      "symbol": "No Data",
+      "totalCases": "2,088",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "1,721",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Vestland",
+      "symbol": "No Data",
+      "totalCases": "822",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "1,291",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Innlandet",
+      "symbol": "No Data",
+      "totalCases": "500",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "1,346",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Trøndelag",
+      "symbol": "No Data",
+      "totalCases": "486",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Rogaland",
+      "symbol": "No Data",
+      "totalCases": "452",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "950",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Agder",
+      "symbol": "No Data",
+      "totalCases": "314",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "1,023",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Vestfold og Telemark",
+      "symbol": "No Data",
+      "totalCases": "270",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "649",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Møre og Romsdal",
+      "symbol": "No Data",
+      "totalCases": "117",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "438",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Nordland",
+      "symbol": "No Data",
+      "totalCases": "110",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "452",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Norway"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Zealand"
+    },
+    {
+      "name": "New Zealand",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/new_zealand_icon_square.png",
+      "totalCases": "15,001",
+      "newCasesPerDay": "54",
+      "casesPerMillion": "3,015",
+      "deaths": "52",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Zealand"
+    },
+    {
+      "name": "Canterbury",
+      "symbol": "No Data",
+      "totalCases": "198",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "315",
+      "deaths": "12",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Zealand"
+    },
+    {
+      "name": "Waikato",
+      "symbol": "No Data",
+      "totalCases": "195",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "2",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Zealand"
+    },
+    {
+      "name": "Northland",
+      "symbol": "No Data",
+      "totalCases": "138",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "709",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Zealand"
+    },
+    {
+      "name": "Taranaki",
+      "symbol": "No Data",
+      "totalCases": "61",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "497",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Zealand"
+    },
+    {
+      "name": "Hawke's Bay",
+      "symbol": "No Data",
+      "totalCases": "51",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "286",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Zealand"
+    },
+    {
+      "name": "West Coast",
+      "symbol": "No Data",
+      "totalCases": "5",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "153",
+      "deaths": "1",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "New Zealand"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Mexico",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/mexico_icon_square.png",
+      "totalCases": "4,257,776",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "33,638",
+      "deaths": "300,912",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Mexico City",
+      "symbol": "No Data",
+      "totalCases": "1,072,218",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "No data",
+      "deaths": "40,417",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "State of Mexico",
+      "symbol": "No Data",
+      "totalCases": "403,799",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "23,763",
+      "deaths": "44,929",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Nuevo Leon",
+      "symbol": "No Data",
+      "totalCases": "225,321",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "38,953",
+      "deaths": "13,795",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Guanajuato",
+      "symbol": "No Data",
+      "totalCases": "217,655",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "35,294",
+      "deaths": "13,535",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Jalisco",
+      "symbol": "No Data",
+      "totalCases": "177,459",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "21,257",
+      "deaths": "17,869",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Tabasco",
+      "symbol": "No Data",
+      "totalCases": "152,090",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "63,302",
+      "deaths": "5,775",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Sonora",
+      "symbol": "No Data",
+      "totalCases": "130,916",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "44,456",
+      "deaths": "9,253",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Puebla",
+      "symbol": "No Data",
+      "totalCases": "130,891",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "19,882",
+      "deaths": "15,758",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Veracruz",
+      "symbol": "No Data",
+      "totalCases": "128,575",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "15,947",
+      "deaths": "15,177",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "San Luis Potosi",
+      "symbol": "No Data",
+      "totalCases": "121,379",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "43,008",
+      "deaths": "6,856",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Tamaulipas",
+      "symbol": "No Data",
+      "totalCases": "112,415",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "31,866",
+      "deaths": "7,165",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Coahuila",
+      "symbol": "No Data",
+      "totalCases": "111,858",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "35,547",
+      "deaths": "7,913",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Querétaro",
+      "symbol": "No Data",
+      "totalCases": "106,012",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "44,760",
+      "deaths": "5,677",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Baja California",
+      "symbol": "No Data",
+      "totalCases": "101,788",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "27,006",
+      "deaths": "11,247",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Chihuahua",
+      "symbol": "No Data",
+      "totalCases": "90,170",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "24,098",
+      "deaths": "8,884",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Oaxaca",
+      "symbol": "No Data",
+      "totalCases": "87,228",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "21,110",
+      "deaths": "5,674",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Yucatan",
+      "symbol": "No Data",
+      "totalCases": "83,054",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "35,785",
+      "deaths": "5,744",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Sinaloa",
+      "symbol": "No Data",
+      "totalCases": "82,852",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "27,372",
+      "deaths": "9,045",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Guerrero",
+      "symbol": "No Data",
+      "totalCases": "80,300",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "22,679",
+      "deaths": "6,339",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Michoacán",
+      "symbol": "No Data",
+      "totalCases": "76,156",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "16,037",
+      "deaths": "8,295",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Baja California Sur",
+      "symbol": "No Data",
+      "totalCases": "72,878",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "91,275",
+      "deaths": "2,440",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Quintana Roo",
+      "symbol": "No Data",
+      "totalCases": "70,386",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "37,883",
+      "deaths": "4,119",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Durango",
+      "symbol": "No Data",
+      "totalCases": "55,594",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "30,335",
+      "deaths": "3,193",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Morelos",
+      "symbol": "No Data",
+      "totalCases": "52,825",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "26,794",
+      "deaths": "4,959",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Zacatecas",
+      "symbol": "No Data",
+      "totalCases": "49,776",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "30,685",
+      "deaths": "3,482",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Aguascalientes",
+      "symbol": "No Data",
+      "totalCases": "42,387",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "32,294",
+      "deaths": "3,070",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Nayarit",
+      "symbol": "No Data",
+      "totalCases": "38,385",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "31,069",
+      "deaths": "2,926",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Colima",
+      "symbol": "No Data",
+      "totalCases": "36,111",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "49,373",
+      "deaths": "2,040",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Tlaxcala",
+      "symbol": "No Data",
+      "totalCases": "30,641",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "22,816",
+      "deaths": "3,003",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Loreto",
+      "symbol": "No Data",
+      "totalCases": "26,533",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,015",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Campeche",
+      "symbol": "No Data",
+      "totalCases": "25,368",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "27,326",
+      "deaths": "2,108",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Chiapas",
+      "symbol": "No Data",
+      "totalCases": "24,216",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "4,368",
+      "deaths": "2,299",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Hidalgo",
+      "symbol": "No Data",
+      "totalCases": "848",
+      "newCasesPerDay": "21",
+      "casesPerMillion": "275",
+      "deaths": "12",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Mexico"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Morocco",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/morocco_icon_square.png",
+      "totalCases": "1,034,399",
+      "newCasesPerDay": "8,501",
+      "casesPerMillion": "28,848",
+      "deaths": "14,954",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Béni Mellal-Khenifra",
+      "symbol": "No Data",
+      "totalCases": "17,150",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "6,803",
+      "deaths": "22",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Drâa-Tafilalet",
+      "symbol": "No Data",
+      "totalCases": "15,665",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "9,581",
+      "deaths": "47",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Souss-Massa",
+      "symbol": "No Data",
+      "totalCases": "8,811",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "3,292",
+      "deaths": "20",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Oriental",
+      "symbol": "No Data",
+      "totalCases": "6,458",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "2,790",
+      "deaths": "18",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Casablanca-Settat",
+      "symbol": "No Data",
+      "totalCases": "5,067",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "738",
+      "deaths": "57",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Tangier-Tétouan-Al Hoceima",
+      "symbol": "No Data",
+      "totalCases": "4,731",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "1,330",
+      "deaths": "56",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Marrakesh-Safi",
+      "symbol": "No Data",
+      "totalCases": "3,220",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "712",
+      "deaths": "58",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Fez-Meknès",
+      "symbol": "No Data",
+      "totalCases": "2,658",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "627",
+      "deaths": "29",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Rabat-Salé-Kénitra",
+      "symbol": "No Data",
+      "totalCases": "2,210",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "482",
+      "deaths": "12",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Oued Ed-Dahab-Lagouira",
+      "symbol": "No Data",
+      "totalCases": "2,129",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "14,893",
+      "deaths": "1",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Laâyoune-Sakia El Hamra",
+      "symbol": "No Data",
+      "totalCases": "2,037",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "5,539",
+      "deaths": "4",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    },
+    {
+      "name": "Guelmim-Oued Noun",
+      "symbol": "No Data",
+      "totalCases": "1,198",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "2,762",
+      "deaths": "4",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "countyOfThisCountry": "Morocco"
+    }
+  ],
+  [
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Puerto Rico"
+    },
+    {
+      "name": "United States",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/united_states_icon_square.png",
+      "totalCases": "65,435,336",
+      "newCasesPerDay": "933,249",
+      "casesPerMillion": "198,556",
+      "deaths": "849,543",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Puerto Rico"
+    },
+    {
+      "name": "Puerto Rico",
+      "symbol": "No Data",
+      "totalCases": "440,722",
+      "newCasesPerDay": "13,209",
+      "casesPerMillion": "137,998",
+      "deaths": "3,493",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Puerto Rico"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Rwanda"
+    },
+    {
+      "name": "Rwanda",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/rwanda_icon_square.png",
+      "totalCases": "124,419",
+      "newCasesPerDay": "533",
+      "casesPerMillion": "10,055",
+      "deaths": "1,399",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Rwanda"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Romania"
+    },
+    {
+      "name": "Romania",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/romania_icon_square.png",
+      "totalCases": "1,885,771",
+      "newCasesPerDay": "9,884",
+      "casesPerMillion": "97,179",
+      "deaths": "59,180",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Romania"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Russia",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/russia_icon_square.png",
+      "totalCases": "10,565,484",
+      "newCasesPerDay": "23,614",
+      "casesPerMillion": "71,999",
+      "deaths": "313,458",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Moscow Oblast",
+      "symbol": "No Data",
+      "totalCases": "657,855",
+      "newCasesPerDay": "1,990",
+      "casesPerMillion": "No data",
+      "deaths": "12,680",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Nizhny Novgorod Oblast",
+      "symbol": "No Data",
+      "totalCases": "235,274",
+      "newCasesPerDay": "743",
+      "casesPerMillion": "No data",
+      "deaths": "10,159",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Sverdlovsk Oblast",
+      "symbol": "No Data",
+      "totalCases": "204,438",
+      "newCasesPerDay": "536",
+      "casesPerMillion": "No data",
+      "deaths": "9,705",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Samara Oblast",
+      "symbol": "No Data",
+      "totalCases": "203,201",
+      "newCasesPerDay": "246",
+      "casesPerMillion": "No data",
+      "deaths": "6,495",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Rostov Oblast",
+      "symbol": "No Data",
+      "totalCases": "198,654",
+      "newCasesPerDay": "422",
+      "casesPerMillion": "No data",
+      "deaths": "9,864",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Voronezh Oblast",
+      "symbol": "No Data",
+      "totalCases": "197,114",
+      "newCasesPerDay": "269",
+      "casesPerMillion": "No data",
+      "deaths": "7,122",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Krasnoyarsk Krai",
+      "symbol": "No Data",
+      "totalCases": "176,844",
+      "newCasesPerDay": "287",
+      "casesPerMillion": "No data",
+      "deaths": "9,050",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Perm Krai",
+      "symbol": "No Data",
+      "totalCases": "164,875",
+      "newCasesPerDay": "358",
+      "casesPerMillion": "No data",
+      "deaths": "7,633",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Irkutsk Oblast",
+      "symbol": "No Data",
+      "totalCases": "160,895",
+      "newCasesPerDay": "282",
+      "casesPerMillion": "No data",
+      "deaths": "7,143",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Chelyabinsk Oblast",
+      "symbol": "No Data",
+      "totalCases": "149,943",
+      "newCasesPerDay": "222",
+      "casesPerMillion": "No data",
+      "deaths": "6,362",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Saratov Oblast",
+      "symbol": "No Data",
+      "totalCases": "135,783",
+      "newCasesPerDay": "205",
+      "casesPerMillion": "No data",
+      "deaths": "5,203",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Omsk Oblast",
+      "symbol": "No Data",
+      "totalCases": "133,596",
+      "newCasesPerDay": "221",
+      "casesPerMillion": "No data",
+      "deaths": "3,321",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Volgograd Oblast",
+      "symbol": "No Data",
+      "totalCases": "131,974",
+      "newCasesPerDay": "189",
+      "casesPerMillion": "No data",
+      "deaths": "5,755",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Stavropol Krai",
+      "symbol": "No Data",
+      "totalCases": "129,026",
+      "newCasesPerDay": "386",
+      "casesPerMillion": "No data",
+      "deaths": "6,273",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Khabarovsk Krai",
+      "symbol": "No Data",
+      "totalCases": "128,665",
+      "newCasesPerDay": "231",
+      "casesPerMillion": "No data",
+      "deaths": "1,288",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Arkhangelsk Oblast",
+      "symbol": "No Data",
+      "totalCases": "125,680",
+      "newCasesPerDay": "169",
+      "casesPerMillion": "No data",
+      "deaths": "1,550",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Republic of Bashkortostan",
+      "symbol": "No Data",
+      "totalCases": "124,855",
+      "newCasesPerDay": "207",
+      "casesPerMillion": "No data",
+      "deaths": "4,555",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Krasnodar Krai",
+      "symbol": "No Data",
+      "totalCases": "124,155",
+      "newCasesPerDay": "465",
+      "casesPerMillion": "23,754",
+      "deaths": "9,926",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Altai Krai",
+      "symbol": "No Data",
+      "totalCases": "123,768",
+      "newCasesPerDay": "301",
+      "casesPerMillion": "No data",
+      "deaths": "6,928",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Ulyanovsk Oblast",
+      "symbol": "No Data",
+      "totalCases": "121,857",
+      "newCasesPerDay": "103",
+      "casesPerMillion": "No data",
+      "deaths": "3,925",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Orenburg Oblast",
+      "symbol": "No Data",
+      "totalCases": "109,267",
+      "newCasesPerDay": "100",
+      "casesPerMillion": "No data",
+      "deaths": "3,531",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Primorsky Krai",
+      "symbol": "No Data",
+      "totalCases": "106,003",
+      "newCasesPerDay": "276",
+      "casesPerMillion": "No data",
+      "deaths": "1,618",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Leningrad Oblast",
+      "symbol": "No Data",
+      "totalCases": "105,080",
+      "newCasesPerDay": "250",
+      "casesPerMillion": "No data",
+      "deaths": "3,072",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Penza Oblast",
+      "symbol": "No Data",
+      "totalCases": "104,294",
+      "newCasesPerDay": "162",
+      "casesPerMillion": "No data",
+      "deaths": "4,758",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Tver Oblast",
+      "symbol": "No Data",
+      "totalCases": "101,498",
+      "newCasesPerDay": "247",
+      "casesPerMillion": "No data",
+      "deaths": "2,418",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Vologda Oblast",
+      "symbol": "No Data",
+      "totalCases": "101,157",
+      "newCasesPerDay": "105",
+      "casesPerMillion": "No data",
+      "deaths": "3,073",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Bryansk Oblast",
+      "symbol": "No Data",
+      "totalCases": "98,782",
+      "newCasesPerDay": "145",
+      "casesPerMillion": "No data",
+      "deaths": "3,053",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Komi Republic",
+      "symbol": "No Data",
+      "totalCases": "98,704",
+      "newCasesPerDay": "100",
+      "casesPerMillion": "No data",
+      "deaths": "2,705",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Novosibirsk Oblast",
+      "symbol": "No Data",
+      "totalCases": "98,396",
+      "newCasesPerDay": "242",
+      "casesPerMillion": "No data",
+      "deaths": "4,411",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Khanty-Mansi Autonomous Okrug",
+      "symbol": "No Data",
+      "totalCases": "97,746",
+      "newCasesPerDay": "199",
+      "casesPerMillion": "No data",
+      "deaths": "2,081",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Zabaykalsky Krai",
+      "symbol": "No Data",
+      "totalCases": "97,370",
+      "newCasesPerDay": "121",
+      "casesPerMillion": "No data",
+      "deaths": "1,947",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Murmansk Oblast",
+      "symbol": "No Data",
+      "totalCases": "93,275",
+      "newCasesPerDay": "124",
+      "casesPerMillion": "No data",
+      "deaths": "2,836",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Tyumen Oblast",
+      "symbol": "No Data",
+      "totalCases": "92,824",
+      "newCasesPerDay": "205",
+      "casesPerMillion": "No data",
+      "deaths": "3,574",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Republic of Karelia",
+      "symbol": "No Data",
+      "totalCases": "91,759",
+      "newCasesPerDay": "182",
+      "casesPerMillion": "No data",
+      "deaths": "1,249",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Kemerovo Oblast",
+      "symbol": "No Data",
+      "totalCases": "88,570",
+      "newCasesPerDay": "190",
+      "casesPerMillion": "No data",
+      "deaths": "1,777",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Yaroslavl Oblast",
+      "symbol": "No Data",
+      "totalCases": "88,349",
+      "newCasesPerDay": "194",
+      "casesPerMillion": "No data",
+      "deaths": "2,012",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Smolensk Oblast",
+      "symbol": "No Data",
+      "totalCases": "86,227",
+      "newCasesPerDay": "142",
+      "casesPerMillion": "No data",
+      "deaths": "2,459",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Lipetsk Oblast",
+      "symbol": "No Data",
+      "totalCases": "85,666",
+      "newCasesPerDay": "145",
+      "casesPerMillion": "No data",
+      "deaths": "2,913",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Kaliningrad Oblast",
+      "symbol": "No Data",
+      "totalCases": "84,290",
+      "newCasesPerDay": "194",
+      "casesPerMillion": "No data",
+      "deaths": "1,320",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Vladimir Oblast",
+      "symbol": "No Data",
+      "totalCases": "83,678",
+      "newCasesPerDay": "164",
+      "casesPerMillion": "No data",
+      "deaths": "2,992",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Russia"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Papua New Guinea"
+    },
+    {
+      "name": "Papua New Guinea",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/papua_new_guinea_icon_square.png",
+      "totalCases": "36,435",
+      "newCasesPerDay": "3",
+      "casesPerMillion": "4,078",
+      "deaths": "596",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Papua New Guinea"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Philippines",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/philippines_icon_square.png",
+      "totalCases": "3,129,512",
+      "newCasesPerDay": "37,103",
+      "casesPerMillion": "28,847",
+      "deaths": "52,815",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Metro Manila",
+      "symbol": "No Data",
+      "totalCases": "867,874",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "11,151",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Calabarzon",
+      "symbol": "No Data",
+      "totalCases": "498,925",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "5,813",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Central Luzon",
+      "symbol": "No Data",
+      "totalCases": "282,462",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "6,170",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Central Visayas",
+      "symbol": "No Data",
+      "totalCases": "154,525",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "5,530",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Western Visayas",
+      "symbol": "No Data",
+      "totalCases": "152,552",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "4,362",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Cagayan Valley",
+      "symbol": "No Data",
+      "totalCases": "126,790",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,961",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Davao Region",
+      "symbol": "No Data",
+      "totalCases": "106,864",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "2,070",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Ilocos Region",
+      "symbol": "No Data",
+      "totalCases": "105,454",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "2,142",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Cordillera Administrative Region",
+      "symbol": "No Data",
+      "totalCases": "93,112",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "2,045",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Northern Mindanao",
+      "symbol": "No Data",
+      "totalCases": "85,804",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "989",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "SOCCSKSARGEN",
+      "symbol": "No Data",
+      "totalCases": "60,268",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,143",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Zamboanga Peninsula",
+      "symbol": "No Data",
+      "totalCases": "53,817",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,273",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Eastern Visayas",
+      "symbol": "No Data",
+      "totalCases": "53,413",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "707",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Bicol",
+      "symbol": "No Data",
+      "totalCases": "51,926",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "996",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Caraga",
+      "symbol": "No Data",
+      "totalCases": "50,967",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,446",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "MIMAROPA",
+      "symbol": "No Data",
+      "totalCases": "37,762",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,086",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Philippines"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Paraguay",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/paraguay_icon_square.png",
+      "totalCases": "475,686",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "66,504",
+      "deaths": "16,670",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Central Department",
+      "symbol": "No Data",
+      "totalCases": "93,905",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "42,663",
+      "deaths": "1,623",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Alto Paraná Department",
+      "symbol": "No Data",
+      "totalCases": "16,105",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "540",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Itapúa Department",
+      "symbol": "No Data",
+      "totalCases": "5,844",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "122",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Caaguazú Department",
+      "symbol": "No Data",
+      "totalCases": "5,717",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "159",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Cordillera Department",
+      "symbol": "No Data",
+      "totalCases": "4,347",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "121",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Guairá Department",
+      "symbol": "No Data",
+      "totalCases": "3,168",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "75",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Misiones Department",
+      "symbol": "No Data",
+      "totalCases": "2,957",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "24,241",
+      "deaths": "50",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Canindeyú Department",
+      "symbol": "No Data",
+      "totalCases": "2,796",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "11,921",
+      "deaths": "52",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Concepción Department",
+      "symbol": "No Data",
+      "totalCases": "2,781",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "77",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Amambay Department",
+      "symbol": "No Data",
+      "totalCases": "2,489",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "19,794",
+      "deaths": "91",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Paraguarí Department",
+      "symbol": "No Data",
+      "totalCases": "2,441",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "83",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "San Pedro Department",
+      "symbol": "No Data",
+      "totalCases": "2,390",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "65",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Presidente Hayes Department",
+      "symbol": "No Data",
+      "totalCases": "2,331",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "21,480",
+      "deaths": "52",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Caazapá Department",
+      "symbol": "No Data",
+      "totalCases": "2,291",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "53",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Ñeembucú Department",
+      "symbol": "No Data",
+      "totalCases": "2,072",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "49",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Boquerón department",
+      "symbol": "No Data",
+      "totalCases": "724",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "11,532",
+      "deaths": "31",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Alto Paraguay Department",
+      "symbol": "No Data",
+      "totalCases": "272",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "24,600",
+      "deaths": "8",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Paraguay"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Peru",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/peru_icon_square.png",
+      "totalCases": "2,473,709",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "76,987",
+      "deaths": "203,255",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Arequipa",
+      "symbol": "No Data",
+      "totalCases": "119,549",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "86,459",
+      "deaths": "9,766",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Regional Government of Callao",
+      "symbol": "No Data",
+      "totalCases": "105,896",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "No data",
+      "deaths": "10,132",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Piura",
+      "symbol": "No Data",
+      "totalCases": "96,392",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "51,913",
+      "deaths": "12,308",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "La Libertad",
+      "symbol": "No Data",
+      "totalCases": "95,017",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "53,438",
+      "deaths": "10,405",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Junin",
+      "symbol": "No Data",
+      "totalCases": "90,721",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "72,808",
+      "deaths": "7,109",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Ancash",
+      "symbol": "No Data",
+      "totalCases": "82,465",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "76,108",
+      "deaths": "6,773",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Cusco",
+      "symbol": "No Data",
+      "totalCases": "77,692",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "64,447",
+      "deaths": "4,835",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Cajamarca",
+      "symbol": "No Data",
+      "totalCases": "68,171",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "50,835",
+      "deaths": "4,200",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Lambayeque",
+      "symbol": "No Data",
+      "totalCases": "65,954",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "55,087",
+      "deaths": "8,720",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Ica",
+      "symbol": "No Data",
+      "totalCases": "62,382",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "73,325",
+      "deaths": "8,619",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Lima Region",
+      "symbol": "No Data",
+      "totalCases": "61,751",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "6,510",
+      "deaths": "2,773",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "San Martin",
+      "symbol": "No Data",
+      "totalCases": "49,626",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "61,012",
+      "deaths": "3,041",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Loreto",
+      "symbol": "No Data",
+      "totalCases": "45,486",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "51,483",
+      "deaths": "4,285",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Puno",
+      "symbol": "No Data",
+      "totalCases": "42,600",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "36,327",
+      "deaths": "4,273",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Ayacucho",
+      "symbol": "No Data",
+      "totalCases": "35,381",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "57,420",
+      "deaths": "2,165",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Amazonas",
+      "symbol": "No Data",
+      "totalCases": "33,245",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "87,629",
+      "deaths": "1,289",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Ucayali",
+      "symbol": "No Data",
+      "totalCases": "32,413",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "65,288",
+      "deaths": "3,077",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Huanuco",
+      "symbol": "No Data",
+      "totalCases": "32,240",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,088",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Department of Tacna",
+      "symbol": "No Data",
+      "totalCases": "32,076",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "No data",
+      "deaths": "1,981",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Moquegua",
+      "symbol": "No Data",
+      "totalCases": "30,573",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "174,840",
+      "deaths": "1,537",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Apurimac",
+      "symbol": "No Data",
+      "totalCases": "26,931",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "66,372",
+      "deaths": "1,527",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Tumbes",
+      "symbol": "No Data",
+      "totalCases": "19,716",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "87,680",
+      "deaths": "1,597",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Huancavelica",
+      "symbol": "No Data",
+      "totalCases": "16,707",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "48,058",
+      "deaths": "1,182",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Pasco",
+      "symbol": "No Data",
+      "totalCases": "16,574",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "65,235",
+      "deaths": "1,053",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Madre de Dios",
+      "symbol": "No Data",
+      "totalCases": "14,171",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "100,454",
+      "deaths": "780",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Peru"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Reunion"
+    },
+    {
+      "name": "Réunion",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/reunion_icon_square.png",
+      "totalCases": "102,216",
+      "newCasesPerDay": "0",
+      "casesPerMillion": "118,861",
+      "deaths": "435",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Reunion"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Panama"
+    },
+    {
+      "name": "Panama",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/panama_icon_square.png",
+      "totalCases": "558,676",
+      "newCasesPerDay": "18,604",
+      "casesPerMillion": "132,425",
+      "deaths": "7,500",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Panama"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Qatar"
+    },
+    {
+      "name": "Qatar",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/qatar_icon_square.png",
+      "totalCases": "291,214",
+      "newCasesPerDay": "4,123",
+      "casesPerMillion": "106,001",
+      "deaths": "623",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Qatar"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Pakistan",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/pakistan_icon_square.png",
+      "totalCases": "1,320,120",
+      "newCasesPerDay": "4,286",
+      "casesPerMillion": "6,024",
+      "deaths": "29,003",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Sindh",
+      "symbol": "No Data",
+      "totalCases": "497,153",
+      "newCasesPerDay": "3,089",
+      "casesPerMillion": "10,382",
+      "deaths": "7,693",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Punjab",
+      "symbol": "No Data",
+      "totalCases": "451,408",
+      "newCasesPerDay": "722",
+      "casesPerMillion": "No data",
+      "deaths": "13,087",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa",
+      "symbol": "No Data",
+      "totalCases": "182,100",
+      "newCasesPerDay": "104",
+      "casesPerMillion": "5,126",
+      "deaths": "5,953",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Islamabad Capital Territory",
+      "symbol": "No Data",
+      "totalCases": "110,597",
+      "newCasesPerDay": "354",
+      "casesPerMillion": "55,117",
+      "deaths": "968",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Azad Jammu and Kashmir",
+      "symbol": "No Data",
+      "totalCases": "34,739",
+      "newCasesPerDay": "13",
+      "casesPerMillion": "8,587",
+      "deaths": "749",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Balochistan",
+      "symbol": "No Data",
+      "totalCases": "33,684",
+      "newCasesPerDay": "2",
+      "casesPerMillion": "2,729",
+      "deaths": "367",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Gilgit-Baltistan",
+      "symbol": "No Data",
+      "totalCases": "10,439",
+      "newCasesPerDay": "2",
+      "casesPerMillion": "8,358",
+      "deaths": "186",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Pakistan"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Portugal",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/portugal_icon_square.png",
+      "totalCases": "1,814,567",
+      "newCasesPerDay": "40,090",
+      "casesPerMillion": "176,572",
+      "deaths": "19,237",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Norte Region",
+      "symbol": "No Data",
+      "totalCases": "170,952",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "2,431",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Lisboa Region",
+      "symbol": "No Data",
+      "totalCases": "106,138",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "1,751",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Centro Region, Portugal",
+      "symbol": "No Data",
+      "totalCases": "33,154",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "657",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Alentejo Region",
+      "symbol": "No Data",
+      "totalCases": "6,950",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "127",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Faro District",
+      "symbol": "No Data",
+      "totalCases": "5,714",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "13,020",
+      "deaths": "55",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Azores",
+      "symbol": "No Data",
+      "totalCases": "1,192",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "4,908",
+      "deaths": "18",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Madeira",
+      "symbol": "No Data",
+      "totalCases": "971",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "3,824",
+      "deaths": "2",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Portugal"
+    },
+    {
+      "name": "Worldwide",
+      "symbol": "https://www.gstatic.com/images/icons/material/system_gm/1x/language_googblue_24dp.png",
+      "totalCases": "323,567,887",
+      "newCasesPerDay": "3,468,369",
+      "casesPerMillion": "41,612",
+      "deaths": "5,529,524",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Poland",
+      "symbol": "https://www.gstatic.com/onebox/sports/logos/flags/poland_icon_square.png",
+      "totalCases": "4,281,482",
+      "newCasesPerDay": "16,049",
+      "casesPerMillion": "111,558",
+      "deaths": "101,841",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Masovian Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "108,989",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "20,241",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Lesser Poland Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "91,826",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "No data",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Greater Poland Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "89,469",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "25,642",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Lower Silesian Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "64,301",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "22,153",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Łódź Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "59,977",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "24,449",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Pomeranian Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "50,662",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "21,797",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Kuyavian-Pomeranian Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "50,197",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "24,422",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Podkarpackie Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "48,146",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "22,613",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Lublin Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "45,552",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "21,423",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "West Pomeranian Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "32,801",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "19,232",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Świętokrzyskie Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "27,912",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "22,762",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Warmian-Masurian Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "27,140",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "18,927",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Opole Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "26,448",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "26,713",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Podlaskie Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "23,915",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "20,189",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    },
+    {
+      "name": "Lubusz Voivodeship",
+      "symbol": "No Data",
+      "totalCases": "19,374",
+      "newCasesPerDay": "No data",
+      "casesPerMillion": "19,053",
+      "deaths": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "countyOfThisCountry": "Poland"
+    }
+  ]
+]

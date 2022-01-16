@@ -1,0 +1,473 @@
+[
+  [
+    {
+      "country": "Slovenia",
+      "cases2": "Reported yesterday: +6,921",
+      "newCasesLastWeek2": "Jan 1–14: +55,666",
+      "doses2": "Reported yesterday: +15,696",
+      "deaths2": "Reported yesterday: +6",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 57.4%"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "cases2": "Reported yesterday: +0",
+      "newCasesLastWeek2": "Jan 1–14: +1,646",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 48.9%"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "cases2": "Reported yesterday: +31",
+      "newCasesLastWeek2": "Jan 1–14: +285",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": ""
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "cases2": "Reported yesterday: +6",
+      "newCasesLastWeek2": "Jan 1–14: +731",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 23.7%"
+    },
+    {
+      "country": "Saint Lucia",
+      "cases2": "Reported yesterday: +464",
+      "newCasesLastWeek2": "Jan 1–14: +3,399",
+      "doses2": "Reported yesterday: +76",
+      "deaths2": "Reported yesterday: +3",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 28.1%"
+    },
+    {
+      "country": "Sabah",
+      "cases2": "Reported yesterday: +244",
+      "newCasesLastWeek2": "Jan 1–14: +3,207",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": ""
+    },
+    {
+      "country": "Seychelles",
+      "cases2": "Reported yesterday: +0",
+      "newCasesLastWeek2": "Jan 1–14: +6,310",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 80.2%"
+    },
+    {
+      "country": "American Samoa",
+      "cases2": "Reported yesterday: +0",
+      "newCasesLastWeek2": "Jan 2–15: +6,203",
+      "doses2": "Reported yesterday: +410",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 64.1%"
+    },
+    {
+      "country": "Slovakia",
+      "cases2": "Reported yesterday: +2,203",
+      "newCasesLastWeek2": "Jan 1–14: +40,486",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +60",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 48%"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "cases2": "Reported yesterday: +54",
+      "newCasesLastWeek2": "Jan 1–14: +1,561",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 25.4%"
+    },
+    {
+      "country": "San Marino",
+      "cases2": "Reported yesterday: +161",
+      "newCasesLastWeek2": "Jan 1–14: +2,148",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 64.6%"
+    },
+    {
+      "country": "Sarawak",
+      "cases2": "Reported yesterday: +13",
+      "newCasesLastWeek2": "Jan 1–14: +281",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": ""
+    },
+    {
+      "country": "Senegal",
+      "cases2": "Reported yesterday: +502",
+      "newCasesLastWeek2": "Jan 1–14: +6,813",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +1",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 6.1%"
+    },
+    {
+      "country": "Spain",
+      "cases2": "Reported yesterday: +162,508",
+      "newCasesLastWeek2": "Jan 1–14: +1,798,291",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +139",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 81%"
+    },
+    {
+      "country": "Somalia",
+      "cases2": "Reported yesterday: +0",
+      "newCasesLastWeek2": "Jan 1–14: +729",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 5.1%"
+    },
+    {
+      "country": "Sierra Leone",
+      "cases2": "Reported yesterday: +0",
+      "newCasesLastWeek2": "Jan 1–14: +436",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 4.9%"
+    },
+    {
+      "country": "Serbia",
+      "cases2": "Reported yesterday: +12,721",
+      "newCasesLastWeek2": "Jan 1–14: +113,249",
+      "doses2": "Reported yesterday: +27,553",
+      "deaths2": "Reported yesterday: +23",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 46.4%"
+    },
+    {
+      "country": "Saudi Arabia",
+      "cases2": "Reported yesterday: +5,628",
+      "newCasesLastWeek2": "Jan 1–14: +48,436",
+      "doses2": "Reported yesterday: +122,576",
+      "deaths2": "Reported yesterday: +2",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 68.5%"
+    },
+    {
+      "country": "South Africa",
+      "cases2": "Reported yesterday: +5,235",
+      "newCasesLastWeek2": "Jan 1–14: +93,757",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +128",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 27.6%"
+    },
+    {
+      "country": "Singapore",
+      "cases2": "Reported yesterday: +945",
+      "newCasesLastWeek2": "Jan 1–14: +10,625",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +1",
+      "timestamp": "2022-01-16T04:41:11.645Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 82.9%"
+    }
+  ],
+  [
+    {
+      "country": "South Sudan",
+      "cases2": "Reported yesterday: +47",
+      "newCasesLastWeek2": "Jan 1–14: +1,212",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 1.6%"
+    },
+    {
+      "country": "Suriname",
+      "cases2": "Reported yesterday: +1,026",
+      "newCasesLastWeek2": "Jan 1–14: +10,288",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +5",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 39.7%"
+    },
+    {
+      "country": "Switzerland",
+      "cases2": "Reported yesterday: +32,183",
+      "newCasesLastWeek2": "Jan 1–14: +333,826",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +17",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 68.4%"
+    },
+    {
+      "country": "Thailand",
+      "cases2": "Reported yesterday: +8,158",
+      "newCasesLastWeek2": "Jan 1–14: +85,180",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +15",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 68.3%"
+    },
+    {
+      "country": "Tajikistan",
+      "cases2": "Reported yesterday: +0",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 31.7%"
+    },
+    {
+      "country": "Sri Lanka",
+      "cases2": "Reported yesterday: +677",
+      "newCasesLastWeek2": "Jan 1–14: +7,751",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +16",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 63.6%"
+    },
+    {
+      "country": "Uganda",
+      "cases2": "Reported yesterday: +523",
+      "newCasesLastWeek2": "Jan 1–14: +16,490",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +7",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 4.5%"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "cases2": "Reported yesterday: +853",
+      "newCasesLastWeek2": "Jan 1–14: +7,881",
+      "doses2": "Reported yesterday: +3,032",
+      "deaths2": "Reported yesterday: +22",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 49.8%"
+    },
+    {
+      "country": "Eswatini / Swaziland",
+      "cases2": "Reported yesterday: +101",
+      "newCasesLastWeek2": "Jan 1–14: +1,668",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +4",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 28.5%"
+    },
+    {
+      "country": "Taiwan",
+      "cases2": "Reported yesterday: +68",
+      "newCasesLastWeek2": "Jan 1–14: +663",
+      "doses2": "Reported yesterday: +159,761",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 71.4%"
+    },
+    {
+      "country": "Tunisia",
+      "cases2": "Reported yesterday: +8,460",
+      "newCasesLastWeek2": "Jan 1–14: +44,471",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +11",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 51.9%"
+    },
+    {
+      "country": "Sudan",
+      "cases2": "Reported yesterday: +195",
+      "newCasesLastWeek2": "Jan 1–14: +3,593",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 2.9%"
+    },
+    {
+      "country": "Ukraine",
+      "cases2": "Reported yesterday: +10,682",
+      "newCasesLastWeek2": "Jan 1–14: +71,925",
+      "doses2": "Reported yesterday: +73,625",
+      "deaths2": "Reported yesterday: +154",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 34%"
+    },
+    {
+      "country": "Sweden",
+      "cases2": "Reported yesterday: +25,566",
+      "newCasesLastWeek2": "Jan 1–14: +245,579",
+      "doses2": "Reported yesterday: +97,263",
+      "deaths2": "Reported yesterday: +31",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 72.3%"
+    },
+    {
+      "country": "Tanzania",
+      "cases2": "",
+      "doses2": "",
+      "deaths2": "",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 1.6%"
+    },
+    {
+      "country": "Turkey",
+      "cases2": "Reported yesterday: +0",
+      "newCasesLastWeek2": "Jan 1–14: +788,650",
+      "doses2": "Reported yesterday: +500,242",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 62.6%"
+    },
+    {
+      "country": "Syria",
+      "cases2": "Reported yesterday: +61",
+      "newCasesLastWeek2": "Jan 1–14: +363",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +5",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 5%"
+    },
+    {
+      "country": "United Arab Emirates",
+      "cases2": "Reported yesterday: +3,068",
+      "newCasesLastWeek2": "Jan 1–14: +37,128",
+      "doses2": "Reported yesterday: +13,432",
+      "deaths2": "Reported yesterday: +3",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 92.9%"
+    },
+    {
+      "country": "Togo",
+      "cases2": "Reported yesterday: +240",
+      "newCasesLastWeek2": "Jan 1–14: +5,502",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 13.8%"
+    },
+    {
+      "country": "Turks and Caicos Isl.",
+      "cases2": "Reported yesterday: +225",
+      "newCasesLastWeek2": "Jan 1–14: +1,672",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +2",
+      "timestamp": "2022-01-16T04:45:09.540Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 65.6%"
+    }
+  ],
+  [
+    {
+      "country": "Western Sahara",
+      "cases2": "",
+      "doses2": "",
+      "deaths2": "",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": ""
+    },
+    {
+      "country": "Virgin Islands (U.S.)",
+      "cases2": "Reported yesterday: +120",
+      "newCasesLastWeek2": "Jan 1–14: +4,466",
+      "doses2": "Reported yesterday: +238",
+      "deaths2": "Reported yesterday: +0",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 52%"
+    },
+    {
+      "country": "Worldwide",
+      "cases2": "Reported yesterday: +3,468,369",
+      "newCasesLastWeek2": "Jan 1–14: +35,336,919",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +8,714",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 50.4%"
+    },
+    {
+      "country": "Yemen",
+      "cases2": "Reported yesterday: +0",
+      "newCasesLastWeek2": "Jan 1–14: +107",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +1",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 1.2%"
+    },
+    {
+      "country": "Uruguay",
+      "cases2": "Reported yesterday: +6,806",
+      "newCasesLastWeek2": "Jan 1–14: +77,243",
+      "doses2": "Reported yesterday: +35,528",
+      "deaths2": "Reported yesterday: +3",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 76.3%"
+    },
+    {
+      "country": "Vietnam",
+      "cases2": "Reported yesterday: +16,040",
+      "newCasesLastWeek2": "Jan 1–14: +260,227",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +171",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 71.1%"
+    },
+    {
+      "country": "Venezuela",
+      "cases2": "Reported yesterday: +2,700",
+      "newCasesLastWeek2": "Jan 1–14: +7,795",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +6",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 36%"
+    },
+    {
+      "country": "Zimbabwe",
+      "cases2": "Reported yesterday: +553",
+      "newCasesLastWeek2": "Jan 1–14: +12,379",
+      "doses2": "Reported yesterday: +14,753",
+      "deaths2": "Reported yesterday: +16",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 21.3%"
+    },
+    {
+      "country": "Zambia",
+      "cases2": "Reported yesterday: +2,113",
+      "newCasesLastWeek2": "Jan 1–14: +39,421",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +10",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 8%"
+    },
+    {
+      "country": "United States",
+      "cases2": "Reported yesterday: +933,249",
+      "newCasesLastWeek2": "Jan 1–14: +10,368,807",
+      "doses2": "Reported yesterday: +1",
+      "deaths2": "Reported yesterday: +2,980",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 62.9%"
+    },
+    {
+      "country": "Uzbekistan",
+      "cases2": "Reported yesterday: +824",
+      "newCasesLastWeek2": "Jan 1–14: +4,394",
+      "doses2": "Reported yesterday: +141,353",
+      "deaths2": "Reported yesterday: +3",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 36.5%"
+    },
+    {
+      "country": "United Kingdom",
+      "cases2": "Reported yesterday: +98,578",
+      "newCasesLastWeek2": "Jan 1–14: +2,128,509",
+      "doses2": "",
+      "deaths2": "Reported yesterday: +270",
+      "timestamp": "2022-01-16T04:48:52.636Z",
+      "percentofpeopleoverpopvaccinated2": "% of population: 72%"
+    }
+  ]
+]

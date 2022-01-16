@@ -20,6 +20,8 @@ function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
+
+
 app.get('/', (req, res)=> {
     res.json('Welcome to the Covid Report API')
     const links = require("./countries.json");
@@ -504,72 +506,75 @@ app.get('/', (req, res)=> {
     */
     })
 
-const worker = new Worker('./worker2.js')
-
-//const worker2 = new Worker('./worker2.js')
-
-const sourcesArray = []
-
-
-const sourcesArrayresult = []
-
-worker.on('message', (data) => {
-
-    console.log(data)
-    sourcesArray.push(data)
-//    console.log(sourcesArray)
-  //  console.log(data.count)
-    console.log("k")
-})
-
-worker.on("error", (err) => {
-    console.error(err);
-});
-
-worker.on("exit", () => {
-    sourcesArrayresult.push(sourcesArray)
-    console.log('Worker exited')
-    console.log(sourcesArrayresult)
-    console.log('Worker exited')
-    worker.postMessage("Message from parent");
-    update()
- /*   const worker = new Worker('./worker.js')
-    worker.on('message', (data) => {
-        console.log(data)
-        console.log(data.count)
-        console.log("k")
-    })   */
-});
 
 
 
+function getArraysIntersection(a1,a2){
+    return  a1.filter(function(n) { return a2.indexOf(n) !== -1;});
+}
+
+
+
+setInterval(update, 1200000)
 
 function update() {
 
+    const worker = new Worker('./worker.js')
+    const worker1 = new Worker('./worker.js')
+    const worker2 = new Worker('./worker3.js')
+    const worker3 = new Worker('./worker4.js')
 
-const result =[]
+//const worker2 = new Worker('./worker2.js')
+
+    const sourcesArray = []
+
+
+    const sourcesArrayresult = []
 
     const checker = []
-    for (let i = 0; i <  links.length; i++) {
-       checker.push(links[i].name)
-    }
 
-    for (let i = 0; i <  sourcesArrayresult.length; i++) {
-        //  console.log(words[1570])
-        //  const land = "a"
+    worker.on('message', (data) => {
 
-        //   console.log(replacedQuote.includes(words[1570]))
-        if (!checker.includes(sourcesArrayresult[i])) {
-            result.push(sourcesArrayresult[i])
+        console.log(data)
+        sourcesArray.push(data)
+//    console.log(sourcesArray)
+        //  console.log(data.count)
+        console.log("k")
+
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+        worker.postMessage("Message from parent");
+        for (let i = 0; i < links.length; i++) {
+            checker.push(links[i].name)
         }
-    }
+
+        /*   const worker = new Worker('./worker.js')
+           worker.on('message', (data) => {
+               console.log(data)
+               console.log(data.count)
+               console.log("k")
+           })   */
+    });
 
 
-console.log(result)
-
-
-    const worker1 = new Worker('./worker2.js')
 }
+
+
+
+
+
+
+  //  const worker1 = new Worker('./worker2.js')
+
 
 
 

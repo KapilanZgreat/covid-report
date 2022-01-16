@@ -1,0 +1,796 @@
+[
+  [
+    {
+      "country": "Liberia",
+      "cases": "7,121",
+      "deaths": "287",
+      "doses": "1,146,910",
+      "peopleFullyVaccinated": "984,421",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "7,121",
+        "287",
+        "1,146,910",
+        "No data",
+        "984,421"
+      ]
+    },
+    {
+      "country": "Lesotho",
+      "cases": "31,604",
+      "deaths": "687",
+      "doses": "688,097",
+      "peopleFullyVaccinated": "641,007",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "31,604",
+        "687",
+        "688,097",
+        "No data",
+        "641,007"
+      ]
+    },
+    {
+      "country": "Laos",
+      "cases": "123,293",
+      "deaths": "476",
+      "doses": "8,233,499",
+      "peopleFullyVaccinated": "3,643,020",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "123,293",
+        "476",
+        "8,233,499",
+        "No data",
+        "3,643,020"
+      ]
+    },
+    {
+      "country": "Luxembourg",
+      "cases": "123,340",
+      "deaths": "934",
+      "doses": "1,140,177",
+      "peopleFullyVaccinated": "429,705",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "123,340",
+        "934",
+        "1,140,177",
+        "No data",
+        "429,705"
+      ]
+    },
+    {
+      "country": "Liechtenstein",
+      "cases": "7,020",
+      "deaths": "72",
+      "doses": "67,457",
+      "peopleFullyVaccinated": "25,821",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "7,020",
+        "72",
+        "67,457",
+        "25,821"
+      ]
+    },
+    {
+      "country": "Macao",
+      "cases": "79",
+      "deaths": "0",
+      "doses": "1,002,337",
+      "peopleFullyVaccinated": "469,128",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "79",
+        "No data",
+        "0",
+        "1,002,337",
+        "No data",
+        "469,128"
+      ]
+    },
+    {
+      "country": "Mauritius",
+      "cases": "24,425",
+      "deaths": "240",
+      "doses": "2,077,156",
+      "peopleFullyVaccinated": "915,442",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "24,425",
+        "240",
+        "2,077,156",
+        "No data",
+        "915,442"
+      ]
+    },
+    {
+      "country": "Lebanon",
+      "cases": "808,612",
+      "deaths": "9,353",
+      "doses": "4,686,255",
+      "peopleFullyVaccinated": "1,913,139",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "808,612",
+        "9,353",
+        "4,686,255",
+        "1,913,139"
+      ]
+    },
+    {
+      "country": "Libya",
+      "cases": "396,452",
+      "deaths": "5,828",
+      "doses": "2,875,173",
+      "peopleFullyVaccinated": "926,296",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "396,452",
+        "5,828",
+        "2,875,173",
+        "No data",
+        "926,296"
+      ]
+    },
+    {
+      "country": "Latvia",
+      "cases": "298,589",
+      "deaths": "4,712",
+      "doses": "2,680,981",
+      "peopleFullyVaccinated": "1,277,203",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "298,589",
+        "4,712",
+        "2,680,981",
+        "1,277,203"
+      ]
+    },
+    {
+      "country": "Martinique",
+      "cases": "63,055",
+      "deaths": "795",
+      "doses": "No data",
+      "peopleFullyVaccinated": "No data",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "63,055",
+        "795",
+        "No data",
+        "No data",
+        "No data"
+      ]
+    },
+    {
+      "country": "Malawi",
+      "cases": "82,262",
+      "deaths": "2,453",
+      "doses": "1,847,917",
+      "peopleFullyVaccinated": "748,097",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "82,262",
+        "2,453",
+        "1,847,917",
+        "748,097"
+      ]
+    },
+    {
+      "country": "Malaysia",
+      "cases": "2,802,263",
+      "deaths": "31,762",
+      "doses": "60,557,570",
+      "peopleFullyVaccinated": "25,674,070",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "2,802,263",
+        "31,762",
+        "60,557,570",
+        "25,674,070"
+      ]
+    },
+    {
+      "country": "North Macedonia",
+      "cases": "241,651",
+      "deaths": "8,083",
+      "doses": "1,755,026",
+      "peopleFullyVaccinated": "816,777",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "241,651",
+        "8,083",
+        "1,755,026",
+        "No data",
+        "816,777"
+      ]
+    },
+    {
+      "country": "Mauritania",
+      "cases": "53,643",
+      "deaths": "900",
+      "doses": "2,424,087",
+      "peopleFullyVaccinated": "968,079",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "53,643",
+        "900",
+        "2,424,087",
+        "No data",
+        "968,079"
+      ]
+    },
+    {
+      "country": "Madagascar",
+      "cases": "54,101",
+      "deaths": "1,117",
+      "doses": "971,426",
+      "peopleFullyVaccinated": "767,113",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "54,101",
+        "1,117",
+        "971,426",
+        "No data",
+        "767,113"
+      ]
+    },
+    {
+      "country": "Mali",
+      "cases": "27,980",
+      "deaths": "683",
+      "doses": "1,488,256",
+      "peopleFullyVaccinated": "545,403",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "27,980",
+        "683",
+        "1,488,256",
+        "No data",
+        "545,403"
+      ]
+    },
+    {
+      "country": "Malta",
+      "cases": "62,906",
+      "deaths": "501",
+      "doses": "1,159,050",
+      "peopleFullyVaccinated": "439,536",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "62,906",
+        "501",
+        "1,159,050",
+        "439,536"
+      ]
+    },
+    {
+      "country": "Lithuania",
+      "cases": "559,980",
+      "deaths": "7,618",
+      "doses": "4,318,253",
+      "peopleFullyVaccinated": "1,848,899",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "559,980",
+        "7,618",
+        "4,318,253",
+        "1,848,899"
+      ]
+    },
+    {
+      "country": "Maldives",
+      "cases": "101,418",
+      "deaths": "265",
+      "doses": "793,469",
+      "peopleFullyVaccinated": "368,351",
+      "timestamp": "2022-01-16T04:41:11.644Z",
+      "totalStats": [
+        "101,418",
+        "265",
+        "793,469",
+        "No data",
+        "368,351"
+      ]
+    }
+  ],
+  [
+    {
+      "country": "Montserrat",
+      "cases": "129",
+      "deaths": "1",
+      "doses": "3,092",
+      "peopleFullyVaccinated": "1,479",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "129",
+        "1",
+        "3,092",
+        "No data",
+        "1,479"
+      ]
+    },
+    {
+      "country": "Montenegro",
+      "cases": "200,535",
+      "deaths": "2,465",
+      "doses": "644,531",
+      "peopleFullyVaccinated": "275,404",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "200,535",
+        "2,465",
+        "644,531",
+        "275,404"
+      ]
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "cases": "3,905",
+      "deaths": "21",
+      "doses": "99,793",
+      "peopleFullyVaccinated": "41,407",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "3,905",
+        "21",
+        "99,793",
+        "41,407"
+      ]
+    },
+    {
+      "country": "Monaco",
+      "cases": "6,485",
+      "deaths": "44",
+      "doses": "49,980",
+      "peopleFullyVaccinated": "23,308",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "6,485",
+        "44",
+        "49,980",
+        "No data",
+        "23,308"
+      ]
+    },
+    {
+      "country": "Nigeria",
+      "cases": "250,009",
+      "deaths": "3,092",
+      "doses": "17,575,151",
+      "peopleFullyVaccinated": "4,934,418",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "250,009",
+        "3,092",
+        "17,575,151",
+        "No data",
+        "4,934,418"
+      ]
+    },
+    {
+      "country": "Namibia",
+      "cases": "153,969",
+      "deaths": "3,804",
+      "doses": "759,685",
+      "peopleFullyVaccinated": "348,522",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "153,969",
+        "3,804",
+        "759,685",
+        "No data",
+        "348,522"
+      ]
+    },
+    {
+      "country": "Moldova",
+      "cases": "386,905",
+      "deaths": "10,427",
+      "doses": "1,987,353",
+      "peopleFullyVaccinated": "997,456",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "386,905",
+        "10,427",
+        "1,987,353",
+        "997,456"
+      ]
+    },
+    {
+      "country": "Oman",
+      "cases": "310,338",
+      "deaths": "4,119",
+      "doses": "6,118,018",
+      "peopleFullyVaccinated": "2,902,254",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "310,338",
+        "4,119",
+        "6,118,018",
+        "No data",
+        "2,902,254"
+      ]
+    },
+    {
+      "country": "Niger",
+      "cases": "8,347",
+      "deaths": "287",
+      "doses": "1,778,173",
+      "peopleFullyVaccinated": "1,010,152",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "8,347",
+        "287",
+        "1,778,173",
+        "No data",
+        "1,010,152"
+      ]
+    },
+    {
+      "country": "New Caledonia",
+      "cases": "13,536",
+      "deaths": "281",
+      "doses": "359,372",
+      "peopleFullyVaccinated": "175,339",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "13,536",
+        "281",
+        "359,372",
+        "No data",
+        "175,339"
+      ]
+    },
+    {
+      "country": "Mongolia",
+      "cases": "402,462",
+      "deaths": "2,082",
+      "doses": "5,389,933",
+      "peopleFullyVaccinated": "2,167,267",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "402,462",
+        "2,082",
+        "5,389,933",
+        "2,167,267"
+      ]
+    },
+    {
+      "country": "Nicaragua",
+      "cases": "17,563",
+      "deaths": "218",
+      "doses": "8,135,930",
+      "peopleFullyVaccinated": "3,140,060",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "17,563",
+        "218",
+        "8,135,930",
+        "No data",
+        "3,140,060"
+      ]
+    },
+    {
+      "country": "Mozambique",
+      "cases": "217,821",
+      "deaths": "2,117",
+      "doses": "17,710,506",
+      "peopleFullyVaccinated": "7,788,546",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "217,821",
+        "2,117",
+        "17,710,506",
+        "No data",
+        "7,788,546"
+      ]
+    },
+    {
+      "country": "Nepal",
+      "cases": "845,501",
+      "deaths": "11,613",
+      "doses": "25,275,254",
+      "peopleFullyVaccinated": "10,710,721",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "845,501",
+        "11,613",
+        "25,275,254",
+        "No data",
+        "10,710,721"
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "cases": "3,500,915",
+      "deaths": "21,142",
+      "doses": "31,377,028",
+      "peopleFullyVaccinated": "12,273,384",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "3,500,915",
+        "21,142",
+        "31,377,028",
+        "No data",
+        "12,273,384"
+      ]
+    },
+    {
+      "country": "Myanmar (Burma)",
+      "cases": "532,851",
+      "deaths": "19,299",
+      "doses": "36,388,358",
+      "peopleFullyVaccinated": "15,571,917",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "532,851",
+        "19,299",
+        "36,388,358",
+        "No data",
+        "15,571,917"
+      ]
+    },
+    {
+      "country": "Norway",
+      "cases": "496,312",
+      "deaths": "1,381",
+      "doses": "10,422,723",
+      "peopleFullyVaccinated": "3,954,753",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "496,312",
+        "1,381",
+        "10,422,723",
+        "3,954,753"
+      ]
+    },
+    {
+      "country": "New Zealand",
+      "cases": "15,001",
+      "deaths": "52",
+      "doses": "8,636,910",
+      "peopleFullyVaccinated": "3,893,786",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "15,001",
+        "52",
+        "8,636,910",
+        "3,893,786"
+      ]
+    },
+    {
+      "country": "Mexico",
+      "cases": "4,257,776",
+      "deaths": "300,912",
+      "doses": "148,938,454",
+      "peopleFullyVaccinated": "72,846,741",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "4,257,776",
+        "300,912",
+        "148,938,454",
+        "No data",
+        "72,846,741"
+      ]
+    },
+    {
+      "country": "Morocco",
+      "cases": "1,034,399",
+      "deaths": "14,954",
+      "doses": "51,321,365",
+      "peopleFullyVaccinated": "23,088,979",
+      "timestamp": "2022-01-16T04:45:13.092Z",
+      "totalStats": [
+        "1,034,399",
+        "14,954",
+        "51,321,365",
+        "No data",
+        "23,088,979"
+      ]
+    }
+  ],
+  [
+    {
+      "country": "Puerto Rico",
+      "cases": "440,722",
+      "deaths": "3,493",
+      "doses": "6,133,897",
+      "peopleFullyVaccinated": "2,487,400",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "440,722",
+        "3,493",
+        "6,133,897",
+        "2,487,400"
+      ]
+    },
+    {
+      "country": "Rwanda",
+      "cases": "124,419",
+      "deaths": "1,399",
+      "doses": "13,892,895",
+      "peopleFullyVaccinated": "5,680,013",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "124,419",
+        "1,399",
+        "13,892,895",
+        "No data",
+        "5,680,013"
+      ]
+    },
+    {
+      "country": "Romania",
+      "cases": "1,885,771",
+      "deaths": "59,180",
+      "doses": "16,125,775",
+      "peopleFullyVaccinated": "7,900,632",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "1,885,771",
+        "59,180",
+        "16,125,775",
+        "7,900,632"
+      ]
+    },
+    {
+      "country": "Russia",
+      "cases": "10,565,484",
+      "deaths": "313,458",
+      "doses": "149,640,850",
+      "peopleFullyVaccinated": "68,581,024",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "10,565,484",
+        "313,458",
+        "149,640,850",
+        "68,581,024"
+      ]
+    },
+    {
+      "country": "Papua New Guinea",
+      "cases": "36,435",
+      "deaths": "596",
+      "doses": "515,459",
+      "peopleFullyVaccinated": "226,580",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "36,435",
+        "596",
+        "515,459",
+        "No data",
+        "226,580"
+      ]
+    },
+    {
+      "country": "Philippines",
+      "cases": "3,129,512",
+      "deaths": "52,815",
+      "doses": "117,337,626",
+      "peopleFullyVaccinated": "54,423,286",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "3,129,512",
+        "52,815",
+        "117,337,626",
+        "54,423,286"
+      ]
+    },
+    {
+      "country": "Paraguay",
+      "cases": "475,686",
+      "deaths": "16,670",
+      "doses": "7,281,308",
+      "peopleFullyVaccinated": "3,044,839",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "475,686",
+        "16,670",
+        "7,281,308",
+        "No data",
+        "3,044,839"
+      ]
+    },
+    {
+      "country": "Peru",
+      "cases": "2,473,709",
+      "deaths": "203,255",
+      "doses": "52,286,639",
+      "peopleFullyVaccinated": "22,088,234",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "2,473,709",
+        "203,255",
+        "52,286,639",
+        "22,088,234"
+      ]
+    },
+    {
+      "country": "Reunion",
+      "cases": "102,216",
+      "deaths": "435",
+      "doses": "No data",
+      "peopleFullyVaccinated": "No data",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "102,216",
+        "435",
+        "No data",
+        "No data",
+        "No data"
+      ]
+    },
+    {
+      "country": "Panama",
+      "cases": "558,676",
+      "deaths": "7,500",
+      "doses": "6,195,929",
+      "peopleFullyVaccinated": "2,483,748",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "558,676",
+        "7,500",
+        "6,195,929",
+        "2,483,748"
+      ]
+    },
+    {
+      "country": "Qatar",
+      "cases": "291,214",
+      "deaths": "623",
+      "doses": "5,403,271",
+      "peopleFullyVaccinated": "2,218,292",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "291,214",
+        "623",
+        "5,403,271",
+        "2,218,292"
+      ]
+    },
+    {
+      "country": "Pakistan",
+      "cases": "1,320,120",
+      "deaths": "29,003",
+      "doses": "166,837,089",
+      "peopleFullyVaccinated": "76,649,649",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "1,320,120",
+        "29,003",
+        "166,837,089",
+        "76,649,649"
+      ]
+    },
+    {
+      "country": "Portugal",
+      "cases": "1,814,567",
+      "deaths": "19,237",
+      "doses": "20,247,208",
+      "peopleFullyVaccinated": "9,160,691",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "1,814,567",
+        "19,237",
+        "20,247,208",
+        "9,160,691"
+      ]
+    },
+    {
+      "country": "Poland",
+      "cases": "4,281,482",
+      "deaths": "101,841",
+      "doses": "49,362,965",
+      "peopleFullyVaccinated": "21,424,542",
+      "timestamp": "2022-01-16T04:48:55.358Z",
+      "totalStats": [
+        "4,281,482",
+        "101,841",
+        "49,362,965",
+        "21,424,542"
+      ]
+    }
+  ]
+]

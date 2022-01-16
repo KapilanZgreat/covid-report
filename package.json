@@ -33,6 +33,16 @@
       "./filestorage/dailyreport2.json",
       "./filestorage/countryvaccines2.json",
       "./filestorage/countrycases2.json",
+      "./filestorage/totalreport3.json",
+      "./filestorage/news3.json",
+      "./filestorage/dailyreport3.json",
+      "./filestorage/countryvaccines3.json",
+      "./filestorage/countrycases3.json",
+      "./filestorage/totalreport4.json",
+      "./filestorage/news4.json",
+      "./filestorage/dailyreport4.json",
+      "./filestorage/countryvaccines4.json",
+      "./filestorage/countrycases4.json",
       "./worker.js",
       "./worker2.js",
       "hold2.json",
@@ -46,7 +56,17 @@
       "news2.json",
       "dailyreport2.json",
       "countryvaccines2.json",
-      "countrycases2.json"
+      "countrycases2.json",
+      "totalreport3.json",
+      "news3.json",
+      "dailyreport3.json",
+      "countryvaccines3.json",
+      "countrycases3.json",
+      "totalreport4.json",
+      "news4.json",
+      "dailyreport4.json",
+      "countryvaccines4.json",
+      "countrycases4.json"
     ]
   }
 }
