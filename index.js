@@ -792,7 +792,7 @@ function update2(){
         //         checker.push(links[i].name)
         //     }
 
-          const worker = new Worker('./worker.js')
+          const worker = new Worker('./worker2.js')
            worker.on('message', (data) => {
            //    console.log(data)
             //   console.log(data.count)
@@ -833,7 +833,7 @@ function update3(){
         //         checker.push(links[i].name)
         //     }
 
-        const worker = new Worker('./worker.js')
+        const worker = new Worker('./worker3.js')
         worker.on('message', (data) => {
             console.log(data)
             console.log(data.count)
@@ -875,7 +875,7 @@ function update4(){
         //         checker.push(links[i].name)
         //     }
 
-        const worker = new Worker('./worker.js')
+        const worker = new Worker('./worker4.js')
         worker.on('message', (data) => {
             console.log(data)
             console.log(data.count)
