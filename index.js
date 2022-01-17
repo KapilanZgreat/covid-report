@@ -649,6 +649,11 @@ function getArraysIntersection(a1,a2){
     return  a1.filter(function(n) { return a2.indexOf(n) !== -1;});
 }
 
+
+setInterval(overlord, 2000000)
+
+
+
 var delayInMilliseconds = 360000; //6 minutes
 
 var delayInMilliseconds2 = 720000; //12 minutes
@@ -657,36 +662,55 @@ var delayInMilliseconds3 = 1080000; //18 minutes
 
 var delayInMilliseconds4 = 1440000; //24 minutes
 
-setTimeout(function() {
+
+setTimeout(function () {
     delay()
 }, delayInMilliseconds);
 
-setTimeout(function() {
+setTimeout(function () {
     delay2()
 }, delayInMilliseconds2);
 
-setTimeout(function() {
+setTimeout(function () {
     delay3()
 }, delayInMilliseconds3);
 
-setTimeout(function() {
+setTimeout(function () {
     delay4()
 }, delayInMilliseconds4);
 
+function overlord() {
+    setTimeout(function () {
+        delay()
+    }, delayInMilliseconds);
+
+    setTimeout(function () {
+        delay2()
+    }, delayInMilliseconds2);
+
+    setTimeout(function () {
+        delay3()
+    }, delayInMilliseconds3);
+
+    setTimeout(function () {
+        delay4()
+    }, delayInMilliseconds4);
+
+}
 
 function delay() {
-    setInterval(update, 1200000)
+    update()
 }
 function delay2() {
-    setInterval(update2, 1200000)
+    update2()
 }
 
 function delay3() {
-    setInterval(update3, 1200000)
+    update3()
 }
 
 function delay4() {
-    setInterval(update4, 1200000)
+  update4()
 }
 
 function update() {
