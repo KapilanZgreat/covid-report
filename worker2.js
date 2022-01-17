@@ -10,13 +10,13 @@ const linkstwo = []
 const linksthree = []
 const linksfour = []
 
-const resultspecificArticles = []
+var resultspecificArticles = []
 
-const resultspecificArticles1 = []
+var resultspecificArticles1 = []
 
-const resultspecificArticles4 = []
+var resultspecificArticles4 = []
 
-const resultspecificArticles3 = []
+var resultspecificArticles3 = []
 
 
 
@@ -229,7 +229,8 @@ function update() {
             const html = response.data
             const $ = cheerio.load(html)
             randomnum = Math.floor(Math.random() * 100);
-            //    console.log(randomnum)
+
+                console.log(`Random number: ${randomnum}`)
             //    console.log(proxy1[randomnum])
 
 
@@ -267,14 +268,14 @@ function update() {
 
             specificArticles1.push({
                 country: source.name,
-                alphaCode: source.alphaCode,
-                numericCode: source.numericCode,
+                alphaCode: source.Alpha3Code,
+                numericCode: source.NumericCode,
                 cases,
                 deaths,
                 doses,
                 peopleFullyVaccinated,
-                timestamp: datetime,
-                totalStats
+                timestamp: datetime
+            //    totalStats
             })
 
             ///totalreport/country/:quotesId1-------------------------------------------------Total Report-------------------------------------------------------
@@ -305,8 +306,8 @@ function update() {
 
             specificArticles4.push({
                 country: source.name,
-                alphaCode: source.alphaCode,
-                numericCode: source.numericCode,
+                alphaCode: source.Alpha3Code,
+                numericCode: source.NumericCode,
                 cases2,
                 newCasesLastWeek2,
                 // newDosesLastWeek: newDosesLastWeek1,
@@ -361,8 +362,8 @@ function update() {
                     deaths: numbers[4 + k1],
                     timestamp: datetime,
                     countyOfThisCountry: source.name,
-                    alphaCode: source.alphaCode,
-                    numericCode: source.numericCode
+                    alphaCode: source.Alpha3Code,
+                    numericCode: source.NumericCode
                 })
                 k1 += 5;
             }
@@ -403,8 +404,8 @@ function update() {
 
             for (let k = 0; k < articleTitle1.length; k++) {
                 country.push(source.name)
-                countryalphacode.push(source.alphaCode)
-                countrynummericcode.push(source.numericCode)
+                countryalphacode.push(source.Alpha3Code)
+                countrynummericcode.push(source.NumericCode)
             }
 
             // console.log(timeStamp);
@@ -446,10 +447,10 @@ function update() {
 
             if (specificArticles1.length == linkstwo.length) {
                 update1()
-                resultspecificArticles.push(specificArticles)
-                resultspecificArticles1.push(specificArticles1)
-                resultspecificArticles4.push(specificArticles4)
-                resultspecificArticles3.push(specificArticles3)
+                resultspecificArticles = resultspecificArticles.concat(specificArticles)
+                resultspecificArticles1 = resultspecificArticles1.concat(specificArticles1)
+                resultspecificArticles4 = resultspecificArticles4.concat(specificArticles4)
+                resultspecificArticles3 = resultspecificArticles3.concat(specificArticles3)
 
             }
         }).catch((err) => console.log(err))
@@ -534,14 +535,14 @@ function update1() {
 
             specificArticles1.push({
                 country: source.name,
-                alphaCode: source.alphaCode,
-                numericCode: source.numericCode,
+                alphaCode: source.Alpha3Code,
+                numericCode: source.NumericCode,
                 cases,
                 deaths,
                 doses,
                 peopleFullyVaccinated,
-                timestamp: datetime,
-                totalStats
+                timestamp: datetime
+             //   totalStats
             })
 
             ///totalreport/country/:quotesId1-------------------------------------------------Total Report-------------------------------------------------------
@@ -572,8 +573,8 @@ function update1() {
 
             specificArticles4.push({
                 country: source.name,
-                alphaCode: source.alphaCode,
-                numericCode: source.numericCode,
+                alphaCode: source.Alpha3Code,
+                numericCode: source.NumericCode,
                 cases2,
                 newCasesLastWeek2,
                 // newDosesLastWeek: newDosesLastWeek1,
@@ -628,8 +629,8 @@ function update1() {
                     deaths: numbers[4 + k1],
                     timestamp: datetime,
                     countyOfThisCountry: source.name,
-                    alphaCode: source.alphaCode,
-                    numericCode: source.numericCode
+                    alphaCode: source.Alpha3Code,
+                    numericCode: source.NumericCode
                 })
                 k1 += 5;
             }
@@ -670,8 +671,8 @@ function update1() {
 
             for (let k = 0; k < articleTitle1.length; k++) {
                 country.push(source.name)
-                countryalphacode.push(source.alphaCode)
-                countrynummericcode.push(source.numericCode)
+                countryalphacode.push(source.Alpha3Code)
+                countrynummericcode.push(source.NumericCode)
             }
 
             // console.log(timeStamp);
@@ -712,10 +713,10 @@ function update1() {
 
             if (specificArticles1.length == linksthree.length) {
                 update2()
-                resultspecificArticles.push(specificArticles)
-                resultspecificArticles1.push(specificArticles1)
-                resultspecificArticles4.push(specificArticles4)
-                resultspecificArticles3.push(specificArticles3)
+                resultspecificArticles = resultspecificArticles.concat(specificArticles)
+                resultspecificArticles1 = resultspecificArticles1.concat(specificArticles1)
+                resultspecificArticles4 = resultspecificArticles4.concat(specificArticles4)
+                resultspecificArticles3 = resultspecificArticles3.concat(specificArticles3)
             }
         }).catch((err) => console.log(err))
     })
@@ -799,14 +800,14 @@ function update2() {
 
             specificArticles1.push({
                 country: source.name,
-                alphaCode: source.alphaCode,
-                numericCode: source.numericCode,
+                alphaCode: source.Alpha3Code,
+                numericCode: source.NumericCode,
                 cases,
                 deaths,
                 doses,
                 peopleFullyVaccinated,
-                timestamp: datetime,
-                totalStats
+                timestamp: datetime
+             //   totalStats
             })
 
             ///totalreport/country/:quotesId1-------------------------------------------------Total Report-------------------------------------------------------
@@ -837,8 +838,8 @@ function update2() {
 
             specificArticles4.push({
                 country: source.name,
-                alphaCode: source.alphaCode,
-                numericCode: source.numericCode,
+                alphaCode: source.Alpha3Code,
+                numericCode: source.NumericCode,
                 cases2,
                 newCasesLastWeek2,
                 // newDosesLastWeek: newDosesLastWeek1,
@@ -893,8 +894,8 @@ function update2() {
                     deaths: numbers[4 + k1],
                     timestamp: datetime,
                     countyOfThisCountry: source.name,
-                    alphaCode: source.alphaCode,
-                    numericCode: source.numericCode
+                    alphaCode: source.Alpha3Code,
+                    numericCode: source.NumericCode
                 })
                 k1 += 5;
             }
@@ -935,8 +936,8 @@ function update2() {
 
             for (let k = 0; k < articleTitle1.length; k++) {
                 country.push(source.name)
-                countryalphacode.push(source.alphaCode)
-                countrynummericcode.push(source.numericCode)
+                countryalphacode.push(source.Alpha3Code)
+                countrynummericcode.push(source.NumericCode)
             }
 
             // console.log(timeStamp);
@@ -977,10 +978,10 @@ function update2() {
 
             if (specificArticles1.length == linksfour.length) {
 
-                resultspecificArticles.push(specificArticles)
-                resultspecificArticles1.push(specificArticles1)
-                resultspecificArticles4.push(specificArticles4)
-                resultspecificArticles3.push(specificArticles3)
+                resultspecificArticles = resultspecificArticles.concat(specificArticles)
+                resultspecificArticles1 = resultspecificArticles1.concat(specificArticles1)
+                resultspecificArticles4 = resultspecificArticles4.concat(specificArticles4)
+                resultspecificArticles3 = resultspecificArticles3.concat(specificArticles3)
 
                 require('fs').writeFile(
                     './filestorage/news2.json',

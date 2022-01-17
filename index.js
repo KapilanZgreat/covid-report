@@ -5,6 +5,10 @@ const cheerio = require('cheerio')
 const links = require("./countries.json");
 const request = require('request');
 const { Worker } = require('worker_threads')
+const linkss = require("./filestorage/news.json");
+const linkss4 = require("./filestorage/news4.json");
+const linkss3 = require("./filestorage/news3.json");
+const linkss2 = require("./filestorage/news2.json");
 
 
 const app = express()
@@ -37,24 +41,49 @@ app.get('/', (req, res)=> {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/totalreport.json");
+        const linkss = require("./filestorage/totalreport.json");
+        const linkss2 = require("./filestorage/totalreport2.json");
+        const linkss3 = require("./filestorage/totalreport3.json");
+        const linkss4 = require("./filestorage/totalreport4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].country == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].country == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].country == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].country == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].country == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
-
-
-            res.json(result)
+        res.json(result)
 
 
 
@@ -129,17 +158,44 @@ app.get('/', (req, res)=> {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/dailyreport.json");
+        const linkss = require("./filestorage/dailyreport.json");
+        const linkss2 = require("./filestorage/dailyreport2.json");
+        const linkss3 = require("./filestorage/dailyreport3.json");
+        const linkss4 = require("./filestorage/dailyreport4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].country == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].country == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].country == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].country == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].country == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
@@ -216,17 +272,44 @@ app.get('/', (req, res)=> {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/countrycases.json");
+        const linkss = require("./filestorage/countrycases.json");
+        const linkss2 = require("./filestorage/countrycases2.json");
+        const linkss3 = require("./filestorage/countrycases3.json");
+        const linkss4 = require("./filestorage/countrycases4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].countyOfThisCountry == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].countyOfThisCountry == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].countyOfThisCountry == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].countyOfThisCountry == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].countyOfThisCountry == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
@@ -317,17 +400,44 @@ app.get('/', (req, res)=> {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/countryvaccines.json");
+        const linkss = require("./filestorage/news.json");
+        const linkss2 = require("./filestorage/news2.json");
+        const linkss3 = require("./filestorage/news3.json");
+        const linkss4 = require("./filestorage/news4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].countyOfThisCountry == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].country == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].country == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].country == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].country == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
@@ -414,23 +524,49 @@ app.get('/', (req, res)=> {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/news.json");
+        const linkss = require("./filestorage/news.json");
+        const linkss2 = require("./filestorage/news2.json");
+        const linkss3 = require("./filestorage/news3.json");
+        const linkss4 = require("./filestorage/news4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].country == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].country == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].country == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].country == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].country == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
         res.json(result)
-
         /*
         const quotesId1 = req.params.quotesId1
         const links = require("./countries.json");
@@ -513,14 +649,13 @@ function getArraysIntersection(a1,a2){
     return  a1.filter(function(n) { return a2.indexOf(n) !== -1;});
 }
 
-
-
+update()
 setInterval(update, 1200000)
 
 function update() {
 
     const worker = new Worker('./worker.js')
-    const worker1 = new Worker('./worker.js')
+    const worker1 = new Worker('./worker2.js')
     const worker2 = new Worker('./worker3.js')
     const worker3 = new Worker('./worker4.js')
 
@@ -531,6 +666,23 @@ function update() {
 
     const sourcesArrayresult = []
 
+    const sourcesArray1 = []
+
+
+    const sourcesArrayresult1 = []
+
+
+    const sourcesArray2 = []
+
+
+    const sourcesArrayresult2 = []
+
+
+    const sourcesArray3 = []
+
+
+    const sourcesArrayresult3 = []
+
     const checker = []
 
     worker.on('message', (data) => {
@@ -539,7 +691,7 @@ function update() {
         sourcesArray.push(data)
 //    console.log(sourcesArray)
         //  console.log(data.count)
-        console.log("k")
+    //    console.log("k")
 
     })
 
@@ -552,10 +704,10 @@ function update() {
         console.log('Worker exited')
         console.log(sourcesArrayresult)
         console.log('Worker exited')
-        worker.postMessage("Message from parent");
-        for (let i = 0; i < links.length; i++) {
-            checker.push(links[i].name)
-        }
+  //      worker.postMessage("Message from parent");
+   //     for (let i = 0; i < links.length; i++) {
+   //         checker.push(links[i].name)
+   //     }
 
         /*   const worker = new Worker('./worker.js')
            worker.on('message', (data) => {
@@ -564,6 +716,109 @@ function update() {
                console.log("k")
            })   */
     });
+
+
+
+
+    worker1.on('message', (data) => {
+
+        console.log(data)
+        sourcesArray1.push(data)
+//    console.log(sourcesArray)
+        //  console.log(data.count)
+        //    console.log("k")
+
+    })
+
+    worker1.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker1.on("exit", () => {
+        sourcesArrayresult1.push(sourcesArray1)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult1)
+        console.log('Worker exited')
+        //      worker.postMessage("Message from parent");
+        //     for (let i = 0; i < links.length; i++) {
+        //         checker.push(links[i].name)
+        //     }
+
+        /*   const worker = new Worker('./worker.js')
+           worker.on('message', (data) => {
+               console.log(data)
+               console.log(data.count)
+               console.log("k")
+           })   */
+    });
+
+    worker2.on('message', (data) => {
+
+        console.log(data)
+        sourcesArray2.push(data)
+//    console.log(sourcesArray)
+        //  console.log(data.count)
+        //    console.log("k")
+
+    })
+
+    worker2.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker2.on("exit", () => {
+        sourcesArrayresult2.push(sourcesArray2)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult2)
+        console.log('Worker exited')
+        //      worker.postMessage("Message from parent");
+        //     for (let i = 0; i < links.length; i++) {
+        //         checker.push(links[i].name)
+        //     }
+
+        /*   const worker = new Worker('./worker.js')
+           worker.on('message', (data) => {
+               console.log(data)
+               console.log(data.count)
+               console.log("k")
+           })   */
+    });
+
+
+
+    worker3.on('message', (data) => {
+
+        console.log(data)
+        sourcesArray3.push(data)
+//    console.log(sourcesArray)
+        //  console.log(data.count)
+        //    console.log("k")
+
+    })
+
+    worker3.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker3.on("exit", () => {
+        sourcesArrayresult3.push(sourcesArray3)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult3)
+        console.log('Worker exited')
+        //      worker.postMessage("Message from parent");
+        //     for (let i = 0; i < links.length; i++) {
+        //         checker.push(links[i].name)
+        //     }
+
+        /*   const worker = new Worker('./worker.js')
+           worker.on('message', (data) => {
+               console.log(data)
+               console.log(data.count)
+               console.log("k")
+           })   */
+    });
+
+
 
 
 }
@@ -2283,22 +2538,50 @@ function update() {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/totalreport.json");
+        const linkss = require("./filestorage/totalreport.json");
+        const linkss2 = require("./filestorage/totalreport2.json");
+        const linkss3 = require("./filestorage/totalreport3.json");
+        const linkss4 = require("./filestorage/totalreport4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].alphaCode == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].alphaCode == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].alphaCode == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].alphaCode == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].country == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
         res.json(result)
+
 
 
         /*
@@ -2360,22 +2643,50 @@ function update() {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/dailyreport.json");
+        const linkss = require("./filestorage/dailyreport.json");
+        const linkss2 = require("./filestorage/dailyreport2.json");
+        const linkss3 = require("./filestorage/dailyreport3.json");
+        const linkss4 = require("./filestorage/dailyreport4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].alphaCode == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].alphaCode == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].alphaCode == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].alphaCode == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].alphaCode == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
         res.json(result)
+
 
         /*
             const quotesId1 = req.params.quotesId1
@@ -2443,22 +2754,50 @@ function update() {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/countrycases.json");
+        const linkss = require("./filestorage/countrycases.json");
+        const linkss2 = require("./filestorage/countrycases2.json");
+        const linkss3 = require("./filestorage/countrycases3.json");
+        const linkss4 = require("./filestorage/countrycases4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].alphaCode == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].alphaCode == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].alphaCode == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].alphaCode == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].alphaCode == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
         res.json(result)
+
 
 
         /*
@@ -2616,22 +2955,50 @@ function update() {
         const quotesId1 = req.params.quotesId1
 
         const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/news.json");
+        const linkss = require("./filestorage/news.json");
+        const linkss2 = require("./filestorage/news2.json");
+        const linkss3 = require("./filestorage/news3.json");
+        const linkss4 = require("./filestorage/news4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].alphaCode == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].alphaCode == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].alphaCode == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].alphaCode == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].country == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
         res.json(result)
+
 
 
         /*
@@ -2708,25 +3075,53 @@ function update() {
 
     app.get('/totalreport/numericcode/:quotesId', (req, res) => {
 
-        const quotesId1 = req.params.quotesId1
+        const quotesId = req.params.quotesId
 
-        const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/totalreport.json");
+      //  const quotesId = capitalizeFirstLetter(quotesId1);
+        const linkss = require("./filestorage/totalreport.json");
+        const linkss2 = require("./filestorage/totalreport2.json");
+        const linkss3 = require("./filestorage/totalreport3.json");
+        const linkss4 = require("./filestorage/totalreport4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].numericCode == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].numericCode == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].numericCode == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].numericCode == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].numericCode == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
         res.json(result)
+
 
         /*
             const quotesId = req.params.quotesId
@@ -2782,20 +3177,47 @@ function update() {
     app.get('/dailyreport/numericcode/:quotesId', (req, res) => {
 
 
-        const quotesId1 = req.params.quotesId1
+        const quotesId = req.params.quotesId
 
-        const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/dailyreport.json");
+    //    const quotesId = capitalizeFirstLetter(quotesId1);
+        const linkss = require("./filestorage/dailyreport.json");
+        const linkss2 = require("./filestorage/dailyreport2.json");
+        const linkss3 = require("./filestorage/dailyreport3.json");
+        const linkss4 = require("./filestorage/dailyreport4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].numericCode == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].numericCode == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].numericCode == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].numericCode == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].numericCode == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
@@ -2863,25 +3285,53 @@ function update() {
     app.get('/countiesreport/cases/numericcode/:quotesId', (req, res) => {
 
 
-        const quotesId1 = req.params.quotesId1
+        const quotesId = req.params.quotesId
 
-        const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/countrycases.json");
+    //    const quotesId = capitalizeFirstLetter(quotesId1);
+        const linkss = require("./filestorage/countrycases.json");
+        const linkss2 = require("./filestorage/countrycases2.json");
+        const linkss3 = require("./filestorage/countrycases3.json");
+        const linkss4 = require("./filestorage/countrycases4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].numericCode == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].numericCode == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].numericCode == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].numericCode == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].numericCode == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
         res.json(result)
+
 
 
         /*
@@ -3030,25 +3480,53 @@ function update() {
     app.get('/topcovidnews/numericcode/:quotesId', (req, res) => {
 
 
-        const quotesId1 = req.params.quotesId1
+        const quotesId = req.params.quotesId
 
-        const quotesId = capitalizeFirstLetter(quotesId1);
-        const links = require("./filestorage/news.json");
+   //     const quotesId = capitalizeFirstLetter(quotesId1);
+        const linkss = require("./filestorage/news.json");
+        const linkss2 = require("./filestorage/news2.json");
+        const linkss3 = require("./filestorage/news3.json");
+        const linkss4 = require("./filestorage/news4.json");
 
 
         let result = []
 
-        for (let i = 0; i < links.length; i++) {
-            if (links[i].numericCode == quotesId) {
-                result.push(links[i])
+        for (let i = 0; i < linkss.length; i++) {
+            if (linkss[i].numericCode == quotesId) {
+                result.push(linkss[i])
 
             }
         }
+
+        for (let i = 0; i < linkss2.length; i++) {
+            if (linkss2[i].numericCode == quotesId) {
+                result.push(linkss2[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss3.length; i++) {
+            if (linkss3[i].numericCode == quotesId) {
+                result.push(linkss3[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss4.length; i++) {
+            if (linkss4[i].numericCode == quotesId) {
+                result.push(linkss4[i])
+
+            }
+        }
+
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
         }
         res.json(result)
+
 
 
         /*
