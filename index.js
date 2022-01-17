@@ -649,41 +649,56 @@ function getArraysIntersection(a1,a2){
     return  a1.filter(function(n) { return a2.indexOf(n) !== -1;});
 }
 
-update()
-setInterval(update, 1200000)
+var delayInMilliseconds = 360000; //6 minutes
+
+var delayInMilliseconds2 = 720000; //12 minutes
+
+var delayInMilliseconds3 = 1080000; //18 minutes
+
+var delayInMilliseconds4 = 1440000; //24 minutes
+
+setTimeout(function() {
+    delay()
+}, delayInMilliseconds);
+
+setTimeout(function() {
+    delay2()
+}, delayInMilliseconds2);
+
+setTimeout(function() {
+    delay3()
+}, delayInMilliseconds3);
+
+setTimeout(function() {
+    delay4()
+}, delayInMilliseconds4);
+
+
+function delay() {
+    setInterval(update, 1200000)
+}
+function delay2() {
+    setInterval(update2, 1200000)
+}
+
+function delay3() {
+    setInterval(update3, 1200000)
+}
+
+function delay4() {
+    setInterval(update4, 1200000)
+}
 
 function update() {
 
     const worker = new Worker('./worker.js')
-    const worker1 = new Worker('./worker2.js')
-    const worker2 = new Worker('./worker3.js')
-    const worker3 = new Worker('./worker4.js')
 
-//const worker2 = new Worker('./worker2.js')
 
     const sourcesArray = []
 
 
     const sourcesArrayresult = []
 
-    const sourcesArray1 = []
-
-
-    const sourcesArrayresult1 = []
-
-
-    const sourcesArray2 = []
-
-
-    const sourcesArrayresult2 = []
-
-
-    const sourcesArray3 = []
-
-
-    const sourcesArrayresult3 = []
-
-    const checker = []
 
     worker.on('message', (data) => {
 
@@ -718,7 +733,16 @@ function update() {
     });
 
 
+}
 
+
+function update2(){
+    const sourcesArray1 = []
+
+
+    const sourcesArrayresult1 = []
+
+      const worker1 = new Worker('./worker2.js')
 
     worker1.on('message', (data) => {
 
@@ -744,13 +768,22 @@ function update() {
         //         checker.push(links[i].name)
         //     }
 
-        /*   const worker = new Worker('./worker.js')
+          const worker = new Worker('./worker.js')
            worker.on('message', (data) => {
-               console.log(data)
-               console.log(data.count)
-               console.log("k")
-           })   */
+           //    console.log(data)
+            //   console.log(data.count)
+           //    console.log("k")
+           })
     });
+}
+
+
+function update3(){
+    const sourcesArray2 = []
+
+
+    const sourcesArrayresult2 = []
+    const worker2 = new Worker('./worker3.js')
 
     worker2.on('message', (data) => {
 
@@ -776,14 +809,22 @@ function update() {
         //         checker.push(links[i].name)
         //     }
 
-        /*   const worker = new Worker('./worker.js')
-           worker.on('message', (data) => {
-               console.log(data)
-               console.log(data.count)
-               console.log("k")
-           })   */
+        const worker = new Worker('./worker.js')
+        worker.on('message', (data) => {
+            console.log(data)
+            console.log(data.count)
+            console.log("k")
+        })
     });
+}
 
+function update4(){
+    const worker3 = new Worker('./worker4.js')
+
+    const sourcesArray3 = []
+
+
+    const sourcesArrayresult3 = []
 
 
     worker3.on('message', (data) => {
@@ -810,21 +851,14 @@ function update() {
         //         checker.push(links[i].name)
         //     }
 
-        /*   const worker = new Worker('./worker.js')
-           worker.on('message', (data) => {
-               console.log(data)
-               console.log(data.count)
-               console.log("k")
-           })   */
+        const worker = new Worker('./worker.js')
+        worker.on('message', (data) => {
+            console.log(data)
+            console.log(data.count)
+            console.log("k")
+        })
     });
-
-
-
-
 }
-
-
-
 
 
 

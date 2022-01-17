@@ -1,175 +1,5 @@
 [
   {
-    "country": "Belgium",
-    "alphaCode": "BEL",
-    "numericCode": "056",
-    "cases": "2,410,731",
-    "deaths": "28,612",
-    "doses": "23,281,887",
-    "peopleFullyVaccinated": "8,834,701",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Australia",
-    "alphaCode": "AUS",
-    "numericCode": "036",
-    "cases": "1,786,007",
-    "deaths": "2,692",
-    "doses": "46,034,466",
-    "peopleFullyVaccinated": "20,020,735",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Azerbaijan",
-    "alphaCode": "AZE",
-    "numericCode": "031",
-    "cases": "625,726",
-    "deaths": "8,521",
-    "doses": "11,672,083",
-    "peopleFullyVaccinated": "4,714,478",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Armenia",
-    "alphaCode": "ARM",
-    "numericCode": "051",
-    "cases": "347,617",
-    "deaths": "8,019",
-    "doses": "1,694,518",
-    "peopleFullyVaccinated": "740,489",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Belarus",
-    "alphaCode": "BLR",
-    "numericCode": "112",
-    "cases": "715,643",
-    "deaths": "5,824",
-    "doses": "8,914,267",
-    "peopleFullyVaccinated": "3,718,448",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Barbados",
-    "alphaCode": "BRB",
-    "numericCode": "052",
-    "cases": "35,373",
-    "deaths": "269",
-    "doses": "303,391",
-    "peopleFullyVaccinated": "145,896",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Aruba",
-    "alphaCode": "ABW",
-    "numericCode": "533",
-    "cases": "30,677",
-    "deaths": "184",
-    "doses": "164,635",
-    "peopleFullyVaccinated": "79,391",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Austria",
-    "alphaCode": "AUT",
-    "numericCode": "040",
-    "cases": "1,443,589",
-    "deaths": "13,920",
-    "doses": "17,096,777",
-    "peopleFullyVaccinated": "6,651,720",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Afghanistan",
-    "alphaCode": "AFG",
-    "numericCode": "004",
-    "cases": "158,717",
-    "deaths": "7,379",
-    "doses": "4,954,809",
-    "peopleFullyVaccinated": "3,823,786",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Algeria",
-    "alphaCode": "DZA",
-    "numericCode": "012",
-    "cases": "226,057",
-    "deaths": "6,412",
-    "doses": "12,906,358",
-    "peopleFullyVaccinated": "5,763,106",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "American Samoa",
-    "alphaCode": "ASM",
-    "numericCode": "016",
-    "cases": "1",
-    "deaths": "0",
-    "doses": "82,022",
-    "peopleFullyVaccinated": "36,364",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Antigua and Barbuda",
-    "alphaCode": "ATG",
-    "numericCode": "028",
-    "cases": "5,321",
-    "deaths": "120",
-    "doses": "121,415",
-    "peopleFullyVaccinated": "59,054",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Bahrain",
-    "alphaCode": "BHR",
-    "numericCode": "048",
-    "cases": "308,008",
-    "deaths": "1,398",
-    "doses": "3,306,303",
-    "peopleFullyVaccinated": "1,188,253",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Argentina",
-    "alphaCode": "ARG",
-    "numericCode": "032",
-    "cases": "7,094,865",
-    "deaths": "118,040",
-    "doses": "82,438,934",
-    "peopleFullyVaccinated": "33,781,649",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Bangladesh",
-    "alphaCode": "BGD",
-    "numericCode": "050",
-    "cases": "1,617,711",
-    "deaths": "28,144",
-    "doses": "144,171,163",
-    "peopleFullyVaccinated": "56,481,969",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Albania",
-    "alphaCode": "ALB",
-    "numericCode": "008",
-    "cases": "232,637",
-    "deaths": "3,269",
-    "doses": "2,419,734",
-    "peopleFullyVaccinated": "1,067,328",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "Anguila",
-    "alphaCode": "AIA",
-    "numericCode": "660",
-    "cases": "2,040",
-    "deaths": "6",
-    "doses": "21,046",
-    "peopleFullyVaccinated": "9,282",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
     "country": "Andorra",
     "alphaCode": "AND",
     "numericCode": "020",
@@ -177,17 +7,7 @@
     "deaths": "142",
     "doses": "117,246",
     "peopleFullyVaccinated": "51,392",
-    "timestamp": "2022-01-17T19:10:00.658Z"
-  },
-  {
-    "country": "The Bahamas",
-    "alphaCode": "BHS",
-    "numericCode": "044",
-    "cases": "30,850",
-    "deaths": "719",
-    "doses": "312,840",
-    "peopleFullyVaccinated": "150,372",
-    "timestamp": "2022-01-17T19:10:00.658Z"
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
     "country": "Angola",
@@ -197,187 +17,187 @@
     "deaths": "1,863",
     "doses": "12,690,132",
     "peopleFullyVaccinated": "4,308,880",
-    "timestamp": "2022-01-17T19:10:00.658Z"
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "British Virgin Islands",
-    "alphaCode": "VGB",
-    "numericCode": "092",
-    "cases": "5,255",
-    "deaths": "42",
-    "doses": "35,970",
-    "peopleFullyVaccinated": "17,072",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Barbados",
+    "alphaCode": "BRB",
+    "numericCode": "052",
+    "cases": "35,373",
+    "deaths": "269",
+    "doses": "303,391",
+    "peopleFullyVaccinated": "145,896",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Central African Republic",
-    "alphaCode": "CAF",
-    "numericCode": "140",
-    "cases": "13,319",
-    "deaths": "108",
-    "doses": "902,347",
-    "peopleFullyVaccinated": "346,270",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Austria",
+    "alphaCode": "AUT",
+    "numericCode": "040",
+    "cases": "1,443,589",
+    "deaths": "13,920",
+    "doses": "17,096,777",
+    "peopleFullyVaccinated": "6,651,720",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Bermuda",
-    "alphaCode": "BMU",
-    "numericCode": "060",
-    "cases": "8,541",
-    "deaths": "110",
-    "doses": "115,425",
-    "peopleFullyVaccinated": "45,670",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Azerbaijan",
+    "alphaCode": "AZE",
+    "numericCode": "031",
+    "cases": "625,726",
+    "deaths": "8,521",
+    "doses": "11,672,083",
+    "peopleFullyVaccinated": "4,714,478",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Burundi",
-    "alphaCode": "BDI",
-    "numericCode": "108",
-    "cases": "36,257",
-    "deaths": "38",
-    "doses": "9,007",
-    "peopleFullyVaccinated": "3,533",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "The Bahamas",
+    "alphaCode": "BHS",
+    "numericCode": "044",
+    "cases": "30,850",
+    "deaths": "719",
+    "doses": "312,840",
+    "peopleFullyVaccinated": "150,372",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Brunei",
-    "alphaCode": "BRN",
-    "numericCode": "096",
-    "cases": "15,797",
-    "deaths": "98",
-    "doses": "922,950",
-    "peopleFullyVaccinated": "401,757",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Argentina",
+    "alphaCode": "ARG",
+    "numericCode": "032",
+    "cases": "7,094,865",
+    "deaths": "118,040",
+    "doses": "82,438,934",
+    "peopleFullyVaccinated": "33,781,649",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Bhutan",
-    "alphaCode": "BTN",
-    "numericCode": "064",
-    "cases": "2,928",
-    "deaths": "3",
-    "doses": "1,159,639",
-    "peopleFullyVaccinated": "567,977",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Bangladesh",
+    "alphaCode": "BGD",
+    "numericCode": "050",
+    "cases": "1,617,711",
+    "deaths": "28,144",
+    "doses": "144,171,163",
+    "peopleFullyVaccinated": "56,481,969",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Bolivia",
-    "alphaCode": "BOL",
-    "numericCode": "068",
-    "cases": "749,070",
-    "deaths": "20,238",
-    "doses": "11,038,398",
-    "peopleFullyVaccinated": "4,903,386",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Algeria",
+    "alphaCode": "DZA",
+    "numericCode": "012",
+    "cases": "226,057",
+    "deaths": "6,412",
+    "doses": "12,906,358",
+    "peopleFullyVaccinated": "5,763,106",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Cayman Islands",
-    "alphaCode": "CYM",
-    "numericCode": "136",
-    "cases": "11,666",
-    "deaths": "15",
-    "doses": "133,997",
-    "peopleFullyVaccinated": "57,377",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Aruba",
+    "alphaCode": "ABW",
+    "numericCode": "533",
+    "cases": "30,677",
+    "deaths": "184",
+    "doses": "164,635",
+    "peopleFullyVaccinated": "79,391",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Bulgaria",
-    "alphaCode": "BGR",
-    "numericCode": "100",
-    "cases": "820,608",
-    "deaths": "32,086",
-    "doses": "4,369,196",
-    "peopleFullyVaccinated": "1,962,387",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Albania",
+    "alphaCode": "ALB",
+    "numericCode": "008",
+    "cases": "232,637",
+    "deaths": "3,269",
+    "doses": "2,419,734",
+    "peopleFullyVaccinated": "1,067,328",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Benin",
-    "alphaCode": "BEN",
-    "numericCode": "204",
-    "cases": "26,036",
-    "deaths": "162",
-    "doses": "1,897,214",
-    "peopleFullyVaccinated": "1,421,442",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Armenia",
+    "alphaCode": "ARM",
+    "numericCode": "051",
+    "cases": "347,617",
+    "deaths": "8,019",
+    "doses": "1,694,518",
+    "peopleFullyVaccinated": "740,489",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Bosnia and Herzegovina",
-    "alphaCode": "BIH",
-    "numericCode": "070",
-    "cases": "313,185",
-    "deaths": "13,741",
-    "doses": "1,625,844",
-    "peopleFullyVaccinated": "720,631",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Afghanistan",
+    "alphaCode": "AFG",
+    "numericCode": "004",
+    "cases": "158,717",
+    "deaths": "7,379",
+    "doses": "4,954,809",
+    "peopleFullyVaccinated": "3,823,786",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Cameroon",
-    "alphaCode": "CMR",
-    "numericCode": "120",
-    "cases": "109,666",
-    "deaths": "1,853",
-    "doses": "1,024,333",
-    "peopleFullyVaccinated": "663,317",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Belgium",
+    "alphaCode": "BEL",
+    "numericCode": "056",
+    "cases": "2,410,731",
+    "deaths": "28,612",
+    "doses": "23,281,887",
+    "peopleFullyVaccinated": "8,834,701",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Botswana",
-    "alphaCode": "BWA",
-    "numericCode": "072",
-    "cases": "237,678",
-    "deaths": "2,514",
-    "doses": "2,210,690",
-    "peopleFullyVaccinated": "1,039,113",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Belarus",
+    "alphaCode": "BLR",
+    "numericCode": "112",
+    "cases": "715,643",
+    "deaths": "5,824",
+    "doses": "8,914,267",
+    "peopleFullyVaccinated": "3,718,448",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Belize",
-    "alphaCode": "BLZ",
-    "numericCode": "084",
-    "cases": "40,612",
-    "deaths": "608",
-    "doses": "429,697",
-    "peopleFullyVaccinated": "200,254",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Anguila",
+    "alphaCode": "AIA",
+    "numericCode": "660",
+    "cases": "2,040",
+    "deaths": "6",
+    "doses": "21,046",
+    "peopleFullyVaccinated": "9,282",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Belgium-Luxembourg",
-    "alphaCode": "BLX",
-    "numericCode": "058",
-    "cases": "123,340",
-    "deaths": "934",
-    "doses": "1,140,177",
-    "peopleFullyVaccinated": "429,705",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Antigua and Barbuda",
+    "alphaCode": "ATG",
+    "numericCode": "028",
+    "cases": "5,321",
+    "deaths": "120",
+    "doses": "121,415",
+    "peopleFullyVaccinated": "59,054",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Cape Verde",
-    "alphaCode": "CPV",
-    "numericCode": "132",
-    "cases": "53,987",
-    "deaths": "372",
-    "doses": "611,615",
-    "peopleFullyVaccinated": "268,046",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Bahrain",
+    "alphaCode": "BHR",
+    "numericCode": "048",
+    "cases": "308,008",
+    "deaths": "1,398",
+    "doses": "3,306,303",
+    "peopleFullyVaccinated": "1,188,253",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Canada",
-    "alphaCode": "CAN",
-    "numericCode": "124",
-    "cases": "2,765,668",
-    "deaths": "31,572",
-    "doses": "73,959,132",
-    "peopleFullyVaccinated": "29,672,799",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "Australia",
+    "alphaCode": "AUS",
+    "numericCode": "036",
+    "cases": "1,786,007",
+    "deaths": "2,692",
+    "doses": "46,034,466",
+    "peopleFullyVaccinated": "20,020,735",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
-    "country": "Cambodia",
-    "alphaCode": "KHM",
-    "numericCode": "116",
-    "cases": "120,796",
-    "deaths": "3,015",
-    "doses": "31,639,875",
-    "peopleFullyVaccinated": "13,711,159",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "country": "American Samoa",
+    "alphaCode": "ASM",
+    "numericCode": "016",
+    "cases": "1",
+    "deaths": "0",
+    "doses": "82,022",
+    "peopleFullyVaccinated": "36,364",
+    "timestamp": "2022-01-17T19:36:05.177Z"
   },
   {
     "country": "Burkina Faso",
@@ -387,7 +207,187 @@
     "deaths": "339",
     "doses": "1,192,663",
     "peopleFullyVaccinated": "725,952",
-    "timestamp": "2022-01-17T19:12:12.605Z"
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "British Virgin Islands",
+    "alphaCode": "VGB",
+    "numericCode": "092",
+    "cases": "5,255",
+    "deaths": "42",
+    "doses": "35,970",
+    "peopleFullyVaccinated": "17,072",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Belgium-Luxembourg",
+    "alphaCode": "BLX",
+    "numericCode": "058",
+    "cases": "123,340",
+    "deaths": "934",
+    "doses": "1,140,177",
+    "peopleFullyVaccinated": "429,705",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Burundi",
+    "alphaCode": "BDI",
+    "numericCode": "108",
+    "cases": "36,257",
+    "deaths": "38",
+    "doses": "9,007",
+    "peopleFullyVaccinated": "3,533",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Bhutan",
+    "alphaCode": "BTN",
+    "numericCode": "064",
+    "cases": "2,928",
+    "deaths": "3",
+    "doses": "1,159,639",
+    "peopleFullyVaccinated": "567,977",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Bermuda",
+    "alphaCode": "BMU",
+    "numericCode": "060",
+    "cases": "8,541",
+    "deaths": "110",
+    "doses": "115,425",
+    "peopleFullyVaccinated": "45,670",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "alphaCode": "BIH",
+    "numericCode": "070",
+    "cases": "313,185",
+    "deaths": "13,741",
+    "doses": "1,625,844",
+    "peopleFullyVaccinated": "720,631",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Cameroon",
+    "alphaCode": "CMR",
+    "numericCode": "120",
+    "cases": "109,666",
+    "deaths": "1,853",
+    "doses": "1,024,333",
+    "peopleFullyVaccinated": "663,317",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Botswana",
+    "alphaCode": "BWA",
+    "numericCode": "072",
+    "cases": "237,678",
+    "deaths": "2,514",
+    "doses": "2,210,690",
+    "peopleFullyVaccinated": "1,039,113",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Bulgaria",
+    "alphaCode": "BGR",
+    "numericCode": "100",
+    "cases": "820,608",
+    "deaths": "32,086",
+    "doses": "4,369,196",
+    "peopleFullyVaccinated": "1,962,387",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Bolivia",
+    "alphaCode": "BOL",
+    "numericCode": "068",
+    "cases": "749,070",
+    "deaths": "20,238",
+    "doses": "11,038,398",
+    "peopleFullyVaccinated": "4,903,386",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Cambodia",
+    "alphaCode": "KHM",
+    "numericCode": "116",
+    "cases": "120,796",
+    "deaths": "3,015",
+    "doses": "31,639,875",
+    "peopleFullyVaccinated": "13,711,159",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Benin",
+    "alphaCode": "BEN",
+    "numericCode": "204",
+    "cases": "26,036",
+    "deaths": "162",
+    "doses": "1,897,214",
+    "peopleFullyVaccinated": "1,421,442",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Brunei",
+    "alphaCode": "BRN",
+    "numericCode": "096",
+    "cases": "15,797",
+    "deaths": "98",
+    "doses": "922,950",
+    "peopleFullyVaccinated": "401,757",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Belize",
+    "alphaCode": "BLZ",
+    "numericCode": "084",
+    "cases": "40,612",
+    "deaths": "608",
+    "doses": "429,697",
+    "peopleFullyVaccinated": "200,254",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Cape Verde",
+    "alphaCode": "CPV",
+    "numericCode": "132",
+    "cases": "53,987",
+    "deaths": "372",
+    "doses": "611,615",
+    "peopleFullyVaccinated": "268,046",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Cayman Islands",
+    "alphaCode": "CYM",
+    "numericCode": "136",
+    "cases": "11,666",
+    "deaths": "15",
+    "doses": "133,997",
+    "peopleFullyVaccinated": "57,377",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Canada",
+    "alphaCode": "CAN",
+    "numericCode": "124",
+    "cases": "2,765,668",
+    "deaths": "31,572",
+    "doses": "73,959,132",
+    "peopleFullyVaccinated": "29,672,799",
+    "timestamp": "2022-01-17T19:37:33.495Z"
+  },
+  {
+    "country": "Central African Republic",
+    "alphaCode": "CAF",
+    "numericCode": "140",
+    "cases": "13,319",
+    "deaths": "108",
+    "doses": "902,347",
+    "peopleFullyVaccinated": "346,270",
+    "timestamp": "2022-01-17T19:37:33.495Z"
   },
   {
     "country": "Brazil",
@@ -397,17 +397,7 @@
     "deaths": "621,327",
     "doses": "343,352,666",
     "peopleFullyVaccinated": "146,291,728",
-    "timestamp": "2022-01-17T19:12:12.605Z"
-  },
-  {
-    "country": "Chad",
-    "alphaCode": "TCD",
-    "numericCode": "148",
-    "cases": "6,558",
-    "deaths": "185",
-    "doses": "381,189",
-    "peopleFullyVaccinated": "95,267",
-    "timestamp": "2022-01-17T19:14:08.888Z"
+    "timestamp": "2022-01-17T19:37:33.495Z"
   },
   {
     "country": "Comoros",
@@ -417,117 +407,7 @@
     "deaths": "159",
     "doses": "581,547",
     "peopleFullyVaccinated": "246,139",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Colombia",
-    "alphaCode": "COL",
-    "numericCode": "170",
-    "cases": "5,543,796",
-    "deaths": "130,996",
-    "doses": "67,904,417",
-    "peopleFullyVaccinated": "29,827,683",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Czechia",
-    "alphaCode": "CZE",
-    "numericCode": "203",
-    "cases": "2,596,439",
-    "deaths": "36,853",
-    "doses": "16,485,054",
-    "peopleFullyVaccinated": "6,730,347",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Croatia",
-    "alphaCode": "HRV",
-    "numericCode": "191",
-    "cases": "817,435",
-    "deaths": "13,118",
-    "doses": "4,960,419",
-    "peopleFullyVaccinated": "2,184,016",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Congo, Rep.",
-    "alphaCode": "COG",
-    "numericCode": "178",
-    "cases": "22,969",
-    "deaths": "371",
-    "doses": "1,295,601",
-    "peopleFullyVaccinated": "560,880",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Cyprus",
-    "alphaCode": "CYP",
-    "numericCode": "196",
-    "cases": "225,738",
-    "deaths": "681",
-    "doses": "1,635,530",
-    "peopleFullyVaccinated": "620,714",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Côte d'Ivoire",
-    "alphaCode": "CIV",
-    "numericCode": "384",
-    "cases": "79,088",
-    "deaths": "753",
-    "doses": "7,359,678",
-    "peopleFullyVaccinated": "2,162,458",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Congo, Dem. Rep.",
-    "alphaCode": "ZAR",
-    "numericCode": "180",
-    "cases": "82,306",
-    "deaths": "1,225",
-    "doses": "386,592",
-    "peopleFullyVaccinated": "160,327",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Cuba",
-    "alphaCode": "CUB",
-    "numericCode": "192",
-    "cases": "999,193",
-    "deaths": "8,340",
-    "doses": "32,600,145",
-    "peopleFullyVaccinated": "9,769,548",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "China",
-    "alphaCode": "CHN",
-    "numericCode": "156",
-    "cases": "105,087",
-    "deaths": "4,636",
-    "doses": "2,879,993,000",
-    "peopleFullyVaccinated": "1,207,413,000",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Curaçao",
-    "alphaCode": "CUW",
-    "numericCode": "531",
-    "cases": "32,892",
-    "deaths": "202",
-    "doses": "235,587",
-    "peopleFullyVaccinated": "97,240",
-    "timestamp": "2022-01-17T19:14:08.888Z"
-  },
-  {
-    "country": "Chile",
-    "alphaCode": "CHL",
-    "numericCode": "152",
-    "cases": "1,876,610",
-    "deaths": "39,394",
-    "doses": "45,631,785",
-    "peopleFullyVaccinated": "16,763,095",
-    "timestamp": "2022-01-17T19:14:08.888Z"
+    "timestamp": "2022-01-17T19:38:56.096Z"
   },
   {
     "country": "Costa Rica",
@@ -537,6 +417,126 @@
     "deaths": "7,406",
     "doses": "8,016,478",
     "peopleFullyVaccinated": "3,590,471",
-    "timestamp": "2022-01-17T19:14:08.888Z"
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Cyprus",
+    "alphaCode": "CYP",
+    "numericCode": "196",
+    "cases": "225,738",
+    "deaths": "681",
+    "doses": "1,635,530",
+    "peopleFullyVaccinated": "620,714",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "China",
+    "alphaCode": "CHN",
+    "numericCode": "156",
+    "cases": "105,087",
+    "deaths": "4,636",
+    "doses": "2,879,993,000",
+    "peopleFullyVaccinated": "1,207,413,000",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Curaçao",
+    "alphaCode": "CUW",
+    "numericCode": "531",
+    "cases": "32,892",
+    "deaths": "202",
+    "doses": "235,587",
+    "peopleFullyVaccinated": "97,240",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "alphaCode": "CIV",
+    "numericCode": "384",
+    "cases": "79,088",
+    "deaths": "753",
+    "doses": "7,359,678",
+    "peopleFullyVaccinated": "2,162,458",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Cuba",
+    "alphaCode": "CUB",
+    "numericCode": "192",
+    "cases": "999,193",
+    "deaths": "8,340",
+    "doses": "32,600,145",
+    "peopleFullyVaccinated": "9,769,548",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Chile",
+    "alphaCode": "CHL",
+    "numericCode": "152",
+    "cases": "1,876,610",
+    "deaths": "39,394",
+    "doses": "45,631,785",
+    "peopleFullyVaccinated": "16,763,095",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Congo, Dem. Rep.",
+    "alphaCode": "ZAR",
+    "numericCode": "180",
+    "cases": "82,306",
+    "deaths": "1,225",
+    "doses": "386,592",
+    "peopleFullyVaccinated": "160,327",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Croatia",
+    "alphaCode": "HRV",
+    "numericCode": "191",
+    "cases": "817,435",
+    "deaths": "13,118",
+    "doses": "4,960,419",
+    "peopleFullyVaccinated": "2,184,016",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Colombia",
+    "alphaCode": "COL",
+    "numericCode": "170",
+    "cases": "5,543,796",
+    "deaths": "130,996",
+    "doses": "67,904,417",
+    "peopleFullyVaccinated": "29,827,683",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Chad",
+    "alphaCode": "TCD",
+    "numericCode": "148",
+    "cases": "6,558",
+    "deaths": "185",
+    "doses": "381,189",
+    "peopleFullyVaccinated": "95,267",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Congo, Rep.",
+    "alphaCode": "COG",
+    "numericCode": "178",
+    "cases": "22,969",
+    "deaths": "371",
+    "doses": "1,295,601",
+    "peopleFullyVaccinated": "560,880",
+    "timestamp": "2022-01-17T19:38:56.096Z"
+  },
+  {
+    "country": "Czechia",
+    "alphaCode": "CZE",
+    "numericCode": "203",
+    "cases": "2,596,439",
+    "deaths": "36,853",
+    "doses": "16,485,054",
+    "peopleFullyVaccinated": "6,730,347",
+    "timestamp": "2022-01-17T19:38:56.096Z"
   }
 ]
