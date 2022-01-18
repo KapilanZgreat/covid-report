@@ -663,21 +663,7 @@ var delayInMilliseconds3 = 1440000; //24 minutes
 var delayInMilliseconds4 = 2160000; //36 minutes
 
 
-setTimeout(function () {
-    delay()
-}, delayInMilliseconds);
 
-setTimeout(function () {
-    delay2()
-}, delayInMilliseconds2);
-
-setTimeout(function () {
-    delay3()
-}, delayInMilliseconds3);
-
-setTimeout(function () {
-    delay4()
-}, delayInMilliseconds4);
 
 function overlord() {
     setTimeout(function () {
@@ -686,15 +672,15 @@ function overlord() {
 
     setTimeout(function () {
         delay2()
-    }, delayInMilliseconds2);
+    }, delayInMilliseconds);
 
     setTimeout(function () {
         delay3()
-    }, delayInMilliseconds3);
+    }, delayInMilliseconds);
 
     setTimeout(function () {
         delay4()
-    }, delayInMilliseconds4);
+    }, delayInMilliseconds);
 
 }
 
