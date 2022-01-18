@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "node --max_old_space_size=4096 worker.js build --prod"
+    "start": "nodemon index.js"
+   // "build": "node --max_old_space_size=4096 worker.js build --prod"
   },
   "author": "",
   "license": "ISC",
