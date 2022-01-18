@@ -658,9 +658,9 @@ var delayInMilliseconds = 0; //0 minutes
 
 var delayInMilliseconds2 = 720000; //12 minutes
 
-var delayInMilliseconds3 = 108000; //24 minutes
+var delayInMilliseconds3 = 1440000; //24 minutes
 
-var delayInMilliseconds4 = 144000; //36 minutes
+var delayInMilliseconds4 = 2160000; //36 minutes
 
 
 setTimeout(function () {
