@@ -669,15 +669,15 @@ setTimeout(function () {
 
 setTimeout(function () {
     delay2()
-}, delayInMilliseconds);
+}, delayInMilliseconds2);
 
 setTimeout(function () {
     delay3()
-}, delayInMilliseconds);
+}, delayInMilliseconds3);
 
 setTimeout(function () {
     delay4()
-}, delayInMilliseconds);
+}, delayInMilliseconds4);
 
 function overlord() {
     setTimeout(function () {
