@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build": "node --max_old_space_size=4096 node_modules/@angular/cli/bin/ng build --prod"
   },
   "author": "",
   "license": "ISC",
