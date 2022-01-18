@@ -656,11 +656,11 @@ setInterval(overlord, 2000000)
 
 var delayInMilliseconds = 0; //0 minutes
 
-var delayInMilliseconds2 = 360000; //6 minutes
+var delayInMilliseconds2 = 720000; //12 minutes
 
-var delayInMilliseconds3 = 720000; //12 minutes
+var delayInMilliseconds3 = 108000; //24 minutes
 
-var delayInMilliseconds4 = 1080000; //28 minutes
+var delayInMilliseconds4 = 144000; //36 minutes
 
 
 setTimeout(function () {
