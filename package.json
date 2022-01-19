@@ -136,6 +136,7 @@
       "./filestorage/countrycases22.json",
       "./worker.js",
       "./worker2.js",
+      "./filestorage",
       "worker.js",
       "worker2.js",
       "hold2.json",
