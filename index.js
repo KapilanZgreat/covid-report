@@ -100,6 +100,10 @@ function update2(){
         console.log('Worker exited')
         console.log(sourcesArrayresult1)
         console.log('Worker exited')
+
+        if(sourcesArrayresult1.length < 10){
+            update2()
+        }
         //      worker.postMessage("Message from parent");
         //     for (let i = 0; i < links.length; i++) {
         //         checker.push(links[i].name)
