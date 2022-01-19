@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Malawi",
+    "alphaCode": "MWI",
+    "numericCode": "454",
+    "cases": "82,792",
+    "deaths": "2,474",
+    "doses": "1,859,497",
+    "peopleFullyVaccinated": "759,160",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "Malta",
+    "alphaCode": "MLT",
+    "numericCode": "470",
+    "cases": "63,998",
+    "deaths": "506",
+    "doses": "1,170,747",
+    "peopleFullyVaccinated": "440,085",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "Martinique",
+    "alphaCode": "MTQ",
+    "numericCode": "474",
+    "cases": "65,380",
+    "deaths": "805",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "Mali",
+    "alphaCode": "MLI",
+    "numericCode": "466",
+    "cases": "28,755",
+    "deaths": "692",
+    "doses": "1,488,256",
+    "peopleFullyVaccinated": "545,403",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "North Macedonia",
+    "alphaCode": "MKD",
+    "numericCode": "807",
+    "cases": "245,398",
+    "deaths": "8,115",
+    "doses": "1,755,026",
+    "peopleFullyVaccinated": "816,777",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "Mauritania",
+    "alphaCode": "MRT",
+    "numericCode": "478",
+    "cases": "55,395",
+    "deaths": "909",
+    "doses": "2,424,087",
+    "peopleFullyVaccinated": "968,079",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "Madagascar",
+    "alphaCode": "MDG",
+    "numericCode": "450",
+    "cases": "55,827",
+    "deaths": "1,169",
+    "doses": "971,426",
+    "peopleFullyVaccinated": "767,113",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "Mauritius",
+    "alphaCode": "MUS",
+    "numericCode": "480",
+    "cases": "24,903",
+    "deaths": "240",
+    "doses": "2,077,156",
+    "peopleFullyVaccinated": "915,442",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "Maldives",
+    "alphaCode": "MDV",
+    "numericCode": "462",
+    "cases": "105,001",
+    "deaths": "265",
+    "doses": "798,457",
+    "peopleFullyVaccinated": "368,751",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  },
+  {
+    "country": "Malaysia",
+    "alphaCode": "MYS",
+    "numericCode": "458",
+    "cases": "2,810,689",
+    "deaths": "31,809",
+    "doses": "61,135,763",
+    "peopleFullyVaccinated": "25,681,131",
+    "timestamp": "2022-01-19T06:43:11.594Z"
+  }
+]

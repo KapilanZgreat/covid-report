@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "country": "Zambia",
+    "alphaCode": "ZMB",
+    "numericCode": "894",
+    "cases": "296,817",
+    "deaths": "3,866",
+    "doses": "2,171,611",
+    "peopleFullyVaccinated": "1,524,811",
+    "timestamp": "2022-01-19T07:28:11.325Z"
+  },
+  {
+    "country": "Western Sahara",
+    "alphaCode": "ESH",
+    "numericCode": "732",
+    "cases": "10",
+    "deaths": "1",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T07:28:11.325Z"
+  },
+  {
+    "country": "Worldwide",
+    "alphaCode": "WLD",
+    "numericCode": "000",
+    "cases": "330,884,416",
+    "deaths": "5,546,261",
+    "doses": "9,371,326,391",
+    "peopleFullyVaccinated": "3,919,932,851",
+    "timestamp": "2022-01-19T07:28:11.325Z"
+  },
+  {
+    "country": "Zimbabwe",
+    "alphaCode": "ZWE",
+    "numericCode": "716",
+    "cases": "226,460",
+    "deaths": "5,258",
+    "doses": "7,446,076",
+    "peopleFullyVaccinated": "3,236,076",
+    "timestamp": "2022-01-19T07:28:11.325Z"
+  },
+  {
+    "country": "Virgin Islands (U.S.)",
+    "alphaCode": "VIR",
+    "numericCode": "850",
+    "cases": "13,901",
+    "deaths": "94",
+    "doses": "134,209",
+    "peopleFullyVaccinated": "54,433",
+    "timestamp": "2022-01-19T07:28:11.325Z"
+  },
+  {
+    "country": "Yemen",
+    "alphaCode": "YEM",
+    "numericCode": "887",
+    "cases": "10,352",
+    "deaths": "1,991",
+    "doses": "786,027",
+    "peopleFullyVaccinated": "366,587",
+    "timestamp": "2022-01-19T07:28:11.325Z"
+  }
+]

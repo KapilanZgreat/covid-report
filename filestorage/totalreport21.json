@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Vietnam",
+    "alphaCode": "VNM",
+    "numericCode": "704",
+    "cases": "2,023,546",
+    "deaths": "35,609",
+    "doses": "168,960,116",
+    "peopleFullyVaccinated": "68,435,813",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "Turks and Caicos Isl.",
+    "alphaCode": "TCA",
+    "numericCode": "796",
+    "cases": "5,110",
+    "deaths": "30",
+    "doses": "56,343",
+    "peopleFullyVaccinated": "27,133",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "Uganda",
+    "alphaCode": "UGA",
+    "numericCode": "800",
+    "cases": "158,743",
+    "deaths": "3,424",
+    "doses": "12,220,106",
+    "peopleFullyVaccinated": "1,809,627",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "Ukraine",
+    "alphaCode": "UKR",
+    "numericCode": "804",
+    "cases": "3,941,923",
+    "deaths": "104,856",
+    "doses": "29,326,761",
+    "peopleFullyVaccinated": "14,324,519",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "United Kingdom",
+    "alphaCode": "GBR",
+    "numericCode": "826",
+    "cases": "15,305,410",
+    "deaths": "152,075",
+    "doses": "136,554,312",
+    "peopleFullyVaccinated": "47,963,133",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "Venezuela",
+    "alphaCode": "VEN",
+    "numericCode": "862",
+    "cases": "456,641",
+    "deaths": "5,383",
+    "doses": "30,049,714",
+    "peopleFullyVaccinated": "11,608,305",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "Uzbekistan",
+    "alphaCode": "UZB",
+    "numericCode": "860",
+    "cases": "206,122",
+    "deaths": "1,518",
+    "doses": "40,657,785",
+    "peopleFullyVaccinated": "12,441,333",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "United Arab Emirates",
+    "alphaCode": "ARE",
+    "numericCode": "784",
+    "cases": "808,237",
+    "deaths": "2,195",
+    "doses": "23,083,264",
+    "peopleFullyVaccinated": "9,207,986",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "United States",
+    "alphaCode": "USA",
+    "numericCode": "840",
+    "cases": "67,655,864",
+    "deaths": "853,722",
+    "doses": "526,898,876",
+    "peopleFullyVaccinated": "207,371,017",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  },
+  {
+    "country": "Uruguay",
+    "alphaCode": "URY",
+    "numericCode": "858",
+    "cases": "520,822",
+    "deaths": "6,248",
+    "doses": "7,177,052",
+    "peopleFullyVaccinated": "2,685,929",
+    "timestamp": "2022-01-19T07:23:11.249Z"
+  }
+]

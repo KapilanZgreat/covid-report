@@ -1,0 +1,110 @@
+[
+  {
+    "country": "Thailand",
+    "alphaCode": "THA",
+    "numericCode": "764",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +76,130",
+    "doses2": "Reported yesterday: +172,437",
+    "deaths2": "Reported yesterday: +13",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 71.6%"
+  },
+  {
+    "country": "Tajikistan",
+    "alphaCode": "TJK",
+    "numericCode": "762",
+    "cases2": "Reported yesterday: +0",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 33.4%"
+  },
+  {
+    "country": "Turkey",
+    "alphaCode": "TUR",
+    "numericCode": "792",
+    "cases2": "Reported yesterday: +64,935",
+    "newCasesLastWeek2": "Jan 4–17: +924,389",
+    "doses2": "Reported yesterday: +348,221",
+    "deaths2": "Reported yesterday: +162",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 62.7%"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "alphaCode": "TTO",
+    "numericCode": "780",
+    "cases2": "Reported yesterday: +382",
+    "newCasesLastWeek2": "Jan 4–17: +8,379",
+    "doses2": "Reported yesterday: +195",
+    "deaths2": "Reported yesterday: +11",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 49.8%"
+  },
+  {
+    "country": "Syria",
+    "alphaCode": "SYR",
+    "numericCode": "760",
+    "cases2": "Reported yesterday: +38",
+    "newCasesLastWeek2": "Jan 4–17: +384",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 5%"
+  },
+  {
+    "country": "Taiwan",
+    "alphaCode": "TWN",
+    "numericCode": "158",
+    "cases2": "Reported yesterday: +65",
+    "newCasesLastWeek2": "Jan 4–17: +790",
+    "doses2": "Reported yesterday: +448,800",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 71.8%"
+  },
+  {
+    "country": "Switzerland",
+    "alphaCode": "CHE",
+    "numericCode": "756",
+    "cases2": "Reported yesterday: +67,905",
+    "newCasesLastWeek2": "Jan 4–17: +363,284",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +46",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 68.5%"
+  },
+  {
+    "country": "Togo",
+    "alphaCode": "TGO",
+    "numericCode": "768",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +4,560",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 14%"
+  },
+  {
+    "country": "Tanzania",
+    "alphaCode": "TZA",
+    "numericCode": "834",
+    "cases2": "",
+    "doses2": "",
+    "deaths2": "",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 1.6%"
+  },
+  {
+    "country": "Tunisia",
+    "alphaCode": "TUN",
+    "numericCode": "788",
+    "cases2": "Reported yesterday: +7,266",
+    "newCasesLastWeek2": "Jan 4–17: +59,210",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +26",
+    "timestamp": "2022-01-19T07:18:11.240Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 52.2%"
+  }
+]

@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "French Polynesia",
+    "alphaCode": "PYF",
+    "numericCode": "258",
+    "cases": "47,132",
+    "deaths": "636",
+    "doses": "332,873",
+    "peopleFullyVaccinated": "159,100",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "Georgia",
+    "alphaCode": "GEO",
+    "numericCode": "268",
+    "cases": "999,343",
+    "deaths": "14,481",
+    "doses": "2,703,277",
+    "peopleFullyVaccinated": "1,195,578",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "Gabon",
+    "alphaCode": "GAB",
+    "numericCode": "266",
+    "cases": "45,405",
+    "deaths": "299",
+    "doses": "566,021",
+    "peopleFullyVaccinated": "173,123",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "Gaza Strip",
+    "alphaCode": "GAZ",
+    "numericCode": "274",
+    "cases": "2,613",
+    "deaths": "17",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "Gibraltar",
+    "alphaCode": "GIB",
+    "numericCode": "292",
+    "cases": "10,935",
+    "deaths": "100",
+    "doses": "109,609",
+    "peopleFullyVaccinated": "40,143",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "France",
+    "alphaCode": "FRA",
+    "numericCode": "250",
+    "cases": "13,869,172",
+    "deaths": "124,654",
+    "doses": "132,153,924",
+    "peopleFullyVaccinated": "50,757,692",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "French Guiana",
+    "alphaCode": "GUF",
+    "numericCode": "254",
+    "cases": "67,275",
+    "deaths": "348",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "The Gambia",
+    "alphaCode": "GMB",
+    "numericCode": "270",
+    "cases": "11,572",
+    "deaths": "347",
+    "doses": "294,698",
+    "peopleFullyVaccinated": "249,515",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "Germany",
+    "alphaCode": "DEU",
+    "numericCode": "276",
+    "cases": "8,104,157",
+    "deaths": "115,846",
+    "doses": "159,032,129",
+    "peopleFullyVaccinated": "60,553,083",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  },
+  {
+    "country": "Ghana",
+    "alphaCode": "GHA",
+    "numericCode": "288",
+    "cases": "153,514",
+    "deaths": "1,343",
+    "doses": "9,600,792",
+    "peopleFullyVaccinated": "2,918,596",
+    "timestamp": "2022-01-19T06:18:11.554Z"
+  }
+]

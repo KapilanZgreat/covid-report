@@ -1,0 +1,112 @@
+[
+  {
+    "country": "New Caledonia",
+    "alphaCode": "NCL",
+    "numericCode": "540",
+    "cases2": "Reported yesterday: +293",
+    "newCasesLastWeek2": "Jan 4–17: +975",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 62.1%"
+  },
+  {
+    "country": "Netherlands",
+    "alphaCode": "NLD",
+    "numericCode": "528",
+    "cases2": "Reported yesterday: +42,352",
+    "newCasesLastWeek2": "Jan 4–17: +431,022",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 70.4%"
+  },
+  {
+    "country": "Nepal",
+    "alphaCode": "NPL",
+    "numericCode": "524",
+    "cases2": "Reported yesterday: +5,747",
+    "newCasesLastWeek2": "Jan 4–17: +30,208",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 37.8%"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "alphaCode": "MNP",
+    "numericCode": "580",
+    "cases2": "Reported yesterday: +66",
+    "newCasesLastWeek2": "Jan 4–17: +637",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 74%"
+  },
+  {
+    "country": "Norway",
+    "alphaCode": "NOR",
+    "numericCode": "578",
+    "cases2": "Reported yesterday: +11,031",
+    "newCasesLastWeek2": "Jan 4–17: +118,873",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 73.8%"
+  },
+  {
+    "country": "Niger",
+    "alphaCode": "NER",
+    "numericCode": "562",
+    "cases2": "Reported yesterday: +27",
+    "newCasesLastWeek2": "Jan 4–17: +905",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 4.5%"
+  },
+  {
+    "country": "Nicaragua",
+    "alphaCode": "NIC",
+    "numericCode": "558",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +76",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 48.6%"
+  },
+  {
+    "country": "Oman",
+    "alphaCode": "OMN",
+    "numericCode": "512",
+    "cases2": "Reported yesterday: +1,113",
+    "newCasesLastWeek2": "Jan 4–17: +7,530",
+    "doses2": "Reported yesterday: +257,582",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 62.9%"
+  },
+  {
+    "country": "New Zealand",
+    "alphaCode": "NZL",
+    "numericCode": "554",
+    "cases2": "Reported yesterday: +43",
+    "newCasesLastWeek2": "Jan 4–17: +805",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 78.3%"
+  },
+  {
+    "country": "Nigeria",
+    "alphaCode": "NGA",
+    "numericCode": "566",
+    "cases2": "Reported yesterday: +249",
+    "newCasesLastWeek2": "Jan 4–17: +7,058",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +7",
+    "timestamp": "2022-01-19T06:53:11.601Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 2.4%"
+  }
+]

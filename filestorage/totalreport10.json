@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Hong Kong",
+    "alphaCode": "HKG",
+    "numericCode": "344",
+    "cases": "12,867",
+    "deaths": "213",
+    "doses": "10,554,513",
+    "peopleFullyVaccinated": "4,727,068",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "India",
+    "alphaCode": "IND",
+    "numericCode": "356",
+    "cases": "37,618,271",
+    "deaths": "486,761",
+    "doses": "1,575,863,289",
+    "peopleFullyVaccinated": "658,614,500",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "Iraq",
+    "alphaCode": "IRQ",
+    "numericCode": "368",
+    "cases": "2,118,779",
+    "deaths": "24,252",
+    "doses": "15,035,683",
+    "peopleFullyVaccinated": "6,089,527",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "Honduras",
+    "alphaCode": "HND",
+    "numericCode": "340",
+    "cases": "385,362",
+    "deaths": "10,455",
+    "doses": "9,922,570",
+    "peopleFullyVaccinated": "4,381,943",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "Vatican City",
+    "alphaCode": "VAT",
+    "numericCode": "336",
+    "cases": "27",
+    "deaths": "0",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "Iceland",
+    "alphaCode": "ISL",
+    "numericCode": "352",
+    "cases": "48,482",
+    "deaths": "44",
+    "doses": "742,545",
+    "peopleFullyVaccinated": "285,125",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "Hungary",
+    "alphaCode": "HUN",
+    "numericCode": "348",
+    "cases": "1,348,233",
+    "deaths": "40,507",
+    "doses": "15,807,285",
+    "peopleFullyVaccinated": "6,062,346",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "Indonesia",
+    "alphaCode": "IDN",
+    "numericCode": "360",
+    "cases": "4,272,421",
+    "deaths": "144,174",
+    "doses": "296,622,793",
+    "peopleFullyVaccinated": "40,867,993",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "Iran",
+    "alphaCode": "IRN",
+    "numericCode": "364",
+    "cases": "6,224,196",
+    "deaths": "132,095",
+    "doses": "126,401,975",
+    "peopleFullyVaccinated": "53,195,312",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  },
+  {
+    "country": "Ireland",
+    "alphaCode": "IRL",
+    "numericCode": "372",
+    "cases": "1,109,818",
+    "deaths": "6,035",
+    "doses": "10,161,048",
+    "peopleFullyVaccinated": "3,855,376",
+    "timestamp": "2022-01-19T06:28:11.668Z"
+  }
+]

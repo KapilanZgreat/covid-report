@@ -1,0 +1,111 @@
+[
+  {
+    "country": "Laos",
+    "alphaCode": "LAO",
+    "numericCode": "418",
+    "cases2": "Reported yesterday: +602",
+    "newCasesLastWeek2": "Jan 4–17: +11,901",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +2",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 51.1%"
+  },
+  {
+    "country": "Latvia",
+    "alphaCode": "LVA",
+    "numericCode": "428",
+    "cases2": "Reported yesterday: +1,560",
+    "newCasesLastWeek2": "Jan 4–17: +27,662",
+    "doses2": "Reported yesterday: +5,619",
+    "deaths2": "Reported yesterday: +4",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 67.1%"
+  },
+  {
+    "country": "Liberia",
+    "alphaCode": "LBR",
+    "numericCode": "430",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +843",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 22%"
+  },
+  {
+    "country": "Lesotho",
+    "alphaCode": "LSO",
+    "numericCode": "426",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +1,735",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 31.9%"
+  },
+  {
+    "country": "Macao",
+    "alphaCode": "MAC",
+    "numericCode": "446",
+    "cases2": "Reported yesterday: +0",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 69.3%"
+  },
+  {
+    "country": "Liechtenstein",
+    "alphaCode": "LIE",
+    "numericCode": "438",
+    "cases2": "Reported yesterday: +64",
+    "newCasesLastWeek2": "Jan 4–17: +1,029",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 66.7%"
+  },
+  {
+    "country": "Luxembourg",
+    "alphaCode": "LUX",
+    "numericCode": "442",
+    "cases2": "Reported yesterday: +4,425",
+    "newCasesLastWeek2": "Jan 4–17: +22,407",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +4",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 70%"
+  },
+  {
+    "country": "Lithuania",
+    "alphaCode": "LTU",
+    "numericCode": "440",
+    "cases2": "Reported yesterday: +2,681",
+    "newCasesLastWeek2": "Jan 4–17: +46,474",
+    "doses2": "Reported yesterday: +9,372",
+    "deaths2": "Reported yesterday: +6",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 66.2%"
+  },
+  {
+    "country": "Lebanon",
+    "alphaCode": "LBN",
+    "numericCode": "422",
+    "cases2": "Reported yesterday: +6,109",
+    "newCasesLastWeek2": "Jan 4–17: +90,552",
+    "doses2": "Reported yesterday: +19,370",
+    "deaths2": "Reported yesterday: +14",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 28.3%"
+  },
+  {
+    "country": "Libya",
+    "alphaCode": "LBY",
+    "numericCode": "434",
+    "cases2": "Reported yesterday: +736",
+    "newCasesLastWeek2": "Jan 4–17: +7,771",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +12",
+    "timestamp": "2022-01-19T06:38:11.715Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 13.7%"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Slovenia",
+    "alphaCode": "SVN",
+    "numericCode": "705",
+    "cases2": "Reported yesterday: +4,991",
+    "newCasesLastWeek2": "Jan 4–17: +70,760",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +7",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 57.5%"
+  },
+  {
+    "country": "Eswatini / Swaziland",
+    "alphaCode": "SWZ",
+    "numericCode": "748",
+    "cases2": "Reported yesterday: +29",
+    "newCasesLastWeek2": "Jan 4–17: +1,437",
+    "doses2": "Reported yesterday: +7,128",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 29.2%"
+  },
+  {
+    "country": "Spain",
+    "alphaCode": "ESP",
+    "numericCode": "724",
+    "cases2": "Reported yesterday: +331,467",
+    "newCasesLastWeek2": "Jan 4–17: +1,756,992",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +234",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 81%"
+  },
+  {
+    "country": "Sudan",
+    "alphaCode": "SDN",
+    "numericCode": "729",
+    "cases2": "Reported yesterday: +818",
+    "newCasesLastWeek2": "Jan 4–17: +5,284",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +30",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 2.9%"
+  },
+  {
+    "country": "Suriname",
+    "alphaCode": "SUR",
+    "numericCode": "740",
+    "cases2": "Reported yesterday: +1,404",
+    "newCasesLastWeek2": "Jan 4–17: +11,642",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 39.7%"
+  },
+  {
+    "country": "Sri Lanka",
+    "alphaCode": "LKA",
+    "numericCode": "144",
+    "cases2": "Reported yesterday: +688",
+    "newCasesLastWeek2": "Jan 4–17: +8,735",
+    "doses2": "Reported yesterday: +56,945",
+    "deaths2": "Reported yesterday: +7",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 63.6%"
+  },
+  {
+    "country": "South Sudan",
+    "alphaCode": "SSD",
+    "numericCode": "729",
+    "cases2": "Reported yesterday: +44",
+    "newCasesLastWeek2": "Jan 4–17: +1,291",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 1.6%"
+  },
+  {
+    "country": "Sweden",
+    "alphaCode": "SWE",
+    "numericCode": "752",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +245,579",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 72.3%"
+  },
+  {
+    "country": "Somalia",
+    "alphaCode": "SOM",
+    "numericCode": "706",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +729",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 5.5%"
+  },
+  {
+    "country": "South Africa",
+    "alphaCode": "ZAF",
+    "numericCode": "710",
+    "cases2": "Reported yesterday: +1,629",
+    "newCasesLastWeek2": "Jan 4–17: +85,409",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +87",
+    "timestamp": "2022-01-19T07:13:11.236Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 27.9%"
+  }
+]

@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "New Caledonia",
+    "alphaCode": "NCL",
+    "numericCode": "540",
+    "cases": "13,829",
+    "deaths": "282",
+    "doses": "359,372",
+    "peopleFullyVaccinated": "175,339",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "Netherlands",
+    "alphaCode": "NLD",
+    "numericCode": "528",
+    "cases": "3,611,351",
+    "deaths": "21,158",
+    "doses": "31,970,282",
+    "peopleFullyVaccinated": "12,282,320",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "Nepal",
+    "alphaCode": "NPL",
+    "numericCode": "524",
+    "cases": "859,485",
+    "deaths": "11,623",
+    "doses": "26,585,667",
+    "peopleFullyVaccinated": "11,336,538",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "alphaCode": "MNP",
+    "numericCode": "580",
+    "cases": "4,014",
+    "deaths": "21",
+    "doses": "100,665",
+    "peopleFullyVaccinated": "41,584",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "Norway",
+    "alphaCode": "NOR",
+    "numericCode": "578",
+    "cases": "523,424",
+    "deaths": "1,382",
+    "doses": "10,512,456",
+    "peopleFullyVaccinated": "3,959,288",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "Niger",
+    "alphaCode": "NER",
+    "numericCode": "562",
+    "cases": "8,413",
+    "deaths": "293",
+    "doses": "1,778,173",
+    "peopleFullyVaccinated": "1,010,152",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "Nicaragua",
+    "alphaCode": "NIC",
+    "numericCode": "558",
+    "cases": "17,563",
+    "deaths": "218",
+    "doses": "8,135,930",
+    "peopleFullyVaccinated": "3,140,060",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "Oman",
+    "alphaCode": "OMN",
+    "numericCode": "512",
+    "cases": "313,538",
+    "deaths": "4,122",
+    "doses": "6,375,600",
+    "peopleFullyVaccinated": "2,936,467",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "New Zealand",
+    "alphaCode": "NZL",
+    "numericCode": "554",
+    "cases": "15,170",
+    "deaths": "52",
+    "doses": "8,673,633",
+    "peopleFullyVaccinated": "3,896,820",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  },
+  {
+    "country": "Nigeria",
+    "alphaCode": "NGA",
+    "numericCode": "566",
+    "cases": "251,178",
+    "deaths": "3,110",
+    "doses": "18,011,821",
+    "peopleFullyVaccinated": "5,006,267",
+    "timestamp": "2022-01-19T06:53:11.601Z"
+  }
+]

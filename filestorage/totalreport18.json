@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Saudi Arabia",
+    "alphaCode": "SAU",
+    "numericCode": "682",
+    "cases": "620,935",
+    "deaths": "8,908",
+    "doses": "54,190,407",
+    "peopleFullyVaccinated": "23,487,465",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "Sarawak",
+    "alphaCode": "SWK",
+    "numericCode": "457",
+    "cases": "252,609",
+    "deaths": "1,620",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "alphaCode": "STP",
+    "numericCode": "678",
+    "cases": "5,569",
+    "deaths": "66",
+    "doses": "151,040",
+    "peopleFullyVaccinated": "61,405",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "Senegal",
+    "alphaCode": "SEN",
+    "numericCode": "686",
+    "cases": "82,986",
+    "deaths": "1,909",
+    "doses": "2,360,122",
+    "peopleFullyVaccinated": "994,643",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "Singapore",
+    "alphaCode": "SGP",
+    "numericCode": "702",
+    "cases": "293,014",
+    "deaths": "843",
+    "doses": "12,132,375",
+    "peopleFullyVaccinated": "4,726,199",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "Serbia",
+    "alphaCode": "SRB",
+    "numericCode": "688",
+    "cases": "1,449,192",
+    "deaths": "13,098",
+    "doses": "8,338,285",
+    "peopleFullyVaccinated": "3,232,588",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "Sierra Leone",
+    "alphaCode": "SLE",
+    "numericCode": "694",
+    "cases": "7,544",
+    "deaths": "125",
+    "doses": "923,880",
+    "peopleFullyVaccinated": "385,232",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "San Marino",
+    "alphaCode": "SMR",
+    "numericCode": "674",
+    "cases": "10,641",
+    "deaths": "103",
+    "doses": "57,708",
+    "peopleFullyVaccinated": "21,690",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "Slovakia",
+    "alphaCode": "SVK",
+    "numericCode": "703",
+    "cases": "1,419,379",
+    "deaths": "17,352",
+    "doses": "6,492,666",
+    "peopleFullyVaccinated": "2,620,766",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  },
+  {
+    "country": "Seychelles",
+    "alphaCode": "SYC",
+    "numericCode": "690",
+    "cases": "32,846",
+    "deaths": "140",
+    "doses": "183,472",
+    "peopleFullyVaccinated": "78,263",
+    "timestamp": "2022-01-19T07:08:11.223Z"
+  }
+]

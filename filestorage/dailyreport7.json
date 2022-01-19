@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Eritrea",
+    "alphaCode": "ERI",
+    "numericCode": "232",
+    "cases2": "Reported yesterday: +92",
+    "newCasesLastWeek2": "Jan 4–17: +939",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Faeroe Islands",
+    "alphaCode": "FRO",
+    "numericCode": "234",
+    "cases2": "Reported yesterday: +415",
+    "newCasesLastWeek2": "Jan 4–17: +4,217",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 78.2%"
+  },
+  {
+    "country": "Ethiopia",
+    "alphaCode": "ETH",
+    "numericCode": "231",
+    "cases2": "Reported yesterday: +881",
+    "newCasesLastWeek2": "Jan 4–17: +29,407",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +15",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 1.6%"
+  },
+  {
+    "country": "El Salvador",
+    "alphaCode": "SLV",
+    "numericCode": "222",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +1,514",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 64.2%"
+  },
+  {
+    "country": "Falkland Islands (Islas Malvinas)",
+    "alphaCode": "FLK",
+    "numericCode": "238",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +2",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 55.5%"
+  },
+  {
+    "country": "Estonia",
+    "alphaCode": "EST",
+    "numericCode": "233",
+    "cases2": "Reported yesterday: +2,104",
+    "newCasesLastWeek2": "Jan 4–17: +25,963",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +5",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 62%"
+  },
+  {
+    "country": "Fiji",
+    "alphaCode": "FJI",
+    "numericCode": "242",
+    "cases2": "Reported yesterday: +367",
+    "newCasesLastWeek2": "Jan 4–17: +4,776",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +16",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 69.1%"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "alphaCode": "GNQ",
+    "numericCode": "226",
+    "cases2": "Reported yesterday: +173",
+    "newCasesLastWeek2": "Jan 4–17: +1,782",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 15%"
+  },
+  {
+    "country": "Egypt",
+    "alphaCode": "EGY",
+    "numericCode": "818",
+    "cases2": "Reported yesterday: +1,232",
+    "newCasesLastWeek2": "Jan 4–17: +13,426",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +31",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 24.8%"
+  },
+  {
+    "country": "Finland",
+    "alphaCode": "FIN",
+    "numericCode": "246",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +93,796",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:13:11.593Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 75.4%"
+  }
+]

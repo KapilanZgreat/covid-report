@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Peru",
+    "alphaCode": "PER",
+    "numericCode": "604",
+    "cases": "2,606,126",
+    "deaths": "203,464",
+    "doses": "53,405,259",
+    "peopleFullyVaccinated": "22,332,744",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Panama",
+    "alphaCode": "PAN",
+    "numericCode": "591",
+    "cases": "580,324",
+    "deaths": "7,528",
+    "doses": "6,252,781",
+    "peopleFullyVaccinated": "2,486,025",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Qatar",
+    "alphaCode": "QAT",
+    "numericCode": "634",
+    "cases": "303,240",
+    "deaths": "627",
+    "doses": "5,447,278",
+    "peopleFullyVaccinated": "2,218,292",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Puerto Rico",
+    "alphaCode": "PRI",
+    "numericCode": "630",
+    "cases": "452,531",
+    "deaths": "3,542",
+    "doses": "6,163,212",
+    "peopleFullyVaccinated": "2,490,722",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Paraguay",
+    "alphaCode": "PRY",
+    "numericCode": "600",
+    "cases": "501,189",
+    "deaths": "16,821",
+    "doses": "7,281,308",
+    "peopleFullyVaccinated": "3,044,839",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Papua New Guinea",
+    "alphaCode": "PNG",
+    "numericCode": "598",
+    "cases": "36,446",
+    "deaths": "596",
+    "doses": "515,459",
+    "peopleFullyVaccinated": "226,580",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Philippines",
+    "alphaCode": "PHL",
+    "numericCode": "608",
+    "cases": "3,242,374",
+    "deaths": "52,929",
+    "doses": "119,746,232",
+    "peopleFullyVaccinated": "55,583,592",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Portugal",
+    "alphaCode": "PRT",
+    "numericCode": "620",
+    "cases": "1,906,891",
+    "deaths": "19,334",
+    "doses": "20,448,708",
+    "peopleFullyVaccinated": "9,167,672",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Poland",
+    "alphaCode": "POL",
+    "numericCode": "616",
+    "cases": "4,323,482",
+    "deaths": "102,309",
+    "doses": "49,558,781",
+    "peopleFullyVaccinated": "21,434,065",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  },
+  {
+    "country": "Pakistan",
+    "alphaCode": "PAK",
+    "numericCode": "586",
+    "cases": "1,333,521",
+    "deaths": "29,029",
+    "doses": "168,365,369",
+    "peopleFullyVaccinated": "77,485,124",
+    "timestamp": "2022-01-19T06:58:11.662Z"
+  }
+]

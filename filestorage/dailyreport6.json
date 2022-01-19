@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Dominica",
+    "alphaCode": "DMA",
+    "numericCode": "212",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +1,095",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 39.9%"
+  },
+  {
+    "country": "Djibouti",
+    "alphaCode": "DJI",
+    "numericCode": "262",
+    "cases2": "Reported yesterday: +84",
+    "newCasesLastWeek2": "Jan 4–17: +1,261",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 9.2%"
+  },
+  {
+    "country": "Timor-Leste",
+    "alphaCode": "TMP",
+    "numericCode": "626",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +21",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 39.7%"
+  },
+  {
+    "country": "Curaçao",
+    "alphaCode": "CUW",
+    "numericCode": "531",
+    "cases2": "Reported yesterday: +1,050",
+    "newCasesLastWeek2": "Jan 4–17: +10,980",
+    "doses2": "Reported yesterday: +445",
+    "deaths2": "Reported yesterday: +4",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 61.3%"
+  },
+  {
+    "country": "Ecuador",
+    "alphaCode": "ECU",
+    "numericCode": "218",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +49,741",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 74.9%"
+  },
+  {
+    "country": "Dominican Republic",
+    "alphaCode": "DOM",
+    "numericCode": "214",
+    "cases2": "Reported yesterday: +6,331",
+    "newCasesLastWeek2": "Jan 4–17: +80,105",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 55.4%"
+  },
+  {
+    "country": "Cuba",
+    "alphaCode": "CUB",
+    "numericCode": "192",
+    "cases2": "Reported yesterday: +3,306",
+    "newCasesLastWeek2": "Jan 4–17: +35,001",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 87.2%"
+  },
+  {
+    "country": "Czechia",
+    "alphaCode": "CZE",
+    "numericCode": "203",
+    "cases2": "Reported yesterday: +7,327",
+    "newCasesLastWeek2": "Jan 4–17: +120,004",
+    "doses2": "Reported yesterday: +51,515",
+    "deaths2": "Reported yesterday: +21",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 63%"
+  },
+  {
+    "country": "Denmark",
+    "alphaCode": "DNK",
+    "numericCode": "208",
+    "cases2": "Reported yesterday: +28,780",
+    "newCasesLastWeek2": "Jan 4–17: +319,949",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +11",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 80.6%"
+  },
+  {
+    "country": "Cyprus",
+    "alphaCode": "CYP",
+    "numericCode": "196",
+    "cases2": "Reported yesterday: +3,143",
+    "newCasesLastWeek2": "Jan 4–17: +51,160",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T06:08:12.727Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 70.9%"
+  }
+]

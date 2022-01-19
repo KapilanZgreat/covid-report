@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Eritrea",
+    "alphaCode": "ERI",
+    "numericCode": "232",
+    "cases": "9,002",
+    "deaths": "88",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "Faeroe Islands",
+    "alphaCode": "FRO",
+    "numericCode": "234",
+    "cases": "10,584",
+    "deaths": "15",
+    "doses": "100,616",
+    "peopleFullyVaccinated": "40,739",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "Ethiopia",
+    "alphaCode": "ETH",
+    "numericCode": "231",
+    "cases": "458,203",
+    "deaths": "7,162",
+    "doses": "10,965,020",
+    "peopleFullyVaccinated": "1,596,387",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "El Salvador",
+    "alphaCode": "SLV",
+    "numericCode": "222",
+    "cases": "123,577",
+    "deaths": "3,834",
+    "doses": "9,651,029",
+    "peopleFullyVaccinated": "4,164,802",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "Falkland Islands (Islas Malvinas)",
+    "alphaCode": "FLK",
+    "numericCode": "238",
+    "cases": "85",
+    "deaths": "0",
+    "doses": "4,407",
+    "peopleFullyVaccinated": "1,775",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "Estonia",
+    "alphaCode": "EST",
+    "numericCode": "233",
+    "cases": "269,199",
+    "deaths": "1,984",
+    "doses": "1,530,080",
+    "peopleFullyVaccinated": "823,838",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "Fiji",
+    "alphaCode": "FJI",
+    "numericCode": "242",
+    "cases": "59,785",
+    "deaths": "746",
+    "doses": "1,275,172",
+    "peopleFullyVaccinated": "611,574",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "alphaCode": "GNQ",
+    "numericCode": "226",
+    "cases": "15,492",
+    "deaths": "178",
+    "doses": "453,502",
+    "peopleFullyVaccinated": "203,662",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "Egypt",
+    "alphaCode": "EGY",
+    "numericCode": "818",
+    "cases": "401,308",
+    "deaths": "22,179",
+    "doses": "61,224,838",
+    "peopleFullyVaccinated": "24,839,799",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  },
+  {
+    "country": "Finland",
+    "alphaCode": "FIN",
+    "numericCode": "246",
+    "cases": "371,135",
+    "deaths": "1,724",
+    "doses": "10,262,739",
+    "peopleFullyVaccinated": "4,166,256",
+    "timestamp": "2022-01-19T06:13:11.593Z"
+  }
+]

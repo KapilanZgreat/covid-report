@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Laos",
+    "alphaCode": "LAO",
+    "numericCode": "418",
+    "cases": "125,333",
+    "deaths": "497",
+    "doses": "8,233,499",
+    "peopleFullyVaccinated": "3,643,020",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Latvia",
+    "alphaCode": "LVA",
+    "numericCode": "428",
+    "cases": "305,354",
+    "deaths": "4,734",
+    "doses": "2,697,076",
+    "peopleFullyVaccinated": "1,278,632",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Liberia",
+    "alphaCode": "LBR",
+    "numericCode": "430",
+    "cases": "7,121",
+    "deaths": "287",
+    "doses": "1,146,910",
+    "peopleFullyVaccinated": "984,421",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Lesotho",
+    "alphaCode": "LSO",
+    "numericCode": "426",
+    "cases": "31,734",
+    "deaths": "687",
+    "doses": "688,097",
+    "peopleFullyVaccinated": "641,007",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Macao",
+    "alphaCode": "MAC",
+    "numericCode": "446",
+    "cases": "79",
+    "deaths": "0",
+    "doses": "1,010,511",
+    "peopleFullyVaccinated": "470,761",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Liechtenstein",
+    "alphaCode": "LIE",
+    "numericCode": "438",
+    "cases": "7,265",
+    "deaths": "73",
+    "doses": "67,963",
+    "peopleFullyVaccinated": "25,862",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Luxembourg",
+    "alphaCode": "LUX",
+    "numericCode": "442",
+    "cases": "127,765",
+    "deaths": "938",
+    "doses": "1,183,342",
+    "peopleFullyVaccinated": "429,705",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Lithuania",
+    "alphaCode": "LTU",
+    "numericCode": "440",
+    "cases": "570,602",
+    "deaths": "7,660",
+    "doses": "4,332,138",
+    "peopleFullyVaccinated": "1,850,252",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Lebanon",
+    "alphaCode": "LBN",
+    "numericCode": "422",
+    "cases": "826,279",
+    "deaths": "9,397",
+    "doses": "4,724,154",
+    "peopleFullyVaccinated": "1,929,726",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  },
+  {
+    "country": "Libya",
+    "alphaCode": "LBY",
+    "numericCode": "434",
+    "cases": "398,055",
+    "deaths": "5,853",
+    "doses": "2,910,096",
+    "peopleFullyVaccinated": "940,217",
+    "timestamp": "2022-01-19T06:38:11.715Z"
+  }
+]

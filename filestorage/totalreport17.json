@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Saint Pierre and Miquelon",
+    "alphaCode": "SPM",
+    "numericCode": "666",
+    "cases": "494",
+    "deaths": "0",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "Romania",
+    "alphaCode": "ROM",
+    "numericCode": "642",
+    "cases": "1,911,546",
+    "deaths": "59,257",
+    "doses": "16,198,959",
+    "peopleFullyVaccinated": "7,916,347",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "Russia",
+    "alphaCode": "RUS",
+    "numericCode": "643",
+    "cases": "10,651,867",
+    "deaths": "315,495",
+    "doses": "150,096,505",
+    "peopleFullyVaccinated": "68,740,053",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "alphaCode": "VCT",
+    "numericCode": "670",
+    "cases": "6,599",
+    "deaths": "87",
+    "doses": "61,198",
+    "peopleFullyVaccinated": "26,244",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "alphaCode": "KNA",
+    "numericCode": "659",
+    "cases": "4,968",
+    "deaths": "28",
+    "doses": "55,841",
+    "peopleFullyVaccinated": "25,830",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "Reunion",
+    "alphaCode": "REU",
+    "numericCode": "638",
+    "cases": "102,216",
+    "deaths": "435",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "Rwanda",
+    "alphaCode": "RWA",
+    "numericCode": "646",
+    "cases": "125,568",
+    "deaths": "1,411",
+    "doses": "13,892,895",
+    "peopleFullyVaccinated": "5,680,013",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "Sabah",
+    "alphaCode": "SBH",
+    "numericCode": "461",
+    "cases": "244,380",
+    "deaths": "2,809",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "Saint Lucia",
+    "alphaCode": "LCA",
+    "numericCode": "662",
+    "cases": "17,531",
+    "deaths": "314",
+    "doses": "106,913",
+    "peopleFullyVaccinated": "50,414",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  },
+  {
+    "country": "American Samoa",
+    "alphaCode": "WSM",
+    "numericCode": "882",
+    "cases": "1",
+    "deaths": "0",
+    "doses": "82,022",
+    "peopleFullyVaccinated": "36,365",
+    "timestamp": "2022-01-19T07:03:11.215Z"
+  }
+]

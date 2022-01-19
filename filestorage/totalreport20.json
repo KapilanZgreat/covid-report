@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Thailand",
+    "alphaCode": "THA",
+    "numericCode": "764",
+    "cases": "2,308,615",
+    "deaths": "21,938",
+    "doses": "109,542,145",
+    "peopleFullyVaccinated": "47,579,865",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Tajikistan",
+    "alphaCode": "TJK",
+    "numericCode": "762",
+    "cases": "17,493",
+    "deaths": "125",
+    "doses": "6,893,099",
+    "peopleFullyVaccinated": "3,048,294",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Turkey",
+    "alphaCode": "TUR",
+    "numericCode": "792",
+    "cases": "10,524,029",
+    "deaths": "84,920",
+    "doses": "139,578,409",
+    "peopleFullyVaccinated": "52,155,792",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "alphaCode": "TTO",
+    "numericCode": "780",
+    "cases": "101,376",
+    "deaths": "3,208",
+    "doses": "1,454,611",
+    "peopleFullyVaccinated": "679,532",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Syria",
+    "alphaCode": "SYR",
+    "numericCode": "760",
+    "cases": "50,748",
+    "deaths": "2,950",
+    "doses": "2,925,563",
+    "peopleFullyVaccinated": "883,478",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Taiwan",
+    "alphaCode": "TWN",
+    "numericCode": "158",
+    "cases": "17,885",
+    "deaths": "851",
+    "doses": "37,917,556",
+    "peopleFullyVaccinated": "16,950,016",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Switzerland",
+    "alphaCode": "CHE",
+    "numericCode": "756",
+    "cases": "1,734,346",
+    "deaths": "12,515",
+    "doses": "14,780,012",
+    "peopleFullyVaccinated": "5,885,348",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Togo",
+    "alphaCode": "TGO",
+    "numericCode": "768",
+    "cases": "35,950",
+    "deaths": "261",
+    "doses": "2,480,664",
+    "peopleFullyVaccinated": "1,056,676",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Tanzania",
+    "alphaCode": "TZA",
+    "numericCode": "834",
+    "cases": "1,367",
+    "deaths": "50",
+    "doses": "885,579",
+    "peopleFullyVaccinated": "885,579",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  },
+  {
+    "country": "Tunisia",
+    "alphaCode": "TUN",
+    "numericCode": "788",
+    "cases": "788,012",
+    "deaths": "25,803",
+    "doses": "12,535,903",
+    "peopleFullyVaccinated": "6,116,577",
+    "timestamp": "2022-01-19T07:18:11.240Z"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Saint Pierre and Miquelon",
+    "alphaCode": "SPM",
+    "numericCode": "666",
+    "cases2": "Reported yesterday: +79",
+    "newCasesLastWeek2": "Jan 4–17: +394",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Romania",
+    "alphaCode": "ROM",
+    "numericCode": "642",
+    "cases2": "Reported yesterday: +8,118",
+    "newCasesLastWeek2": "Jan 4–17: +98,490",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +17",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 40.8%"
+  },
+  {
+    "country": "Russia",
+    "alphaCode": "RUS",
+    "numericCode": "643",
+    "cases2": "Reported yesterday: +30,457",
+    "newCasesLastWeek2": "Jan 4–17: +277,575",
+    "doses2": "Reported yesterday: +116,573",
+    "deaths2": "Reported yesterday: +657",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 46.8%"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "alphaCode": "VCT",
+    "numericCode": "670",
+    "cases2": "Reported yesterday: +18",
+    "newCasesLastWeek2": "Jan 4–17: +608",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +2",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 23.7%"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "alphaCode": "KNA",
+    "numericCode": "659",
+    "cases2": "Reported yesterday: +35",
+    "newCasesLastWeek2": "Jan 4–17: +1,716",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 48.9%"
+  },
+  {
+    "country": "Reunion",
+    "alphaCode": "REU",
+    "numericCode": "638",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +25,614",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Rwanda",
+    "alphaCode": "RWA",
+    "numericCode": "646",
+    "cases2": "Reported yesterday: +402",
+    "newCasesLastWeek2": "Jan 4–17: +10,988",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 45.9%"
+  },
+  {
+    "country": "Sabah",
+    "alphaCode": "SBH",
+    "numericCode": "461",
+    "cases2": "Reported yesterday: +163",
+    "newCasesLastWeek2": "Jan 4–17: +3,258",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Saint Lucia",
+    "alphaCode": "LCA",
+    "numericCode": "662",
+    "cases2": "Reported yesterday: +281",
+    "newCasesLastWeek2": "Jan 4–17: +3,715",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 28.2%"
+  },
+  {
+    "country": "American Samoa",
+    "alphaCode": "WSM",
+    "numericCode": "882",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 2–15: +6,203",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:03:11.215Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 64.1%"
+  }
+]

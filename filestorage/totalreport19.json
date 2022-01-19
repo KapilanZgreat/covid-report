@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Slovenia",
+    "alphaCode": "SVN",
+    "numericCode": "705",
+    "cases": "538,325",
+    "deaths": "5,705",
+    "doses": "2,872,126",
+    "peopleFullyVaccinated": "1,203,496",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "Eswatini / Swaziland",
+    "alphaCode": "SWZ",
+    "numericCode": "748",
+    "cases": "67,878",
+    "deaths": "1,363",
+    "doses": "434,201",
+    "peopleFullyVaccinated": "318,997",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "Spain",
+    "alphaCode": "ESP",
+    "numericCode": "724",
+    "cases": "8,424,503",
+    "deaths": "90,993",
+    "doses": "96,404,086",
+    "peopleFullyVaccinated": "38,173,059",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "Sudan",
+    "alphaCode": "SDN",
+    "numericCode": "729",
+    "cases": "51,802",
+    "deaths": "3,388",
+    "doses": "5,251,235",
+    "peopleFullyVaccinated": "1,234,386",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "Suriname",
+    "alphaCode": "SUR",
+    "numericCode": "740",
+    "cases": "65,282",
+    "deaths": "1,216",
+    "doses": "494,017",
+    "peopleFullyVaccinated": "230,808",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "Sri Lanka",
+    "alphaCode": "LKA",
+    "numericCode": "144",
+    "cases": "597,035",
+    "deaths": "15,218",
+    "doses": "34,823,410",
+    "peopleFullyVaccinated": "13,873,104",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "South Sudan",
+    "alphaCode": "SSD",
+    "numericCode": "729",
+    "cases": "16,533",
+    "deaths": "136",
+    "doses": "297,108",
+    "peopleFullyVaccinated": "207,428",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "Sweden",
+    "alphaCode": "SWE",
+    "numericCode": "752",
+    "cases": "1,560,363",
+    "deaths": "15,513",
+    "doses": "18,201,017",
+    "peopleFullyVaccinated": "7,468,000",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "Somalia",
+    "alphaCode": "SOM",
+    "numericCode": "706",
+    "cases": "24,261",
+    "deaths": "1,335",
+    "doses": "1,610,500",
+    "peopleFullyVaccinated": "867,137",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  },
+  {
+    "country": "South Africa",
+    "alphaCode": "ZAF",
+    "numericCode": "710",
+    "cases": "3,560,921",
+    "deaths": "93,451",
+    "doses": "28,812,684",
+    "peopleFullyVaccinated": "16,412,462",
+    "timestamp": "2022-01-19T07:13:11.236Z"
+  }
+]

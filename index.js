@@ -5,34 +5,113 @@ const cheerio = require('cheerio')
 const links = require("./countries.json");
 const request = require('request');
 const { Worker } = require('worker_threads')
-const linkss = require("./filestorage/totalreport.json");
-const linkss5 = require("./filestorage/totalreport5.json");
-const linkss6 = require("./filestorage/totalreport6.json");
-const linkss7 = require("./filestorage/totalreport7.json");
-const linkss8 = require("./filestorage/totalreport8.json");
-const linkss9 = require("./filestorage/totalreport9.json");
-const linkss10 = require("./filestorage/totalreport10.json");
-const linkss11 = require("./filestorage/totalreport11.json");
-const linkss12 = require("./filestorage/totalreport12.json");
-const linkss13 = require("./filestorage/totalreport13.json");
-const linkss14 = require("./filestorage/totalreport14.json");
-const linkss15 = require("./filestorage/totalreport15.json");
-const linkss16 = require("./filestorage/totalreport16.json");
-const linkss17 = require("./filestorage/totalreport17.json");
-const linkss18 = require("./filestorage/totalreport18.json");
-const linkss19 = require("./filestorage/totalreport19.json");
-const linkss20 = require("./filestorage/totalreport20.json");
-const linkss21 = require("./filestorage/totalreport21.json");
-const linkss22 = require("./filestorage/totalreport22.json");
+const linksss = require("./filestorage/totalreport.json");
+const linksss2 = require("./filestorage/totalreport2.json");
+const linksss3 = require("./filestorage/totalreport3.json");
+const linksss4 = require("./filestorage/totalreport4.json");
+const linksss5 = require("./filestorage/totalreport5.json");
+const linksss6 = require("./filestorage/totalreport6.json");
+const linksss7 = require("./filestorage/totalreport7.json");
+const linksss8 = require("./filestorage/totalreport8.json");
+const linksss9 = require("./filestorage/totalreport9.json");
+const linksss10 = require("./filestorage/totalreport10.json");
+const linksss11 = require("./filestorage/totalreport11.json");
+const linksss12 = require("./filestorage/totalreport12.json");
+const linksss13 = require("./filestorage/totalreport13.json");
+const linksss14 = require("./filestorage/totalreport14.json");
+const linksss15 = require("./filestorage/totalreport15.json");
+const linksss16 = require("./filestorage/totalreport16.json");
+const linksss17 = require("./filestorage/totalreport17.json");
+const linksss18 = require("./filestorage/totalreport18.json");
+const linksss19 = require("./filestorage/totalreport19.json");
+const linksss20 = require("./filestorage/totalreport20.json");
+const linksss21 = require("./filestorage/totalreport21.json");
+const linksss22 = require("./filestorage/totalreport22.json");
 
-
+const diffInMilliseconds = Math.abs(new Date() - new Date(linksss[0].timestamp));
+const diffInMilliseconds2 = Math.abs(new Date() - new Date(linksss2[0].timestamp));
+const diffInMilliseconds3 = Math.abs(new Date() - new Date(linksss3[0].timestamp));
+const diffInMilliseconds4 = Math.abs(new Date() - new Date(linksss4[0].timestamp));
+const diffInMilliseconds5 = Math.abs(new Date() - new Date(linksss5[0].timestamp));
+const diffInMilliseconds6 = Math.abs(new Date() - new Date(linksss6[0].timestamp));
+const diffInMilliseconds7 = Math.abs(new Date() - new Date(linksss7[0].timestamp));
+const diffInMilliseconds8 = Math.abs(new Date() - new Date(linksss8[0].timestamp));
+const diffInMilliseconds9 = Math.abs(new Date() - new Date(linksss9[0].timestamp));
+const diffInMilliseconds10 = Math.abs(new Date() - new Date(linksss10[0].timestamp));
+const diffInMilliseconds11 = Math.abs(new Date() - new Date(linksss11[0].timestamp));
+const diffInMilliseconds12 = Math.abs(new Date() - new Date(linksss12[0].timestamp));
+const diffInMilliseconds13 = Math.abs(new Date() - new Date(linksss13[0].timestamp));
+const diffInMilliseconds14 = Math.abs(new Date() - new Date(linksss14[0].timestamp));
+const diffInMilliseconds15 = Math.abs(new Date() - new Date(linksss15[0].timestamp));
+const diffInMilliseconds16 = Math.abs(new Date() - new Date(linksss16[0].timestamp));
+const diffInMilliseconds17 = Math.abs(new Date() - new Date(linksss17[0].timestamp));
+const diffInMilliseconds18 = Math.abs(new Date() - new Date(linksss18[0].timestamp));
+const diffInMilliseconds19 = Math.abs(new Date() - new Date(linksss19[0].timestamp));
+const diffInMilliseconds20 = Math.abs(new Date() - new Date(linksss20[0].timestamp));
+const diffInMilliseconds21 = Math.abs(new Date() - new Date(linksss21[0].timestamp));
+const diffInMilliseconds22 = Math.abs(new Date() - new Date(linksss22[0].timestamp));
 
 const app = express()
 
 
 
+var arr = [0,diffInMilliseconds, diffInMilliseconds2, diffInMilliseconds3, diffInMilliseconds4, diffInMilliseconds5, diffInMilliseconds6, diffInMilliseconds7, diffInMilliseconds8, diffInMilliseconds9, diffInMilliseconds10, diffInMilliseconds11, diffInMilliseconds12,, diffInMilliseconds13, diffInMilliseconds14, diffInMilliseconds15, diffInMilliseconds16, diffInMilliseconds17, diffInMilliseconds18, diffInMilliseconds19, diffInMilliseconds20,diffInMilliseconds21, diffInMilliseconds22];
+var largest = arr[0];
+var indexo = 0
+for (var i = 0; i < arr.length; i++) {
+    if (largest < arr[i]) {
+        largest = arr[i];
+        indexo = i
+    }
+
+}
+console.log(indexo)
+console.log(largest);
 
 
+update2()
+function update2(){
+    const sourcesArray1 = []
+
+
+    const sourcesArrayresult1 = []
+
+
+
+    const worker1 = new Worker(`./worker${indexo}.js`)
+
+    worker1.on('message', (data) => {
+
+        console.log(data)
+        sourcesArray1.push(data)
+//    console.log(sourcesArray)
+        //  console.log(data.count)
+        //    console.log("k")
+
+    })
+
+    worker1.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker1.on("exit", () => {
+        sourcesArrayresult1.push(sourcesArray1)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult1)
+        console.log('Worker exited')
+        //      worker.postMessage("Message from parent");
+        //     for (let i = 0; i < links.length; i++) {
+        //         checker.push(links[i].name)
+        //     }
+
+        const worker = new Worker('./worker2.js')
+        worker.on('message', (data) => {
+            //    console.log(data)
+            //   console.log(data.count)
+            //    console.log("k")
+        })
+    });
+}
 
 
 
@@ -1378,9 +1457,14 @@ app.get('/', (req, res)=> {
 
 
 
-function getArraysIntersection(a1,a2){
-    return  a1.filter(function(n) { return a2.indexOf(n) !== -1;});
-}
+
+
+
+
+
+
+
+/*
 
 
 setInterval(overlord, 60000*120)
@@ -1610,7 +1694,7 @@ function overlord() {
 
 
 function update() {
-    const worker = new Worker('./worker.js')
+    const worker = new Worker('./worker1.js')
     const sourcesArray = []
     const sourcesArrayresult = []
     worker.on('message', (data) => {
@@ -2139,7 +2223,7 @@ function update22() {
   //  const worker1 = new Worker('./worker2.js')
 
 
-
+*/
 
 
 

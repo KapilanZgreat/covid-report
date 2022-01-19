@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Kazakhstan",
+    "alphaCode": "KAZ",
+    "numericCode": "398",
+    "cases2": "Reported yesterday: +9,706",
+    "newCasesLastWeek2": "Jan 4–17: +82,085",
+    "doses2": "Reported yesterday: +6,892",
+    "deaths2": "Reported yesterday: +25",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 46.2%"
+  },
+  {
+    "country": "Jamaica",
+    "alphaCode": "JAM",
+    "numericCode": "388",
+    "cases2": "Reported yesterday: +1,220",
+    "newCasesLastWeek2": "Jan 4–17: +17,492",
+    "doses2": "Reported yesterday: +1,127",
+    "deaths2": "Reported yesterday: +6",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 21.9%"
+  },
+  {
+    "country": "South Korea",
+    "alphaCode": "PRK",
+    "numericCode": "408",
+    "cases2": "Reported yesterday: +4,070",
+    "newCasesLastWeek2": "Jan 4–17: +54,876",
+    "doses2": "Reported yesterday: +471,850",
+    "deaths2": "Reported yesterday: +45",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 84.2%"
+  },
+  {
+    "country": "Israel",
+    "alphaCode": "ISR",
+    "numericCode": "376",
+    "cases2": "Reported yesterday: +0",
+    "newCasesLastWeek2": "Jan 4–17: +387,214",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 65.6%"
+  },
+  {
+    "country": "Italy",
+    "alphaCode": "ITA",
+    "numericCode": "380",
+    "cases2": "Reported yesterday: +83,387",
+    "newCasesLastWeek2": "Jan 4–17: +2,394,192",
+    "doses2": "Reported yesterday: +577,393",
+    "deaths2": "Reported yesterday: +287",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 75.4%"
+  },
+  {
+    "country": "Kenya",
+    "alphaCode": "KEN",
+    "numericCode": "404",
+    "cases2": "Reported yesterday: +223",
+    "newCasesLastWeek2": "Jan 4–17: +18,125",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +11",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 9.8%"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "alphaCode": "KGZ",
+    "numericCode": "417",
+    "cases2": "Reported yesterday: +781",
+    "newCasesLastWeek2": "Jan 4–17: +5,641",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 15.6%"
+  },
+  {
+    "country": "Jordan",
+    "alphaCode": "JOR",
+    "numericCode": "400",
+    "cases2": "Reported yesterday: +5,039",
+    "newCasesLastWeek2": "Jan 4–17: +38,753",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +18",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 36.9%"
+  },
+  {
+    "country": "Kuwait",
+    "alphaCode": "KWT",
+    "numericCode": "414",
+    "cases2": "Reported yesterday: +5,147",
+    "newCasesLastWeek2": "Jan 4–17: +51,164",
+    "doses2": "Reported yesterday: +31,975",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 73.3%"
+  },
+  {
+    "country": "Japan",
+    "alphaCode": "JPN",
+    "numericCode": "392",
+    "cases2": "Reported yesterday: +20,823",
+    "newCasesLastWeek2": "Jan 4–17: +168,403",
+    "doses2": "Reported yesterday: +161,070",
+    "deaths2": "Reported yesterday: +4",
+    "timestamp": "2022-01-19T06:33:11.630Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 79.1%"
+  }
+]

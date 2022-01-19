@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Saudi Arabia",
+    "alphaCode": "SAU",
+    "numericCode": "682",
+    "cases2": "Reported yesterday: +5,505",
+    "newCasesLastWeek2": "Jan 4–17: +61,083",
+    "doses2": "Reported yesterday: +200,016",
+    "deaths2": "Reported yesterday: +2",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 68.6%"
+  },
+  {
+    "country": "Sarawak",
+    "alphaCode": "SWK",
+    "numericCode": "457",
+    "cases2": "Reported yesterday: +9",
+    "newCasesLastWeek2": "Jan 4–17: +256",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "alphaCode": "STP",
+    "numericCode": "678",
+    "cases2": "Reported yesterday: +44",
+    "newCasesLastWeek2": "Jan 4–17: +1,624",
+    "doses2": "Reported yesterday: +13,428",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 30.4%"
+  },
+  {
+    "country": "Senegal",
+    "alphaCode": "SEN",
+    "numericCode": "686",
+    "cases2": "Reported yesterday: +274",
+    "newCasesLastWeek2": "Jan 4–17: +7,027",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 6.1%"
+  },
+  {
+    "country": "Singapore",
+    "alphaCode": "SGP",
+    "numericCode": "702",
+    "cases2": "Reported yesterday: +1,165",
+    "newCasesLastWeek2": "Jan 4–17: +12,260",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 82.9%"
+  },
+  {
+    "country": "Serbia",
+    "alphaCode": "SRB",
+    "numericCode": "688",
+    "cases2": "Reported yesterday: +12,797",
+    "newCasesLastWeek2": "Jan 4–17: +143,571",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +27",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 46.4%"
+  },
+  {
+    "country": "Sierra Leone",
+    "alphaCode": "SLE",
+    "numericCode": "694",
+    "cases2": "Reported yesterday: +2",
+    "newCasesLastWeek2": "Jan 4–17: +324",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 4.9%"
+  },
+  {
+    "country": "San Marino",
+    "alphaCode": "SMR",
+    "numericCode": "674",
+    "cases2": "Reported yesterday: +291",
+    "newCasesLastWeek2": "Jan 4–17: +2,154",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 64.6%"
+  },
+  {
+    "country": "Slovakia",
+    "alphaCode": "SVK",
+    "numericCode": "703",
+    "cases2": "Reported yesterday: +1,692",
+    "newCasesLastWeek2": "Jan 4–17: +42,820",
+    "doses2": "Reported yesterday: +121,735",
+    "deaths2": "Reported yesterday: +52",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 48%"
+  },
+  {
+    "country": "Seychelles",
+    "alphaCode": "SYC",
+    "numericCode": "690",
+    "cases2": "Reported yesterday: +1,748",
+    "newCasesLastWeek2": "Jan 4–17: +8,058",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +4",
+    "timestamp": "2022-01-19T07:08:11.223Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 80.2%"
+  }
+]

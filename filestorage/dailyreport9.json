@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Greenland",
+    "alphaCode": "GRL",
+    "numericCode": "304",
+    "cases2": "Reported yesterday: +154",
+    "newCasesLastWeek2": "Jan 4–17: +5,095",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 67.9%"
+  },
+  {
+    "country": "Guam",
+    "alphaCode": "GUM",
+    "numericCode": "316",
+    "cases2": "Reported yesterday: +263",
+    "newCasesLastWeek2": "Jan 4–17: +3,974",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 74.7%"
+  },
+  {
+    "country": "Grenada",
+    "alphaCode": "GRD",
+    "numericCode": "308",
+    "cases2": "Reported yesterday: +17",
+    "newCasesLastWeek2": "Jan 4–17: +3,380",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 32.4%"
+  },
+  {
+    "country": "Guyana",
+    "alphaCode": "GUY",
+    "numericCode": "328",
+    "cases2": "Reported yesterday: +892",
+    "newCasesLastWeek2": "Jan 4–17: +11,941",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 38.8%"
+  },
+  {
+    "country": "Greece",
+    "alphaCode": "GRC",
+    "numericCode": "300",
+    "cases2": "Reported yesterday: +18,834",
+    "newCasesLastWeek2": "Jan 4–17: +384,964",
+    "doses2": "Reported yesterday: +60,573",
+    "deaths2": "Reported yesterday: +103",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 66.9%"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "alphaCode": "GNB",
+    "numericCode": "624",
+    "cases2": "Reported yesterday: +30",
+    "newCasesLastWeek2": "Jan 4–17: +535",
+    "doses2": "Reported yesterday: +678",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 1.5%"
+  },
+  {
+    "country": "Guinea",
+    "alphaCode": "GIN",
+    "numericCode": "324",
+    "cases2": "Reported yesterday: +400",
+    "newCasesLastWeek2": "Jan 4–17: +2,735",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +2",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 10.6%"
+  },
+  {
+    "country": "Guadeloupe",
+    "alphaCode": "GLP",
+    "numericCode": "312",
+    "cases2": "Reported yesterday: +8,525",
+    "newCasesLastWeek2": "Jan 4–17: +17,865",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Guatemala",
+    "alphaCode": "GTM",
+    "numericCode": "320",
+    "cases2": "Reported yesterday: +384",
+    "newCasesLastWeek2": "Jan 4–17: +24,751",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +3",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 30.1%"
+  },
+  {
+    "country": "Haiti",
+    "alphaCode": "HTI",
+    "numericCode": "332",
+    "cases2": "Reported yesterday: +737",
+    "newCasesLastWeek2": "Jan 4–17: +1,763",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:23:11.567Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 0.65%"
+  }
+]

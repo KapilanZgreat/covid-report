@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Kazakhstan",
+    "alphaCode": "KAZ",
+    "numericCode": "398",
+    "cases": "1,155,871",
+    "deaths": "18,318",
+    "doses": "17,683,075",
+    "peopleFullyVaccinated": "8,620,751",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "Jamaica",
+    "alphaCode": "JAM",
+    "numericCode": "388",
+    "cases": "113,438",
+    "deaths": "2,536",
+    "doses": "1,263,191",
+    "peopleFullyVaccinated": "596,286",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "South Korea",
+    "alphaCode": "PRK",
+    "numericCode": "408",
+    "cases": "700,102",
+    "deaths": "6,378",
+    "doses": "110,316,645",
+    "peopleFullyVaccinated": "43,582,128",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "Israel",
+    "alphaCode": "ISR",
+    "numericCode": "376",
+    "cases": "1,792,130",
+    "deaths": "8,318",
+    "doses": "17,626,777",
+    "peopleFullyVaccinated": "6,020,277",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "Italy",
+    "alphaCode": "ITA",
+    "numericCode": "380",
+    "cases": "8,790,302",
+    "deaths": "141,391",
+    "doses": "120,895,225",
+    "peopleFullyVaccinated": "45,404,097",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "Kenya",
+    "alphaCode": "KEN",
+    "numericCode": "404",
+    "cases": "317,857",
+    "deaths": "5,499",
+    "doses": "10,878,311",
+    "peopleFullyVaccinated": "4,644,213",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "alphaCode": "KGZ",
+    "numericCode": "417",
+    "cases": "190,468",
+    "deaths": "2,833",
+    "doses": "2,352,641",
+    "peopleFullyVaccinated": "1,019,923",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "Jordan",
+    "alphaCode": "JOR",
+    "numericCode": "400",
+    "cases": "1,106,006",
+    "deaths": "13,004",
+    "doses": "8,265,793",
+    "peopleFullyVaccinated": "3,933,851",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "Kuwait",
+    "alphaCode": "KWT",
+    "numericCode": "414",
+    "cases": "470,478",
+    "deaths": "2,477",
+    "doses": "7,198,089",
+    "peopleFullyVaccinated": "3,238,463",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  },
+  {
+    "country": "Japan",
+    "alphaCode": "JPN",
+    "numericCode": "392",
+    "cases": "1,902,304",
+    "deaths": "18,433",
+    "doses": "202,280,089",
+    "peopleFullyVaccinated": "99,572,488",
+    "timestamp": "2022-01-19T06:33:11.630Z"
+  }
+]

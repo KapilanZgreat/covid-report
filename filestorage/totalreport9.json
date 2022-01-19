@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Greenland",
+    "alphaCode": "GRL",
+    "numericCode": "304",
+    "cases": "8,025",
+    "deaths": "3",
+    "doses": "78,558",
+    "peopleFullyVaccinated": "38,089",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Guam",
+    "alphaCode": "GUM",
+    "numericCode": "316",
+    "cases": "24,550",
+    "deaths": "275",
+    "doses": "301,719",
+    "peopleFullyVaccinated": "128,776",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Grenada",
+    "alphaCode": "GRD",
+    "numericCode": "308",
+    "cases": "9,718",
+    "deaths": "204",
+    "doses": "82,423",
+    "peopleFullyVaccinated": "36,332",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Guyana",
+    "alphaCode": "GUY",
+    "numericCode": "328",
+    "cases": "52,095",
+    "deaths": "1,096",
+    "doses": "744,876",
+    "peopleFullyVaccinated": "303,373",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Greece",
+    "alphaCode": "GRC",
+    "numericCode": "300",
+    "cases": "1,679,705",
+    "deaths": "22,087",
+    "doses": "18,446,877",
+    "peopleFullyVaccinated": "7,180,030",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "alphaCode": "GNB",
+    "numericCode": "624",
+    "cases": "7,034",
+    "deaths": "152",
+    "doses": "415,874",
+    "peopleFullyVaccinated": "23,906",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Guinea",
+    "alphaCode": "GIN",
+    "numericCode": "324",
+    "cases": "35,602",
+    "deaths": "408",
+    "doses": "3,421,681",
+    "peopleFullyVaccinated": "1,293,373",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Guadeloupe",
+    "alphaCode": "GLP",
+    "numericCode": "312",
+    "cases": "73,660",
+    "deaths": "835",
+    "doses": "No data",
+    "peopleFullyVaccinated": "No data",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Guatemala",
+    "alphaCode": "GTM",
+    "numericCode": "320",
+    "cases": "653,555",
+    "deaths": "16,179",
+    "doses": "12,398,482",
+    "peopleFullyVaccinated": "4,999,809",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  },
+  {
+    "country": "Haiti",
+    "alphaCode": "HTI",
+    "numericCode": "332",
+    "cases": "27,819",
+    "deaths": "780",
+    "doses": "199,874",
+    "peopleFullyVaccinated": "75,028",
+    "timestamp": "2022-01-19T06:23:11.567Z"
+  }
+]

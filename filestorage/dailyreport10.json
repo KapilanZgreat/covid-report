@@ -1,0 +1,111 @@
+[
+  {
+    "country": "Hong Kong",
+    "alphaCode": "HKG",
+    "numericCode": "344",
+    "cases2": "Reported yesterday: +3",
+    "newCasesLastWeek2": "Jan 4–17: +190",
+    "doses2": "Reported yesterday: +40,714",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 63%"
+  },
+  {
+    "country": "India",
+    "alphaCode": "IND",
+    "numericCode": "356",
+    "cases2": "Reported yesterday: +238,018",
+    "newCasesLastWeek2": "Jan 4–17: +2,658,010",
+    "doses2": "Reported yesterday: +5,167,283",
+    "deaths2": "Reported yesterday: +310",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 48.4%"
+  },
+  {
+    "country": "Iraq",
+    "alphaCode": "IRQ",
+    "numericCode": "368",
+    "cases2": "Reported yesterday: +4,466",
+    "newCasesLastWeek2": "Jan 4–17: +24,430",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +5",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 15.6%"
+  },
+  {
+    "country": "Honduras",
+    "alphaCode": "HND",
+    "numericCode": "340",
+    "cases2": "Reported yesterday: +2,922",
+    "newCasesLastWeek2": "Jan 4–17: +5,960",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +6",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 47.8%"
+  },
+  {
+    "country": "Vatican City",
+    "alphaCode": "VAT",
+    "numericCode": "336",
+    "cases2": "Reported yesterday: +0",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Iceland",
+    "alphaCode": "ISL",
+    "numericCode": "352",
+    "cases2": "Reported yesterday: +3,508",
+    "newCasesLastWeek2": "Jan 4–17: +17,412",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 78.3%"
+  },
+  {
+    "country": "Hungary",
+    "alphaCode": "HUN",
+    "numericCode": "348",
+    "cases2": "Reported yesterday: +21,219",
+    "newCasesLastWeek2": "Jan 4–17: +85,953",
+    "doses2": "Reported yesterday: +11,380",
+    "deaths2": "Reported yesterday: +270",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 62%"
+  },
+  {
+    "country": "Indonesia",
+    "alphaCode": "IDN",
+    "numericCode": "360",
+    "cases2": "Reported yesterday: +772",
+    "newCasesLastWeek2": "Jan 4–17: +8,988",
+    "doses2": "Reported yesterday: +574,272",
+    "deaths2": "Reported yesterday: +4",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 15.3%"
+  },
+  {
+    "country": "Iran",
+    "alphaCode": "IRN",
+    "numericCode": "364",
+    "cases2": "Reported yesterday: +3,163",
+    "newCasesLastWeek2": "Jan 4–17: +25,606",
+    "doses2": "Reported yesterday: +428,796",
+    "deaths2": "Reported yesterday: +20",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 63.8%"
+  },
+  {
+    "country": "Ireland",
+    "alphaCode": "IRL",
+    "numericCode": "372",
+    "cases2": "Reported yesterday: +6,329",
+    "newCasesLastWeek2": "Jan 4–17: +263,921",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:28:11.668Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 78.3%"
+  }
+]

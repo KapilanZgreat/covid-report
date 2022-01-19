@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "country": "Dominica",
+    "alphaCode": "DMA",
+    "numericCode": "212",
+    "cases": "7,957",
+    "deaths": "48",
+    "doses": "59,624",
+    "peopleFullyVaccinated": "28,671",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Djibouti",
+    "alphaCode": "DJI",
+    "numericCode": "262",
+    "cases": "14,984",
+    "deaths": "189",
+    "doses": "207,952",
+    "peopleFullyVaccinated": "99,007",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Timor-Leste",
+    "alphaCode": "TMP",
+    "numericCode": "626",
+    "cases": "19,863",
+    "deaths": "122",
+    "doses": "1,218,471",
+    "peopleFullyVaccinated": "551,194",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Curaçao",
+    "alphaCode": "CUW",
+    "numericCode": "531",
+    "cases": "33,942",
+    "deaths": "206",
+    "doses": "236,032",
+    "peopleFullyVaccinated": "97,275",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Ecuador",
+    "alphaCode": "ECU",
+    "numericCode": "218",
+    "cases": "602,942",
+    "deaths": "34,206",
+    "doses": "28,946,355",
+    "peopleFullyVaccinated": "13,072,046",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Dominican Republic",
+    "alphaCode": "DOM",
+    "numericCode": "214",
+    "cases": "504,914",
+    "deaths": "4,269",
+    "doses": "14,339,630",
+    "peopleFullyVaccinated": "5,742,774",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Cuba",
+    "alphaCode": "CUB",
+    "numericCode": "192",
+    "cases": "1,002,499",
+    "deaths": "8,341",
+    "doses": "32,808,451",
+    "peopleFullyVaccinated": "9,771,819",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Czechia",
+    "alphaCode": "CZE",
+    "numericCode": "203",
+    "cases": "2,603,766",
+    "deaths": "36,874",
+    "doses": "16,540,016",
+    "peopleFullyVaccinated": "6,734,693",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Denmark",
+    "alphaCode": "DNK",
+    "numericCode": "208",
+    "cases": "1,159,986",
+    "deaths": "3,505",
+    "doses": "12,829,638",
+    "peopleFullyVaccinated": "4,690,362",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  },
+  {
+    "country": "Cyprus",
+    "alphaCode": "CYP",
+    "numericCode": "196",
+    "cases": "228,881",
+    "deaths": "684",
+    "doses": "1,635,530",
+    "peopleFullyVaccinated": "620,714",
+    "timestamp": "2022-01-19T06:08:12.727Z"
+  }
+]

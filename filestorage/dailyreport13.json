@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Malawi",
+    "alphaCode": "MWI",
+    "numericCode": "454",
+    "cases2": "Reported yesterday: +73",
+    "newCasesLastWeek2": "Jan 4–17: +6,497",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +8",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 4%"
+  },
+  {
+    "country": "Malta",
+    "alphaCode": "MLT",
+    "numericCode": "470",
+    "cases2": "Reported yesterday: +288",
+    "newCasesLastWeek2": "Jan 4–17: +8,936",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 89.2%"
+  },
+  {
+    "country": "Martinique",
+    "alphaCode": "MTQ",
+    "numericCode": "474",
+    "cases2": "Reported yesterday: +2,325",
+    "newCasesLastWeek2": "Jan 4–17: +17,257",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +10",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Mali",
+    "alphaCode": "MLI",
+    "numericCode": "466",
+    "cases2": "Reported yesterday: +170",
+    "newCasesLastWeek2": "Jan 4–17: +6,949",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 2.7%"
+  },
+  {
+    "country": "North Macedonia",
+    "alphaCode": "MKD",
+    "numericCode": "807",
+    "cases2": "Reported yesterday: +766",
+    "newCasesLastWeek2": "Jan 4–17: +19,426",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +15",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 39.3%"
+  },
+  {
+    "country": "Mauritania",
+    "alphaCode": "MRT",
+    "numericCode": "478",
+    "cases2": "Reported yesterday: +404",
+    "newCasesLastWeek2": "Jan 4–17: +12,723",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 23.7%"
+  },
+  {
+    "country": "Madagascar",
+    "alphaCode": "MDG",
+    "numericCode": "450",
+    "cases2": "Reported yesterday: +689",
+    "newCasesLastWeek2": "Jan 4–17: +5,548",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 2.9%"
+  },
+  {
+    "country": "Mauritius",
+    "alphaCode": "MUS",
+    "numericCode": "480",
+    "cases2": "Reported yesterday: +53",
+    "newCasesLastWeek2": "Jan 4–17: +1,301",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 72.3%"
+  },
+  {
+    "country": "Maldives",
+    "alphaCode": "MDV",
+    "numericCode": "462",
+    "cases2": "Reported yesterday: +1,420",
+    "newCasesLastWeek2": "Jan 4–17: +8,707",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 98.4%"
+  },
+  {
+    "country": "Malaysia",
+    "alphaCode": "MYS",
+    "numericCode": "458",
+    "cases2": "Reported yesterday: +2,342",
+    "newCasesLastWeek2": "Jan 4–17: +43,645",
+    "doses2": "Reported yesterday: +242,705",
+    "deaths2": "Reported yesterday: +16",
+    "timestamp": "2022-01-19T06:43:11.594Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 78.4%"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "country": "Zambia",
+    "alphaCode": "ZMB",
+    "numericCode": "894",
+    "cases2": "Reported yesterday: +685",
+    "newCasesLastWeek2": "Jan 4–17: +35,596",
+    "doses2": "Reported yesterday: +132,172",
+    "deaths2": "Reported yesterday: +6",
+    "timestamp": "2022-01-19T07:28:11.325Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 8.5%"
+  },
+  {
+    "country": "Western Sahara",
+    "alphaCode": "ESH",
+    "numericCode": "732",
+    "cases2": "",
+    "doses2": "",
+    "deaths2": "",
+    "timestamp": "2022-01-19T07:28:11.325Z",
+    "percentofpeopleoverpopvaccinated2": ""
+  },
+  {
+    "country": "Worldwide",
+    "alphaCode": "WLD",
+    "numericCode": "000",
+    "cases2": "Reported yesterday: +2,776,856",
+    "newCasesLastWeek2": "Jan 4–17: +38,124,155",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +6,265",
+    "timestamp": "2022-01-19T07:28:11.325Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 50.4%"
+  },
+  {
+    "country": "Zimbabwe",
+    "alphaCode": "ZWE",
+    "numericCode": "716",
+    "cases2": "Reported yesterday: +382",
+    "newCasesLastWeek2": "Jan 4–17: +10,373",
+    "doses2": "Reported yesterday: +7,591",
+    "deaths2": "Reported yesterday: +11",
+    "timestamp": "2022-01-19T07:28:11.325Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 21.3%"
+  },
+  {
+    "country": "Virgin Islands (U.S.)",
+    "alphaCode": "VIR",
+    "numericCode": "850",
+    "cases2": "Reported yesterday: +239",
+    "newCasesLastWeek2": "Jan 4–17: +3,470",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-19T07:28:11.325Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 52.1%"
+  },
+  {
+    "country": "Yemen",
+    "alphaCode": "YEM",
+    "numericCode": "887",
+    "cases2": "Reported yesterday: +100",
+    "newCasesLastWeek2": "Jan 4–17: +214",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-19T07:28:11.325Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 1.2%"
+  }
+]

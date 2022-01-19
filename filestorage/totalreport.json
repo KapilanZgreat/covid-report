@@ -1,13 +1,13 @@
 [
   {
-    "country": "Andorra",
-    "alphaCode": "AND",
-    "numericCode": "020",
-    "cases": "29,888",
-    "deaths": "142",
-    "doses": "117,246",
-    "peopleFullyVaccinated": "51,392",
-    "timestamp": "2022-01-19T04:25:42.762Z"
+    "country": "Anguila",
+    "alphaCode": "AIA",
+    "numericCode": "660",
+    "cases": "2,109",
+    "deaths": "7",
+    "doses": "21,046",
+    "peopleFullyVaccinated": "9,282",
+    "timestamp": "2022-01-19T05:43:11.402Z"
   },
   {
     "country": "Antigua and Barbuda",
@@ -17,7 +17,17 @@
     "deaths": "120",
     "doses": "122,215",
     "peopleFullyVaccinated": "59,472",
-    "timestamp": "2022-01-19T04:25:42.762Z"
+    "timestamp": "2022-01-19T05:43:11.402Z"
+  },
+  {
+    "country": "Andorra",
+    "alphaCode": "AND",
+    "numericCode": "020",
+    "cases": "29,888",
+    "deaths": "142",
+    "doses": "117,246",
+    "peopleFullyVaccinated": "51,392",
+    "timestamp": "2022-01-19T05:43:11.402Z"
   },
   {
     "country": "Armenia",
@@ -27,57 +37,7 @@
     "deaths": "8,020",
     "doses": "1,761,529",
     "peopleFullyVaccinated": "784,849",
-    "timestamp": "2022-01-19T04:25:42.762Z"
-  },
-  {
-    "country": "Anguila",
-    "alphaCode": "AIA",
-    "numericCode": "660",
-    "cases": "2,109",
-    "deaths": "7",
-    "doses": "21,046",
-    "peopleFullyVaccinated": "9,282",
-    "timestamp": "2022-01-19T04:25:42.762Z"
-  },
-  {
-    "country": "Algeria",
-    "alphaCode": "DZA",
-    "numericCode": "012",
-    "cases": "226,749",
-    "deaths": "6,423",
-    "doses": "12,906,358",
-    "peopleFullyVaccinated": "5,763,106",
-    "timestamp": "2022-01-19T04:25:42.762Z"
-  },
-  {
-    "country": "Afghanistan",
-    "alphaCode": "AFG",
-    "numericCode": "004",
-    "cases": "158,826",
-    "deaths": "7,381",
-    "doses": "4,985,047",
-    "peopleFullyVaccinated": "3,832,821",
-    "timestamp": "2022-01-19T04:25:42.762Z"
-  },
-  {
-    "country": "American Samoa",
-    "alphaCode": "ASM",
-    "numericCode": "016",
-    "cases": "1",
-    "deaths": "0",
-    "doses": "82,022",
-    "peopleFullyVaccinated": "36,365",
-    "timestamp": "2022-01-19T04:25:42.762Z"
-  },
-  {
-    "country": "Angola",
-    "alphaCode": "AGO",
-    "numericCode": "024",
-    "cases": "93,974",
-    "deaths": "1,866",
-    "doses": "12,690,132",
-    "peopleFullyVaccinated": "4,308,880",
-    "timestamp": "2022-01-19T04:25:42.762Z"
+    "timestamp": "2022-01-19T05:43:11.402Z"
   },
   {
     "country": "Albania",
@@ -87,7 +47,7 @@
     "deaths": "3,271",
     "doses": "2,510,426",
     "peopleFullyVaccinated": "1,110,743",
-    "timestamp": "2022-01-19T04:25:42.762Z"
+    "timestamp": "2022-01-19T05:43:11.402Z"
   },
   {
     "country": "Argentina",
@@ -97,6 +57,46 @@
     "deaths": "118,231",
     "doses": "82,438,934",
     "peopleFullyVaccinated": "33,781,649",
-    "timestamp": "2022-01-19T04:25:42.762Z"
+    "timestamp": "2022-01-19T05:43:11.402Z"
+  },
+  {
+    "country": "Angola",
+    "alphaCode": "AGO",
+    "numericCode": "024",
+    "cases": "93,974",
+    "deaths": "1,866",
+    "doses": "12,690,132",
+    "peopleFullyVaccinated": "4,308,880",
+    "timestamp": "2022-01-19T05:43:11.402Z"
+  },
+  {
+    "country": "Algeria",
+    "alphaCode": "DZA",
+    "numericCode": "012",
+    "cases": "226,749",
+    "deaths": "6,423",
+    "doses": "12,906,358",
+    "peopleFullyVaccinated": "5,763,106",
+    "timestamp": "2022-01-19T05:43:11.402Z"
+  },
+  {
+    "country": "American Samoa",
+    "alphaCode": "ASM",
+    "numericCode": "016",
+    "cases": "1",
+    "deaths": "0",
+    "doses": "82,022",
+    "peopleFullyVaccinated": "36,365",
+    "timestamp": "2022-01-19T05:43:11.402Z"
+  },
+  {
+    "country": "Afghanistan",
+    "alphaCode": "AFG",
+    "numericCode": "004",
+    "cases": "158,826",
+    "deaths": "7,381",
+    "doses": "4,985,047",
+    "peopleFullyVaccinated": "3,832,821",
+    "timestamp": "2022-01-19T05:43:11.402Z"
   }
 ]
