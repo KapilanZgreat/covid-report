@@ -55,13 +55,13 @@ const app = express()
 
 
 
-var arr = [0,diffInMilliseconds, diffInMilliseconds2, diffInMilliseconds3, diffInMilliseconds4, diffInMilliseconds5, diffInMilliseconds6, diffInMilliseconds7, diffInMilliseconds8, diffInMilliseconds9, diffInMilliseconds10, diffInMilliseconds11, diffInMilliseconds12,, diffInMilliseconds13, diffInMilliseconds14, diffInMilliseconds15, diffInMilliseconds16, diffInMilliseconds17, diffInMilliseconds18, diffInMilliseconds19, diffInMilliseconds20,diffInMilliseconds21, diffInMilliseconds22];
+var arr = [0,diffInMilliseconds, diffInMilliseconds2, diffInMilliseconds3, diffInMilliseconds4, diffInMilliseconds5, diffInMilliseconds6, diffInMilliseconds7, diffInMilliseconds8, diffInMilliseconds9, diffInMilliseconds10, diffInMilliseconds11, diffInMilliseconds12, diffInMilliseconds13, diffInMilliseconds14, diffInMilliseconds15, diffInMilliseconds16, diffInMilliseconds17, diffInMilliseconds18, diffInMilliseconds19, diffInMilliseconds20, diffInMilliseconds21, diffInMilliseconds22];
 var largest = arr[0];
 var indexo = 0
-for (var i = 0; i < arr.length; i++) {
-    if (largest < arr[i]) {
-        largest = arr[i];
-        indexo = i
+for (var w = 0; w < arr.length; w++) {
+    if (largest < arr[w]) {
+        largest = arr[w];
+        indexo = w
     }
 
 }
