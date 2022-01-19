@@ -5,10 +5,26 @@ const cheerio = require('cheerio')
 const links = require("./countries.json");
 const request = require('request');
 const { Worker } = require('worker_threads')
-const linkss = require("./filestorage/news.json");
-const linkss4 = require("./filestorage/news4.json");
-const linkss3 = require("./filestorage/news3.json");
-const linkss2 = require("./filestorage/news2.json");
+const linkss = require("./filestorage/totalreport.json");
+const linkss5 = require("./filestorage/totalreport5.json");
+const linkss6 = require("./filestorage/totalreport6.json");
+const linkss7 = require("./filestorage/totalreport7.json");
+const linkss8 = require("./filestorage/totalreport8.json");
+const linkss9 = require("./filestorage/totalreport9.json");
+const linkss10 = require("./filestorage/totalreport10.json");
+const linkss11 = require("./filestorage/totalreport11.json");
+const linkss12 = require("./filestorage/totalreport12.json");
+const linkss13 = require("./filestorage/totalreport13.json");
+const linkss14 = require("./filestorage/totalreport14.json");
+const linkss15 = require("./filestorage/totalreport15.json");
+const linkss16 = require("./filestorage/totalreport16.json");
+const linkss17 = require("./filestorage/totalreport17.json");
+const linkss18 = require("./filestorage/totalreport18.json");
+const linkss19 = require("./filestorage/totalreport19.json");
+const linkss20 = require("./filestorage/totalreport20.json");
+const linkss21 = require("./filestorage/totalreport21.json");
+const linkss22 = require("./filestorage/totalreport22.json");
+
 
 
 const app = express()
@@ -45,6 +61,24 @@ app.get('/', (req, res)=> {
         const linkss2 = require("./filestorage/totalreport2.json");
         const linkss3 = require("./filestorage/totalreport3.json");
         const linkss4 = require("./filestorage/totalreport4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -73,6 +107,132 @@ app.get('/', (req, res)=> {
         for (let i = 0; i < linkss4.length; i++) {
             if (linkss4[i].country == quotesId) {
                 result.push(linkss4[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].country == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].country == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].country == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].country == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].country == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].country == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].country == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].country == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].country == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].country == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].country == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].country == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].country == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].country == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].country == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].country == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].country == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].country == quotesId) {
+                result.push(linkss22[i])
 
             }
         }
@@ -162,6 +322,24 @@ app.get('/', (req, res)=> {
         const linkss2 = require("./filestorage/dailyreport2.json");
         const linkss3 = require("./filestorage/dailyreport3.json");
         const linkss4 = require("./filestorage/dailyreport4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -196,6 +374,131 @@ app.get('/', (req, res)=> {
 
 
 
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].country == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].country == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].country == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].country == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].country == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].country == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].country == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].country == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].country == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].country == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].country == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].country == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].country == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].country == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].country == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].country == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].country == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].country == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"
@@ -276,6 +579,24 @@ app.get('/', (req, res)=> {
         const linkss2 = require("./filestorage/countrycases2.json");
         const linkss3 = require("./filestorage/countrycases3.json");
         const linkss4 = require("./filestorage/countrycases4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -309,6 +630,131 @@ app.get('/', (req, res)=> {
         }
 
 
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].countyOfThisCountry == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].countyOfThisCountry == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].countyOfThisCountry == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].countyOfThisCountry == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].countyOfThisCountry == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].countyOfThisCountry == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].countyOfThisCountry == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].countyOfThisCountry == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].countyOfThisCountry == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].countyOfThisCountry == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].countyOfThisCountry == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].countyOfThisCountry == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].countyOfThisCountry == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].countyOfThisCountry == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].countyOfThisCountry == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].countyOfThisCountry == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].countyOfThisCountry == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].countyOfThisCountry == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
         if (result.length == 0) {
 
@@ -404,6 +850,24 @@ app.get('/', (req, res)=> {
         const linkss2 = require("./filestorage/news2.json");
         const linkss3 = require("./filestorage/news3.json");
         const linkss4 = require("./filestorage/news4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -437,6 +901,131 @@ app.get('/', (req, res)=> {
         }
 
 
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].country == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].country == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].country == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].country == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].country == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].country == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].country == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].country == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].country == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].country == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].country == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].country == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].country == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].country == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].country == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].country == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].country == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].country == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
         if (result.length == 0) {
 
@@ -528,6 +1117,24 @@ app.get('/', (req, res)=> {
         const linkss2 = require("./filestorage/news2.json");
         const linkss3 = require("./filestorage/news3.json");
         const linkss4 = require("./filestorage/news4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -560,6 +1167,132 @@ app.get('/', (req, res)=> {
             }
         }
 
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].country == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].country == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].country == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].country == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].country == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].country == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].country == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].country == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].country == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].country == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].country == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].country == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].country == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].country == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].country == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].country == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].country == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].country == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
 
         if (result.length == 0) {
@@ -650,88 +1383,239 @@ function getArraysIntersection(a1,a2){
 }
 
 
-setInterval(overlord, 2000000)
+setInterval(overlord, 60000*120)
 
 
 
 var delayInMilliseconds = 0; //0 minutes
 
-var delayInMilliseconds2 = 720000; //12 minutes
+var delayInMilliseconds2 = 60000*5; //12 minutes
 
-var delayInMilliseconds3 = 1440000; //24 minutes
+var delayInMilliseconds3 = 60000*10; //24 minutes
 
-var delayInMilliseconds4 = 2160000; //36 minutes
+var delayInMilliseconds4 = 60000*15; //36 minutes
+
+var delayInMilliseconds5 = 60000*20; //0 minutes
+
+var delayInMilliseconds6 = 60000*25; //12 minutes
+
+var delayInMilliseconds7 = 60000*30; //24 minutes
+
+var delayInMilliseconds8 = 60000*35; //36 minutes
+
+var delayInMilliseconds9 = 60000*40; //0 minutes
+
+var delayInMilliseconds10 = 60000*45 //12 minutes
+
+var delayInMilliseconds11 = 60000*50; //24 minutes
+
+var delayInMilliseconds12 = 60000*55; //36 minutes
+
+var delayInMilliseconds13 = 60000*60; //0 minutes
+
+var delayInMilliseconds14 = 60000*65; //12 minutes
+
+var delayInMilliseconds15 = 60000*70; //24 minutes
+
+var delayInMilliseconds16 = 60000*75; //36 minutes
+
+var delayInMilliseconds17 = 60000*80; //0 minutes
+
+var delayInMilliseconds18 = 60000*85; //12 minutes
+
+var delayInMilliseconds19 = 60000*90; //24 minutes
+
+var delayInMilliseconds20 = 60000*95; //36 minutes
+
+var delayInMilliseconds21 = 60000*100; //0 minutes
+
+var delayInMilliseconds22 = 60000*105; //12 minutes
+
 
 
 setTimeout(function () {
-    delay()
+    update()
 }, delayInMilliseconds);
 
 setTimeout(function () {
-    delay2()
+    update2()
 }, delayInMilliseconds2);
 
 setTimeout(function () {
-    delay3()
+    update3()
 }, delayInMilliseconds3);
 
 setTimeout(function () {
-    delay4()
+    update4()
 }, delayInMilliseconds4);
+setTimeout(function () {
+    update5()
+}, delayInMilliseconds5);
+
+setTimeout(function () {
+    update6()
+}, delayInMilliseconds6);
+
+setTimeout(function () {
+    update7()
+}, delayInMilliseconds7);
+
+setTimeout(function () {
+    update8()
+}, delayInMilliseconds8);
+
+setTimeout(function () {
+    update9()
+}, delayInMilliseconds9);
+
+setTimeout(function () {
+    update10()
+}, delayInMilliseconds10);
+
+setTimeout(function () {
+    update11()
+}, delayInMilliseconds11);
+
+setTimeout(function () {
+    update12()
+}, delayInMilliseconds12);
+
+setTimeout(function () {
+    update13()
+}, delayInMilliseconds13);
+
+setTimeout(function () {
+    update14()
+}, delayInMilliseconds14);
+
+setTimeout(function () {
+    update15()
+}, delayInMilliseconds15);
+
+setTimeout(function () {
+    update16()
+}, delayInMilliseconds16);
+
+setTimeout(function () {
+    update17()
+}, delayInMilliseconds17);
+
+setTimeout(function () {
+    update18()
+}, delayInMilliseconds18);
+
+setTimeout(function () {
+    update19()
+}, delayInMilliseconds19);
+
+setTimeout(function () {
+    update20()
+}, delayInMilliseconds20);
+setTimeout(function () {
+    update21()
+}, delayInMilliseconds21);
+
+setTimeout(function () {
+    update22()
+}, delayInMilliseconds22);
 
 function overlord() {
     setTimeout(function () {
-        delay()
+        update()
     }, delayInMilliseconds);
 
     setTimeout(function () {
-        delay2()
+        update2()
     }, delayInMilliseconds2);
 
     setTimeout(function () {
-        delay3()
+        update3()
     }, delayInMilliseconds3);
 
     setTimeout(function () {
-        delay4()
+        update4()
     }, delayInMilliseconds4);
+    setTimeout(function () {
+        update5()
+    }, delayInMilliseconds5);
 
+    setTimeout(function () {
+        update6()
+    }, delayInMilliseconds6);
+
+    setTimeout(function () {
+        update7()
+    }, delayInMilliseconds7);
+
+    setTimeout(function () {
+        update8()
+    }, delayInMilliseconds8);
+
+    setTimeout(function () {
+        update9()
+    }, delayInMilliseconds9);
+
+    setTimeout(function () {
+        update10()
+    }, delayInMilliseconds10);
+
+    setTimeout(function () {
+        update11()
+    }, delayInMilliseconds11);
+
+    setTimeout(function () {
+        update12()
+    }, delayInMilliseconds12);
+
+    setTimeout(function () {
+        update13()
+    }, delayInMilliseconds13);
+
+    setTimeout(function () {
+        update14()
+    }, delayInMilliseconds14);
+
+    setTimeout(function () {
+        update15()
+    }, delayInMilliseconds15);
+
+    setTimeout(function () {
+        update16()
+    }, delayInMilliseconds16);
+
+    setTimeout(function () {
+        update17()
+    }, delayInMilliseconds17);
+
+    setTimeout(function () {
+        update18()
+    }, delayInMilliseconds18);
+
+    setTimeout(function () {
+        update19()
+    }, delayInMilliseconds19);
+
+    setTimeout(function () {
+        update20()
+    }, delayInMilliseconds20);
+    setTimeout(function () {
+        update21()
+    }, delayInMilliseconds21);
+
+    setTimeout(function () {
+        update22()
+    }, delayInMilliseconds22);
 }
 
-function delay() {
-    update()
-}
-function delay2() {
-    update2()
-}
 
-function delay3() {
-    update3()
-}
-
-function delay4() {
-  update4()
-}
 
 function update() {
-
     const worker = new Worker('./worker.js')
-
-
     const sourcesArray = []
-
-
     const sourcesArrayresult = []
-
-
     worker.on('message', (data) => {
-
         console.log(data)
         sourcesArray.push(data)
-//    console.log(sourcesArray)
-        //  console.log(data.count)
-    //    console.log("k")
-
     })
 
     worker.on("error", (err) => {
@@ -743,20 +1627,7 @@ function update() {
         console.log('Worker exited')
         console.log(sourcesArrayresult)
         console.log('Worker exited')
-  //      worker.postMessage("Message from parent");
-   //     for (let i = 0; i < links.length; i++) {
-   //         checker.push(links[i].name)
-   //     }
-
-        /*   const worker = new Worker('./worker.js')
-           worker.on('message', (data) => {
-               console.log(data)
-               console.log(data.count)
-               console.log("k")
-           })   */
     });
-
-
 }
 
 
@@ -884,7 +1755,386 @@ function update4(){
     });
 }
 
+function update5() {
+    const worker = new Worker('./worker5.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
 
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update6() {
+    const worker = new Worker('./worker6.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update7() {
+    const worker = new Worker('./worker7.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update8() {
+    const worker = new Worker('./worker8.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update9() {
+    const worker = new Worker('./worker9.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update10() {
+    const worker = new Worker('./worker10.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update11() {
+    const worker = new Worker('./worker11.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update12() {
+    const worker = new Worker('./worker12.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+
+function update13() {
+    const worker = new Worker('./worker13.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update14() {
+    const worker = new Worker('./worker14.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update15() {
+    const worker = new Worker('./worker15.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update16() {
+    const worker = new Worker('./worker16.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update17() {
+    const worker = new Worker('./worker17.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+
+function update18() {
+    const worker = new Worker('./worker18.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+
+function update19() {
+    const worker = new Worker('./worker19.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update20() {
+    const worker = new Worker('./worker20.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update21() {
+    const worker = new Worker('./worker21.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
+
+function update22() {
+    const worker = new Worker('./worker22.js')
+    const sourcesArray = []
+    const sourcesArrayresult = []
+    worker.on('message', (data) => {
+        console.log(data)
+        sourcesArray.push(data)
+    })
+
+    worker.on("error", (err) => {
+        console.error(err);
+    });
+
+    worker.on("exit", () => {
+        sourcesArrayresult.push(sourcesArray)
+        console.log('Worker exited')
+        console.log(sourcesArrayresult)
+        console.log('Worker exited')
+    });
+}
 
   //  const worker1 = new Worker('./worker2.js')
 
@@ -2600,6 +3850,24 @@ function update4(){
         const linkss2 = require("./filestorage/totalreport2.json");
         const linkss3 = require("./filestorage/totalreport3.json");
         const linkss4 = require("./filestorage/totalreport4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -2632,6 +3900,132 @@ function update4(){
             }
         }
 
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].alphaCode == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].alphaCode == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].alphaCode == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].alphaCode == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].alphaCode == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].alphaCode == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].alphaCode == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].alphaCode == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].alphaCode == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].alphaCode == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].alphaCode == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].alphaCode == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].alphaCode == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].alphaCode == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].alphaCode == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].alphaCode == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].alphaCode == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].alphaCode == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
 
         if (result.length == 0) {
@@ -2705,6 +4099,24 @@ function update4(){
         const linkss2 = require("./filestorage/dailyreport2.json");
         const linkss3 = require("./filestorage/dailyreport3.json");
         const linkss4 = require("./filestorage/dailyreport4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -2737,6 +4149,132 @@ function update4(){
             }
         }
 
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].alphaCode == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].alphaCode == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].alphaCode == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].alphaCode == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].alphaCode == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].alphaCode == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].alphaCode == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].alphaCode == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].alphaCode == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].alphaCode == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].alphaCode == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].alphaCode == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].alphaCode == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].alphaCode == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].alphaCode == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].alphaCode == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].alphaCode == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].alphaCode == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
 
         if (result.length == 0) {
@@ -2816,6 +4354,24 @@ function update4(){
         const linkss2 = require("./filestorage/countrycases2.json");
         const linkss3 = require("./filestorage/countrycases3.json");
         const linkss4 = require("./filestorage/countrycases4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -2849,6 +4405,131 @@ function update4(){
         }
 
 
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].alphaCode == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].alphaCode == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].alphaCode == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].alphaCode == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].alphaCode == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].alphaCode == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].alphaCode == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].alphaCode == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].alphaCode == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].alphaCode == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].alphaCode == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].alphaCode == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].alphaCode == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].alphaCode == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].alphaCode == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].alphaCode == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].alphaCode == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].alphaCode == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
         if (result.length == 0) {
 
@@ -3017,6 +4698,24 @@ function update4(){
         const linkss2 = require("./filestorage/news2.json");
         const linkss3 = require("./filestorage/news3.json");
         const linkss4 = require("./filestorage/news4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -3043,12 +4742,138 @@ function update4(){
         }
 
         for (let i = 0; i < linkss4.length; i++) {
-            if (linkss4[i].country == quotesId) {
+            if (linkss4[i].alphaCode == quotesId) {
                 result.push(linkss4[i])
 
             }
         }
 
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].alphaCode == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].alphaCode == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].alphaCode == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].alphaCode == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].alphaCode == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].alphaCode == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].alphaCode == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].alphaCode == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].alphaCode == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].alphaCode == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].alphaCode == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].alphaCode == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].alphaCode == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].alphaCode == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].alphaCode == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].alphaCode == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].alphaCode == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].alphaCode == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
 
         if (result.length == 0) {
@@ -3140,6 +4965,24 @@ function update4(){
         const linkss2 = require("./filestorage/totalreport2.json");
         const linkss3 = require("./filestorage/totalreport3.json");
         const linkss4 = require("./filestorage/totalreport4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -3172,6 +5015,132 @@ function update4(){
             }
         }
 
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].numericCode == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].numericCode == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].numericCode == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].numericCode == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].numericCode == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].numericCode == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].numericCode == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].numericCode == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].numericCode == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].numericCode == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].numericCode == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].numericCode == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].numericCode == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].numericCode == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].numericCode == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].numericCode == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].numericCode == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].numericCode == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
 
         if (result.length == 0) {
@@ -3242,6 +5211,24 @@ function update4(){
         const linkss2 = require("./filestorage/dailyreport2.json");
         const linkss3 = require("./filestorage/dailyreport3.json");
         const linkss4 = require("./filestorage/dailyreport4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -3274,6 +5261,132 @@ function update4(){
             }
         }
 
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].numericCode == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].numericCode == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].numericCode == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].numericCode == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].numericCode == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].numericCode == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].numericCode == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].numericCode == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].numericCode == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].numericCode == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].numericCode == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].numericCode == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].numericCode == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].numericCode == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].numericCode == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].numericCode == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].numericCode == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].numericCode == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
 
         if (result.length == 0) {
@@ -3350,6 +5463,24 @@ function update4(){
         const linkss2 = require("./filestorage/countrycases2.json");
         const linkss3 = require("./filestorage/countrycases3.json");
         const linkss4 = require("./filestorage/countrycases4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -3382,6 +5513,132 @@ function update4(){
             }
         }
 
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].numericCode == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].numericCode == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].numericCode == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].numericCode == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].numericCode == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].numericCode == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].numericCode == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].numericCode == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].numericCode == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].numericCode == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].numericCode == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].numericCode == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].numericCode == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].numericCode == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].numericCode == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].numericCode == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].numericCode == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].numericCode == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
 
         if (result.length == 0) {
@@ -3545,6 +5802,24 @@ function update4(){
         const linkss2 = require("./filestorage/news2.json");
         const linkss3 = require("./filestorage/news3.json");
         const linkss4 = require("./filestorage/news4.json");
+        const linkss5 = require("./filestorage/totalreport5.json");
+        const linkss6 = require("./filestorage/totalreport6.json");
+        const linkss7 = require("./filestorage/totalreport7.json");
+        const linkss8 = require("./filestorage/totalreport8.json");
+        const linkss9 = require("./filestorage/totalreport9.json");
+        const linkss10 = require("./filestorage/totalreport10.json");
+        const linkss11 = require("./filestorage/totalreport11.json");
+        const linkss12 = require("./filestorage/totalreport12.json");
+        const linkss13 = require("./filestorage/totalreport13.json");
+        const linkss14 = require("./filestorage/totalreport14.json");
+        const linkss15 = require("./filestorage/totalreport15.json");
+        const linkss16 = require("./filestorage/totalreport16.json");
+        const linkss17 = require("./filestorage/totalreport17.json");
+        const linkss18 = require("./filestorage/totalreport18.json");
+        const linkss19 = require("./filestorage/totalreport19.json");
+        const linkss20 = require("./filestorage/totalreport20.json");
+        const linkss21 = require("./filestorage/totalreport21.json");
+        const linkss22 = require("./filestorage/totalreport22.json");
 
 
         let result = []
@@ -3577,6 +5852,132 @@ function update4(){
             }
         }
 
+
+        for (let i = 0; i < linkss5.length; i++) {
+            if (linkss5[i].numericCode == quotesId) {
+                result.push(linkss5[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss6.length; i++) {
+            if (linkss6[i].numericCode == quotesId) {
+                result.push(linkss6[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss7.length; i++) {
+            if (linkss7[i].numericCode == quotesId) {
+                result.push(linkss7[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss8.length; i++) {
+            if (linkss8[i].numericCode == quotesId) {
+                result.push(linkss8[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss9.length; i++) {
+            if (linkss9[i].numericCode == quotesId) {
+                result.push(linkss9[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss10.length; i++) {
+            if (linkss10[i].numericCode == quotesId) {
+                result.push(linkss10[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss11.length; i++) {
+            if (linkss11[i].numericCode == quotesId) {
+                result.push(linkss11[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss12.length; i++) {
+            if (linkss12[i].numericCode == quotesId) {
+                result.push(linkss12[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss13.length; i++) {
+            if (linkss13[i].numericCode == quotesId) {
+                result.push(linkss13[i])
+
+            }
+        }
+
+
+        for (let i = 0; i < linkss14.length; i++) {
+            if (linkss14[i].numericCode == quotesId) {
+                result.push(linkss14[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss15.length; i++) {
+            if (linkss15[i].numericCode == quotesId) {
+                result.push(linkss15[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss16.length; i++) {
+            if (linkss16[i].numericCode == quotesId) {
+                result.push(linkss16[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss17.length; i++) {
+            if (linkss17[i].numericCode == quotesId) {
+                result.push(linkss17[i])
+
+            }
+        }
+
+        for (let i = 0; i < linkss18.length; i++) {
+            if (linkss18[i].numericCode == quotesId) {
+                result.push(linkss18[i])
+
+            }
+        }
+        for (let i = 0; i < linkss19.length; i++) {
+            if (linkss19[i].numericCode == quotesId) {
+                result.push(linkss19[i])
+
+            }
+        }
+        for (let i = 0; i < linkss20.length; i++) {
+            if (linkss20[i].numericCode == quotesId) {
+                result.push(linkss20[i])
+
+            }
+        }
+        for (let i = 0; i < linkss21.length; i++) {
+            if (linkss21[i].numericCode == quotesId) {
+                result.push(linkss21[i])
+
+            }
+        }
+        for (let i = 0; i < linkss22.length; i++) {
+            if (linkss22[i].numericCode == quotesId) {
+                result.push(linkss22[i])
+
+            }
+        }
 
 
         if (result.length == 0) {

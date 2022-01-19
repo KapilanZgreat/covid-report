@@ -183,11 +183,10 @@ sources1.forEach(source =>{
 */
 
 
-for (let k = 0; k < 10; k++) {
+for (let k = 70; k < 80; k++) {
     linksfour.push(links[k])
 
 }
-
 
 
 update2()
@@ -267,7 +266,7 @@ function update2() {
                 doses,
                 peopleFullyVaccinated,
                 timestamp: datetime
-             //   totalStats
+                //  totalStats
             })
 
             ///totalreport/country/:quotesId1-------------------------------------------------Total Report-------------------------------------------------------
@@ -444,7 +443,7 @@ function update2() {
                 resultspecificArticles3 = resultspecificArticles3.concat(specificArticles3)
 
                 require('fs').writeFile(
-                    './filestorage/news.json',
+                    './filestorage/news8.json',
 
                     JSON.stringify(resultspecificArticles, null, 2),
 
@@ -460,7 +459,7 @@ function update2() {
                 //    console.error(specificArticles1)
 
                 require('fs').writeFile(
-                    './filestorage/totalreport.json',
+                    './filestorage/totalreport8.json',
 
                     JSON.stringify(resultspecificArticles1, null, 2),
 
@@ -472,7 +471,7 @@ function update2() {
                 );
 
                 require('fs').writeFile(
-                    './filestorage/dailyreport.json',
+                    './filestorage/dailyreport8.json',
 
                     JSON.stringify(resultspecificArticles4, null, 2),
 
@@ -484,7 +483,7 @@ function update2() {
                 );
 
                 require('fs').writeFile(
-                    './filestorage/countrycases.json',
+                    './filestorage/countrycases8.json',
 
                     JSON.stringify(resultspecificArticles3, null, 2),
 
