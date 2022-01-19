@@ -67,8 +67,8 @@ for (var w = 0; w < arr.length; w++) {
 }
 console.log(indexo)
 console.log(largest);
-console.log(Math.abs(new Date() - new Date(linksss14[0].timestamp)))
-console.log(Math.abs(new Date() - new Date(linksss15[0].timestamp)))
+console.log(arr)
+
 
 update2()
 function update2(){
