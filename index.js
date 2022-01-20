@@ -396,10 +396,10 @@ app.get('/', (req, res)=> {
     })
 
 
-    app.get('/dailyreport/country/:quotesId1', (req, res) => {
+    app.get('/dailyreport/country/:quotesId', (req, res) => {
 
 
-        const quotesId1 = req.params.quotesId1
+        const quotesId = req.params.quotesId1
 
         const linkss = require("./filestorage/dailyreport.json");
         const linkss2 = require("./filestorage/dailyreport2.json");

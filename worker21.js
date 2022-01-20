@@ -443,7 +443,7 @@ function update2() {
                 resultspecificArticles3 = resultspecificArticles3.concat(specificArticles3)
 
                 require('fs').writeFile(
-                    './filestorage/news4.json',
+                    './filestorage/news21.json',
 
                     JSON.stringify(resultspecificArticles, null, 2),
 
