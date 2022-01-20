@@ -1,23 +1,13 @@
 [
   {
-    "country": "Central African Republic",
-    "alphaCode": "CAF",
-    "numericCode": "140",
-    "cases": "13,319",
-    "deaths": "108",
-    "doses": "902,347",
-    "peopleFullyVaccinated": "346,270",
-    "timestamp": "2022-01-19T06:00:23.179Z"
-  },
-  {
-    "country": "Bulgaria",
-    "alphaCode": "BGR",
-    "numericCode": "100",
-    "cases": "830,604",
-    "deaths": "32,247",
-    "doses": "4,381,456",
-    "peopleFullyVaccinated": "1,964,692",
-    "timestamp": "2022-01-19T06:00:23.179Z"
+    "country": "Canada",
+    "alphaCode": "CAN",
+    "numericCode": "124",
+    "cases": "2,829,144",
+    "deaths": "31,863",
+    "doses": "74,554,401",
+    "peopleFullyVaccinated": "29,701,817",
+    "timestamp": "2022-01-20T00:43:09.388Z"
   },
   {
     "country": "Brunei",
@@ -27,47 +17,37 @@
     "deaths": "98",
     "doses": "922,950",
     "peopleFullyVaccinated": "401,757",
-    "timestamp": "2022-01-19T06:00:23.179Z"
-  },
-  {
-    "country": "Canada",
-    "alphaCode": "CAN",
-    "numericCode": "124",
-    "cases": "2,815,312",
-    "deaths": "31,750",
-    "doses": "74,310,833",
-    "peopleFullyVaccinated": "29,718,756",
-    "timestamp": "2022-01-19T06:00:23.179Z"
-  },
-  {
-    "country": "Burundi",
-    "alphaCode": "BDI",
-    "numericCode": "108",
-    "cases": "36,654",
-    "deaths": "38",
-    "doses": "9,007",
-    "peopleFullyVaccinated": "3,533",
-    "timestamp": "2022-01-19T06:00:23.179Z"
-  },
-  {
-    "country": "Cayman Islands",
-    "alphaCode": "CYM",
-    "numericCode": "136",
-    "cases": "12,023",
-    "deaths": "15",
-    "doses": "135,232",
-    "peopleFullyVaccinated": "57,585",
-    "timestamp": "2022-01-19T06:00:23.179Z"
+    "timestamp": "2022-01-20T00:43:09.388Z"
   },
   {
     "country": "Cape Verde",
     "alphaCode": "CPV",
     "numericCode": "132",
-    "cases": "54,367",
-    "deaths": "376",
+    "cases": "54,637",
+    "deaths": "378",
     "doses": "611,615",
     "peopleFullyVaccinated": "268,046",
-    "timestamp": "2022-01-19T06:00:23.179Z"
+    "timestamp": "2022-01-20T00:43:09.388Z"
+  },
+  {
+    "country": "Central African Republic",
+    "alphaCode": "CAF",
+    "numericCode": "140",
+    "cases": "13,319",
+    "deaths": "108",
+    "doses": "902,347",
+    "peopleFullyVaccinated": "346,270",
+    "timestamp": "2022-01-20T00:43:09.388Z"
+  },
+  {
+    "country": "Burkina Faso",
+    "alphaCode": "BFA",
+    "numericCode": "854",
+    "cases": "20,290",
+    "deaths": "353",
+    "doses": "1,192,663",
+    "peopleFullyVaccinated": "725,952",
+    "timestamp": "2022-01-20T00:43:09.388Z"
   },
   {
     "country": "Cameroon",
@@ -77,26 +57,46 @@
     "deaths": "1,853",
     "doses": "1,024,333",
     "peopleFullyVaccinated": "663,317",
-    "timestamp": "2022-01-19T06:00:23.179Z"
+    "timestamp": "2022-01-20T00:43:09.388Z"
   },
   {
-    "country": "Burkina Faso",
-    "alphaCode": "BFA",
-    "numericCode": "854",
-    "cases": "20,249",
-    "deaths": "339",
-    "doses": "1,192,663",
-    "peopleFullyVaccinated": "725,952",
-    "timestamp": "2022-01-19T06:00:23.179Z"
+    "country": "Burundi",
+    "alphaCode": "BDI",
+    "numericCode": "108",
+    "cases": "36,736",
+    "deaths": "38",
+    "doses": "9,007",
+    "peopleFullyVaccinated": "3,533",
+    "timestamp": "2022-01-20T00:43:09.388Z"
   },
   {
     "country": "Cambodia",
     "alphaCode": "KHM",
     "numericCode": "116",
-    "cases": "120,825",
+    "cases": "120,847",
     "deaths": "3,015",
-    "doses": "31,639,875",
-    "peopleFullyVaccinated": "13,711,159",
-    "timestamp": "2022-01-19T06:00:23.179Z"
+    "doses": "31,874,687",
+    "peopleFullyVaccinated": "13,720,419",
+    "timestamp": "2022-01-20T00:43:09.388Z"
+  },
+  {
+    "country": "Cayman Islands",
+    "alphaCode": "CYM",
+    "numericCode": "136",
+    "cases": "12,023",
+    "deaths": "15",
+    "doses": "135,232",
+    "peopleFullyVaccinated": "57,585",
+    "timestamp": "2022-01-20T00:43:09.388Z"
+  },
+  {
+    "country": "Bulgaria",
+    "alphaCode": "BGR",
+    "numericCode": "100",
+    "cases": "841,785",
+    "deaths": "32,338",
+    "doses": "4,398,385",
+    "peopleFullyVaccinated": "1,967,200",
+    "timestamp": "2022-01-20T00:43:09.388Z"
   }
 ]

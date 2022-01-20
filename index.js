@@ -396,10 +396,12 @@ app.get('/', (req, res)=> {
     })
 
 
-    app.get('/dailyreport/country/:quotesId', (req, res) => {
+    app.get('/dailyreport/country/:quotesId1', (req, res) => {
 
 
-        const quotesId = req.params.quotesId1
+        const quotesId1 = req.params.quotesId1
+
+        const quotesId = capitalizeFirstLetter(quotesId1);
 
         const linkss = require("./filestorage/dailyreport.json");
         const linkss2 = require("./filestorage/dailyreport2.json");
@@ -582,6 +584,8 @@ app.get('/', (req, res)=> {
 
             }
         }
+
+
         if (result.length == 0) {
 
             result = "Input is not on our Country List. Check for spelling or our countries list: https://drive.google.com/file/d/17b0ACcJlxm356bbqWCIel6bTX4jvncz1/view?usp=sharing"

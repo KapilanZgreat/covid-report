@@ -1,34 +1,12 @@
 [
   {
-    "country": "Costa Rica",
-    "alphaCode": "CRI",
-    "numericCode": "188",
-    "cases2": "Reported yesterday: +10,705",
-    "newCasesLastWeek2": "Jan 4–17: +50,031",
-    "doses2": "",
-    "deaths2": "Reported yesterday: +15",
-    "timestamp": "2022-01-19T06:03:11.615Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 71%"
-  },
-  {
-    "country": "Comoros",
-    "alphaCode": "COM",
-    "numericCode": "174",
-    "cases2": "Reported yesterday: +11",
-    "newCasesLastWeek2": "Jan 4–17: +860",
-    "doses2": "",
-    "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-19T06:03:11.615Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 28.2%"
-  },
-  {
     "country": "Congo, Rep.",
     "alphaCode": "COG",
     "numericCode": "178",
     "cases2": "Reported yesterday: +275",
     "doses2": "",
     "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-19T06:03:11.615Z",
+    "timestamp": "2022-01-20T00:50:54.433Z",
     "percentofpeopleoverpopvaccinated2": "% of population: 10.2%"
   },
   {
@@ -36,76 +14,98 @@
     "alphaCode": "ZAR",
     "numericCode": "180",
     "cases2": "Reported yesterday: +678",
-    "newCasesLastWeek2": "Jan 4–17: +8,191",
+    "newCasesLastWeek2": "Jan 5–18: +4,388",
     "doses2": "",
     "deaths2": "Reported yesterday: +53",
-    "timestamp": "2022-01-19T06:03:11.615Z",
+    "timestamp": "2022-01-20T00:50:54.433Z",
     "percentofpeopleoverpopvaccinated2": "% of population: 0.18%"
   },
   {
     "country": "Côte d'Ivoire",
     "alphaCode": "CIV",
     "numericCode": "384",
-    "cases2": "Reported yesterday: +185",
-    "newCasesLastWeek2": "Jan 4–17: +6,921",
+    "cases2": "Reported yesterday: +162",
+    "newCasesLastWeek2": "Jan 5–18: +5,649",
     "doses2": "",
-    "deaths2": "Reported yesterday: +8",
-    "timestamp": "2022-01-19T06:03:11.615Z",
+    "deaths2": "Reported yesterday: +2",
+    "timestamp": "2022-01-20T00:50:54.433Z",
     "percentofpeopleoverpopvaccinated2": "% of population: 8.9%"
   },
   {
     "country": "Chile",
     "alphaCode": "CHL",
     "numericCode": "152",
-    "cases2": "Reported yesterday: +8,930",
-    "newCasesLastWeek2": "Jan 4–17: +74,243",
+    "cases2": "Reported yesterday: +7,575",
+    "newCasesLastWeek2": "Jan 5–18: +80,767",
     "doses2": "",
-    "deaths2": "Reported yesterday: +32",
-    "timestamp": "2022-01-19T06:03:11.615Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 87.7%"
-  },
-  {
-    "country": "Croatia",
-    "alphaCode": "HRV",
-    "numericCode": "191",
-    "cases2": "Reported yesterday: +1,397",
-    "newCasesLastWeek2": "Jan 4–17: +96,778",
-    "doses2": "",
-    "deaths2": "Reported yesterday: +39",
-    "timestamp": "2022-01-19T06:03:11.615Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 53.6%"
-  },
-  {
-    "country": "Chad",
-    "alphaCode": "TCD",
-    "numericCode": "148",
-    "cases2": "Reported yesterday: +329",
-    "newCasesLastWeek2": "Jan 4–17: +704",
-    "doses2": "",
-    "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-19T06:03:11.615Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 0.59%"
+    "deaths2": "Reported yesterday: +1",
+    "timestamp": "2022-01-20T00:50:54.433Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 87.8%"
   },
   {
     "country": "China",
     "alphaCode": "CHN",
     "numericCode": "156",
-    "cases2": "Reported yesterday: +171",
-    "newCasesLastWeek2": "Jan 4–17: +2,417",
+    "cases2": "Reported yesterday: +87",
+    "newCasesLastWeek2": "Jan 5–18: +2,413",
     "doses2": "",
     "deaths2": "Reported yesterday: +0",
-    "timestamp": "2022-01-19T06:03:11.615Z",
+    "timestamp": "2022-01-20T00:50:54.433Z",
     "percentofpeopleoverpopvaccinated2": "% of population: 86.1%"
+  },
+  {
+    "country": "Chad",
+    "alphaCode": "TCD",
+    "numericCode": "148",
+    "cases2": "Reported yesterday: +2",
+    "newCasesLastWeek2": "Jan 5–18: +704",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-20T00:50:54.433Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 0.59%"
   },
   {
     "country": "Colombia",
     "alphaCode": "COL",
     "numericCode": "170",
-    "cases2": "Reported yesterday: +24,272",
-    "newCasesLastWeek2": "Jan 4–17: +377,047",
+    "cases2": "Reported yesterday: +28,849",
+    "newCasesLastWeek2": "Jan 5–18: +393,543",
     "doses2": "",
-    "deaths2": "Reported yesterday: +134",
-    "timestamp": "2022-01-19T06:03:11.615Z",
-    "percentofpeopleoverpopvaccinated2": "% of population: 60.4%"
+    "deaths2": "Reported yesterday: +138",
+    "timestamp": "2022-01-20T00:50:54.433Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 60.6%"
+  },
+  {
+    "country": "Croatia",
+    "alphaCode": "HRV",
+    "numericCode": "191",
+    "cases2": "Reported yesterday: +7,548",
+    "newCasesLastWeek2": "Jan 5–18: +98,481",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +55",
+    "timestamp": "2022-01-20T00:50:54.433Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 53.6%"
+  },
+  {
+    "country": "Costa Rica",
+    "alphaCode": "CRI",
+    "numericCode": "188",
+    "cases2": "Reported yesterday: +5,365",
+    "newCasesLastWeek2": "Jan 5–18: +50,081",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +4",
+    "timestamp": "2022-01-20T00:50:54.433Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 71.7%"
+  },
+  {
+    "country": "Comoros",
+    "alphaCode": "COM",
+    "numericCode": "174",
+    "cases2": "Reported yesterday: +4",
+    "newCasesLastWeek2": "Jan 5–18: +703",
+    "doses2": "",
+    "deaths2": "Reported yesterday: +0",
+    "timestamp": "2022-01-20T00:50:54.433Z",
+    "percentofpeopleoverpopvaccinated2": "% of population: 28.2%"
   }
 ]

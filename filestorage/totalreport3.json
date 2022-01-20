@@ -7,7 +7,7 @@
     "deaths": "110",
     "doses": "115,425",
     "peopleFullyVaccinated": "45,670",
-    "timestamp": "2022-01-19T05:55:08.135Z"
+    "timestamp": "2022-01-20T00:34:43.803Z"
   },
   {
     "country": "British Virgin Islands",
@@ -17,27 +17,47 @@
     "deaths": "47",
     "doses": "36,134",
     "peopleFullyVaccinated": "17,119",
-    "timestamp": "2022-01-19T05:55:08.135Z"
+    "timestamp": "2022-01-20T00:34:43.803Z"
+  },
+  {
+    "country": "Bolivia",
+    "alphaCode": "BOL",
+    "numericCode": "068",
+    "cases": "763,392",
+    "deaths": "20,291",
+    "doses": "11,289,634",
+    "peopleFullyVaccinated": "4,984,453",
+    "timestamp": "2022-01-20T00:34:43.803Z"
+  },
+  {
+    "country": "Bhutan",
+    "alphaCode": "BTN",
+    "numericCode": "064",
+    "cases": "3,170",
+    "deaths": "3",
+    "doses": "1,161,581",
+    "peopleFullyVaccinated": "569,017",
+    "timestamp": "2022-01-20T00:34:43.803Z"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "alphaCode": "BIH",
+    "numericCode": "070",
+    "cases": "321,034",
+    "deaths": "13,888",
+    "doses": "1,625,844",
+    "peopleFullyVaccinated": "720,631",
+    "timestamp": "2022-01-20T00:34:43.803Z"
   },
   {
     "country": "Belize",
     "alphaCode": "BLZ",
     "numericCode": "084",
-    "cases": "41,867",
+    "cases": "43,115",
     "deaths": "611",
     "doses": "435,465",
     "peopleFullyVaccinated": "201,372",
-    "timestamp": "2022-01-19T05:55:08.135Z"
-  },
-  {
-    "country": "Botswana",
-    "alphaCode": "BWA",
-    "numericCode": "072",
-    "cases": "239,887",
-    "deaths": "2,534",
-    "doses": "2,210,690",
-    "peopleFullyVaccinated": "1,039,113",
-    "timestamp": "2022-01-19T05:55:08.135Z"
+    "timestamp": "2022-01-20T00:34:43.803Z"
   },
   {
     "country": "Benin",
@@ -47,56 +67,36 @@
     "deaths": "162",
     "doses": "1,897,214",
     "peopleFullyVaccinated": "1,421,442",
-    "timestamp": "2022-01-19T05:55:08.135Z"
+    "timestamp": "2022-01-20T00:34:43.803Z"
   },
   {
-    "country": "Bosnia and Herzegovina",
-    "alphaCode": "BIH",
-    "numericCode": "070",
-    "cases": "317,692",
-    "deaths": "13,841",
-    "doses": "1,625,844",
-    "peopleFullyVaccinated": "720,631",
-    "timestamp": "2022-01-19T05:55:08.135Z"
-  },
-  {
-    "country": "Bhutan",
-    "alphaCode": "BTN",
-    "numericCode": "064",
-    "cases": "3,069",
-    "deaths": "3",
-    "doses": "1,161,581",
-    "peopleFullyVaccinated": "569,017",
-    "timestamp": "2022-01-19T05:55:08.135Z"
-  },
-  {
-    "country": "Bolivia",
-    "alphaCode": "BOL",
-    "numericCode": "068",
-    "cases": "754,335",
-    "deaths": "20,254",
-    "doses": "11,038,398",
-    "peopleFullyVaccinated": "4,903,386",
-    "timestamp": "2022-01-19T05:55:08.135Z"
+    "country": "Botswana",
+    "alphaCode": "BWA",
+    "numericCode": "072",
+    "cases": "239,887",
+    "deaths": "2,534",
+    "doses": "2,210,690",
+    "peopleFullyVaccinated": "1,039,113",
+    "timestamp": "2022-01-20T00:34:43.803Z"
   },
   {
     "country": "Brazil",
     "alphaCode": "BRA",
     "numericCode": "076",
-    "cases": "23,089,509",
-    "deaths": "621,478",
-    "doses": "347,329,271",
-    "peopleFullyVaccinated": "147,223,765",
-    "timestamp": "2022-01-19T05:55:08.135Z"
+    "cases": "23,229,851",
+    "deaths": "621,803",
+    "doses": "348,164,653",
+    "peopleFullyVaccinated": "147,536,850",
+    "timestamp": "2022-01-20T00:34:43.803Z"
   },
   {
     "country": "Belgium-Luxembourg",
     "alphaCode": "BLX",
     "numericCode": "058",
-    "cases": "127,765",
-    "deaths": "938",
+    "cases": "129,092",
+    "deaths": "940",
     "doses": "1,183,342",
     "peopleFullyVaccinated": "429,705",
-    "timestamp": "2022-01-19T05:55:08.135Z"
+    "timestamp": "2022-01-20T00:34:43.803Z"
   }
 ]
